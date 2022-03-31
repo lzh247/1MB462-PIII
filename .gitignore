@@ -1,0 +1,12 @@
+# Ignore ALL .log files
+*.log
+
+# Ignore ALL files in ANY directory named data
+data/
+
+# Ignore ALL files with extended genetic data
+*.fastq
+*.fastq.gz
+*.fastq.zip
+*.fasta
+*.fa

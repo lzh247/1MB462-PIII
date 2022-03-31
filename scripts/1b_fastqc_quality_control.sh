@@ -22,18 +22,18 @@ OUTDIR="/home/lihu6475/1MB462-PIII/analyses/1_fastqc_quality_control"
 # Run FastQC trimmed DNA
 for file in $SEQDIR/DNA_trimmed/*
 do
-fastqc $file -o $OUTDIR/
+fastqc $file -o $OUTDIR/DNA_trimmed_fastqc/
 done
 
 # Run FastQC untrimmed DNA
 for file in $SEQDIR/RNA_untrimmed/*
 do
-fastqc $file -o $OUTDIR/
+fastqc $file -o $OUTDIR/RNA_untrimmed_fastqc/
 done
 
 # Run FastQC on trimmed RNA
 for file in $SEQDIR/RNA_trimmed/*
 do
-fastqc $file -o $OUTDIR/
+fastqc $file -o $OUTDIR/RNA_trimmed_fastqc/
 done
 
