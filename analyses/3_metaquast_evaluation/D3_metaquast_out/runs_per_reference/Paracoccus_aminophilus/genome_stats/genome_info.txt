@@ -1,0 +1,19 @@
+reference chromosomes:
+	Paracoccus_aminophilus_NC_022041.1 (total length: 3613807 bp, total length without N's: 3613807 bp, maximal covered length: 1208 bp)
+	Paracoccus_aminophilus_NC_022042.1 (total length: 118164 bp, total length without N's: 118164 bp, maximal covered length: 420 bp)
+	Paracoccus_aminophilus_NC_022043.1 (total length: 294017 bp, total length without N's: 294017 bp, maximal covered length: 0 bp)
+	Paracoccus_aminophilus_NC_022044.1 (total length: 206583 bp, total length without N's: 206583 bp, maximal covered length: 0 bp)
+	Paracoccus_aminophilus_NC_022049.1 (total length: 438126 bp, total length without N's: 438126 bp, maximal covered length: 0 bp)
+	Paracoccus_aminophilus_NC_022050.1 (total length: 202421 bp, total length without N's: 202421 bp, maximal covered length: 0 bp)
+
+total genome size: 4873118
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Paracoc | 0.033     | 2.314       | 16        | -         | -         | -         | -         |

@@ -1,0 +1,74 @@
+marine_gamma_proteobacterium_HTCC2080_AAVV01000001.1
+1 121619
+121709 177835
+177912 230464
+230569 230635
+230813 232076
+232143 232289
+232367 247580
+247799 391389
+391568 465767
+marine_gamma_proteobacterium_HTCC2080_AAVV01000002.1
+1 85275
+85353 91762
+91856 315245
+marine_gamma_proteobacterium_HTCC2080_AAVV01000003.1
+1 308910
+marine_gamma_proteobacterium_HTCC2080_AAVV01000004.1
+1 308854
+marine_gamma_proteobacterium_HTCC2080_AAVV01000005.1
+1 102722
+102805 278497
+marine_gamma_proteobacterium_HTCC2080_AAVV01000006.1
+1 64749
+64835 158018
+158109 274231
+marine_gamma_proteobacterium_HTCC2080_AAVV01000007.1
+1 250794
+251006 262399
+marine_gamma_proteobacterium_HTCC2080_AAVV01000008.1
+1 205524
+marine_gamma_proteobacterium_HTCC2080_AAVV01000009.1
+1 173243
+marine_gamma_proteobacterium_HTCC2080_AAVV01000010.1
+1 122926
+122996 159550
+marine_gamma_proteobacterium_HTCC2080_AAVV01000011.1
+1 68066
+68187 97814
+97894 140154
+marine_gamma_proteobacterium_HTCC2080_AAVV01000012.1
+1 131677
+marine_gamma_proteobacterium_HTCC2080_AAVV01000013.1
+1 20065
+20159 23631
+23796 97988
+marine_gamma_proteobacterium_HTCC2080_AAVV01000014.1
+1 97480
+marine_gamma_proteobacterium_HTCC2080_AAVV01000015.1
+1 29538
+31157 31249
+31401 32086
+34622 79359
+marine_gamma_proteobacterium_HTCC2080_AAVV01000016.1
+1 61025
+marine_gamma_proteobacterium_HTCC2080_AAVV01000017.1
+1 42359
+marine_gamma_proteobacterium_HTCC2080_AAVV01000018.1
+1 41648
+marine_gamma_proteobacterium_HTCC2080_AAVV01000019.1
+1 38556
+marine_gamma_proteobacterium_HTCC2080_AAVV01000020.1
+1 15769
+15852 35841
+marine_gamma_proteobacterium_HTCC2080_AAVV01000021.1
+1 25118
+25219 33954
+marine_gamma_proteobacterium_HTCC2080_AAVV01000022.1
+1 15420
+marine_gamma_proteobacterium_HTCC2080_AAVV01000023.1
+1 4220
+marine_gamma_proteobacterium_HTCC2080_AAVV01000024.1
+1 3041
+marine_gamma_proteobacterium_HTCC2080_AAVV01000025.1
+1 1139

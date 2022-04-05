@@ -1,0 +1,195 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Thioalkalivibrio_sp._ALJ17_NC_011901.1]
+	Total Regions: 1
+	Total Region Length: 3464554
+Analyzing contigs...
+CONTIG: k105_1432 (871bp)
+		This contig is unaligned. (871 bp)
+		Unaligned bases: 871 (number of Ns: 0)
+
+CONTIG: k105_47103 (33683bp)
+Best alignment score: 83.0 (LEN: 83, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 33600
+		This contig is partially unaligned. (Aligned 83 out of 33683 non-N bases (0.25%))
+		Alignment: 976262 976344 | 16586 16668 | 83 83 | 100.0 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_47103
+		Unaligned bases: 1 to 16585 (16585)
+		Unaligned bases: 16669 to 33683 (17015)
+
+CONTIG: k105_25981 (1377bp)
+Best alignment score: 71.0 (LEN: 74, IDY: 95.95), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 1303
+		This contig is partially unaligned. (Aligned 74 out of 1377 non-N bases (5.37%))
+		Alignment: 2545532 2545605 | 460 533 | 74 74 | 95.95 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_25981
+		Unaligned bases: 1 to 459 (459)
+		Unaligned bases: 534 to 1377 (844)
+
+CONTIG: k105_80315 (792bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 718
+		Alignment: 2462113 2462186 | 567 494 | 74 74 | 98.65 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_80315
+
+CONTIG: k105_102505 (758bp)
+Best alignment score: 163.0 (LEN: 171, IDY: 95.32), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 163.0, number of alignments: 1, unaligned bases: 587
+		This contig is partially unaligned. (Aligned 171 out of 758 non-N bases (22.56%))
+		Alignment: 2547166 2547336 | 171 1 | 171 171 | 95.32 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_102505
+		Unaligned bases: 172 to 758 (587)
+
+CONTIG: k105_81346 (838bp)
+Best alignment score: 84.0 (LEN: 86, IDY: 97.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 752
+		Alignment: 401812 401897 | 435 520 | 86 86 | 97.67 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_81346
+
+CONTIG: k105_70358 (1135bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 1058
+		This contig is partially unaligned. (Aligned 77 out of 1135 non-N bases (6.78%))
+		Alignment: 2928126 2928202 | 997 921 | 77 77 | 100.0 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_70358
+		Unaligned bases: 1 to 920 (920)
+		Unaligned bases: 998 to 1135 (138)
+
+CONTIG: k105_60236 (24405bp)
+Best alignment score: 83.0 (LEN: 83, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 24322
+		This contig is partially unaligned. (Aligned 83 out of 24405 non-N bases (0.34%))
+		Alignment: 976262 976344 | 11662 11580 | 83 83 | 100.0 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_60236
+		Unaligned bases: 1 to 11579 (11579)
+		Unaligned bases: 11663 to 24405 (12743)
+
+CONTIG: k105_49523 (603bp)
+Best alignment score: 101.0 (LEN: 105, IDY: 96.19), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 101.0, number of alignments: 1, unaligned bases: 498
+		Alignment: 2549400 2549504 | 88 192 | 105 105 | 96.19 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_49523
+
+CONTIG: k105_170180 (1865bp)
+Best alignment score: 79.0 (LEN: 80, IDY: 98.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1785
+		This contig is partially unaligned. (Aligned 80 out of 1865 non-N bases (4.29%))
+		Alignment: 1015536 1015615 | 1214 1135 | 80 80 | 98.75 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_170180
+		Unaligned bases: 1 to 1134 (1134)
+		Unaligned bases: 1215 to 1865 (651)
+
+CONTIG: k105_137190 (780bp)
+Best alignment score: 85.0 (LEN: 89, IDY: 95.51), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2461610 2461698 | 521 433 | 89 89 | 95.51 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_137190
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 691
+		Alignment: 2445120 2445208 | 521 433 | 89 89 | 95.51 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_137190
+
+CONTIG: k105_115764 (598bp)
+Best alignment score: 535.1 (LEN: 561, IDY: 95.38), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 535.1, number of alignments: 1, unaligned bases: 37
+		Alignment: 2548545 2549107 | 598 38 | 563 561 | 95.38 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_115764
+
+CONTIG: k105_105240 (515bp)
+Best alignment score: 183.0 (LEN: 190, IDY: 96.32), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 183.0, number of alignments: 1, unaligned bases: 325
+		Alignment: 2545103 2545292 | 326 515 | 190 190 | 96.32 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_105240
+
+CONTIG: k105_138708 (2426bp)
+Best alignment score: 75.0 (LEN: 77, IDY: 97.40), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 2349
+		This contig is partially unaligned. (Aligned 77 out of 2426 non-N bases (3.17%))
+		Alignment: 1008040 1008116 | 362 286 | 77 77 | 97.4 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_138708
+		Unaligned bases: 1 to 285 (285)
+		Unaligned bases: 363 to 2426 (2064)
+
+CONTIG: k105_105762 (628bp)
+Best alignment score: 85.0 (LEN: 89, IDY: 95.51), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 539
+		Alignment: 2548656 2548744 | 139 51 | 89 89 | 95.51 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_105762
+
+CONTIG: k105_128061 (1282bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 1199
+		This contig is partially unaligned. (Aligned 83 out of 1282 non-N bases (6.47%))
+		Alignment: 976262 976344 | 1136 1218 | 83 83 | 98.8 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_128061
+		Unaligned bases: 1 to 1135 (1135)
+		Unaligned bases: 1219 to 1282 (64)
+
+CONTIG: k105_31458 (901bp)
+Best alignment score: 78.0 (LEN: 82, IDY: 95.12), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 819
+		This contig is partially unaligned. (Aligned 82 out of 901 non-N bases (9.10%))
+		Alignment: 2548246 2548327 | 257 338 | 82 82 | 95.12 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_31458
+		Unaligned bases: 1 to 256 (256)
+		Unaligned bases: 339 to 901 (563)
+
+CONTIG: k105_74184 (1536bp)
+Best alignment score: 75.0 (LEN: 77, IDY: 97.40), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1459
+		This contig is partially unaligned. (Aligned 77 out of 1536 non-N bases (5.01%))
+		Alignment: 1015433 1015509 | 266 342 | 77 77 | 97.4 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_74184
+		Unaligned bases: 1 to 265 (265)
+		Unaligned bases: 343 to 1536 (1194)
+
+CONTIG: k105_41422 (266140bp)
+Best alignment score: 103.0 (LEN: 108, IDY: 95.37), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 103.0, number of alignments: 1, unaligned bases: 266032
+		This contig is partially unaligned. (Aligned 108 out of 266140 non-N bases (0.04%))
+		Alignment: 1076352 1076459 | 140089 139982 | 108 108 | 95.37 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_41422
+		Unaligned bases: 1 to 139981 (139981)
+		Unaligned bases: 140090 to 266140 (126051)
+
+CONTIG: k105_21266 (841bp)
+Best alignment score: 74.0 (LEN: 76, IDY: 97.37), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 765
+		Alignment: 2547919 2547994 | 428 503 | 76 76 | 97.37 | Thioalkalivibrio_sp._ALJ17_NC_011901.1 k105_21266
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Thioalkalivibrio_sp._ALJ17/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Thioalkalivibrio_sp._ALJ17/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 11 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 335384
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 780
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2012
+
+	SNPs: 74
+	Insertions: 0
+	Deletions: 2
+

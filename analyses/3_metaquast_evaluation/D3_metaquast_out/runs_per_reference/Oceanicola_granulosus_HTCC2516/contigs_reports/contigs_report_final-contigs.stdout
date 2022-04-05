@@ -1,0 +1,237 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_AAOT01000082.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_AAOT01000083.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_AAOT01000084.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724107.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724108.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724109.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724110.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724111.1]
+	Loaded [Oceanicola_granulosus_HTCC2516_NZ_CH724112.1]
+	Total Regions: 9
+	Total Region Length: 4053139
+Analyzing contigs...
+CONTIG: k105_11304 (1671bp)
+		This contig is unaligned. (1671 bp)
+		Unaligned bases: 1671 (number of Ns: 0)
+
+CONTIG: k105_120126 (23416bp)
+		This contig is unaligned. (23416 bp)
+		Unaligned bases: 23416 (number of Ns: 0)
+
+CONTIG: k105_12416 (702bp)
+Best alignment score: 188.0 (LEN: 196, IDY: 95.92), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5266 5461 | 19 214 | 196 196 | 95.92 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_12416
+		Skipping redundant alignment 2598371 2598566 | 19 214 | 196 196 | 95.92 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_12416
+		Skipping redundant alignment 735902 736097 | 19 214 | 196 196 | 95.92 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_12416
+		Skipping redundant alignment 5719 5805 | 462 548 | 87 87 | 97.7 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_12416
+		Skipping redundant alignment 2598824 2598910 | 462 548 | 87 87 | 97.7 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_12416
+		Skipping redundant alignment 736355 736441 | 462 548 | 87 87 | 97.7 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_12416
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 273.0, number of alignments: 2, unaligned bases: 419
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 702 (number of Ns: 0) and total length of all aligns is 283
+		Alignment: 5266 5461 | 19 214 | 196 196 | 95.92 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_12416
+		Alignment: 5719 5805 | 462 548 | 87 87 | 97.7 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_12416
+		Unaligned bases: 419
+
+CONTIG: k105_77693 (1678bp)
+Best alignment score: 174.0 (LEN: 180, IDY: 96.67), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2996 3175 | 197 18 | 180 180 | 96.67 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_77693
+		Skipping redundant alignment 733632 733811 | 197 18 | 180 180 | 96.67 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_77693
+		Skipping redundant alignment 2596101 2596280 | 197 18 | 180 180 | 96.67 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_77693
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 174.0, number of alignments: 1, unaligned bases: 1498
+		This contig is partially unaligned. (Aligned 180 out of 1678 non-N bases (10.73%))
+		Alignment: 2996 3175 | 197 18 | 180 180 | 96.67 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_77693
+		Unaligned bases: 1 to 17 (17)
+		Unaligned bases: 198 to 1678 (1481)
+
+CONTIG: k105_142940 (690bp)
+Best alignment score: 81.0 (LEN: 81, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 609
+		Alignment: 44494 44574 | 456 376 | 81 81 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_142940
+
+CONTIG: k105_112744 (588bp)
+Best alignment score: 100.0 (LEN: 103, IDY: 97.09), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5074 5176 | 585 483 | 103 103 | 97.09 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_112744
+		Skipping redundant alignment 2598179 2598281 | 585 483 | 103 103 | 97.09 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_112744
+		Skipping redundant alignment 735710 735812 | 585 483 | 103 103 | 97.09 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_112744
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 100.0, number of alignments: 1, unaligned bases: 485
+		Alignment: 5074 5176 | 585 483 | 103 103 | 97.09 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_112744
+
+CONTIG: k105_134775 (575bp)
+Best alignment score: 439.0 (LEN: 456, IDY: 96.27), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4790 5245 | 456 1 | 456 456 | 96.27 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_134775
+		Skipping redundant alignment 735426 735881 | 456 1 | 456 456 | 96.27 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_134775
+		Skipping redundant alignment 2597895 2598350 | 456 1 | 456 456 | 96.27 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_134775
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 439.0, number of alignments: 1, unaligned bases: 119
+		Alignment: 4790 5245 | 456 1 | 456 456 | 96.27 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_134775
+
+CONTIG: k105_81497 (1201bp)
+Best alignment score: 96.0 (LEN: 97, IDY: 98.97), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 1104
+		This contig is partially unaligned. (Aligned 97 out of 1201 non-N bases (8.08%))
+		Alignment: 2011937 2012033 | 243 339 | 97 97 | 98.97 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_81497
+		Unaligned bases: 1 to 242 (242)
+		Unaligned bases: 340 to 1201 (862)
+
+CONTIG: k105_158827 (1056bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4773 4855 | 737 655 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_158827
+		Skipping redundant alignment 4773 4855 | 737 655 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_158827
+		Skipping redundant alignment 735409 735491 | 737 655 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_158827
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 973
+		This contig is partially unaligned. (Aligned 83 out of 1056 non-N bases (7.86%))
+		Alignment: 2597878 2597960 | 737 655 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_158827
+		Unaligned bases: 1 to 654 (654)
+		Unaligned bases: 738 to 1056 (319)
+
+CONTIG: k105_82529 (554bp)
+Best alignment score: 95.0 (LEN: 98, IDY: 96.94), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2597549 2597646 | 174 271 | 98 98 | 96.94 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_82529
+		Skipping redundant alignment 4444 4541 | 174 271 | 98 98 | 96.94 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_82529
+		Skipping redundant alignment 4444 4541 | 174 271 | 98 98 | 96.94 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_82529
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 456
+		Alignment: 735080 735177 | 174 271 | 98 98 | 96.94 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_82529
+
+CONTIG: k105_94614 (534bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4446 4528 | 338 256 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_94614
+		Skipping redundant alignment 735082 735164 | 338 256 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_94614
+		Skipping redundant alignment 2597551 2597633 | 338 256 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_94614
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 451
+		Alignment: 4446 4528 | 338 256 | 83 83 | 95.18 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_94614
+
+CONTIG: k105_9486 (842bp)
+Best alignment score: 151.0 (LEN: 153, IDY: 98.69), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3654 3806 | 842 690 | 153 153 | 98.69 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_9486
+		Skipping redundant alignment 734290 734442 | 842 690 | 153 153 | 98.69 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_9486
+		Skipping redundant alignment 3654 3806 | 842 690 | 153 153 | 98.69 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_9486
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 151.0, number of alignments: 1, unaligned bases: 689
+		This contig is partially unaligned. (Aligned 153 out of 842 non-N bases (18.17%))
+		Alignment: 2596759 2596911 | 842 690 | 153 153 | 98.69 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_9486
+		Unaligned bases: 1 to 689 (689)
+
+CONTIG: k105_31522 (684bp)
+Best alignment score: 305.0 (LEN: 314, IDY: 97.13), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2598246 2598559 | 684 371 | 314 314 | 97.13 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_31522
+		Skipping redundant alignment 5141 5454 | 684 371 | 314 314 | 97.13 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_31522
+		Skipping redundant alignment 5141 5454 | 684 371 | 314 314 | 97.13 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_31522
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 305.0, number of alignments: 1, unaligned bases: 370
+		Alignment: 735777 736090 | 684 371 | 314 314 | 97.13 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_31522
+
+CONTIG: k105_85594 (789bp)
+Best alignment score: 365.1 (LEN: 379, IDY: 96.33), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2239 2315 | 233 157 | 77 77 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_85594
+		Skipping redundant alignment 2239 2315 | 233 157 | 77 77 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_85594
+		Skipping redundant alignment 732875 732951 | 233 157 | 77 77 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_85594
+		Skipping redundant alignment 1462 1842 | 785 407 | 381 379 | 96.33 | Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 k105_85594
+		Skipping redundant alignment 732098 732478 | 785 407 | 381 379 | 96.33 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_85594
+		Skipping redundant alignment 1462 1842 | 785 407 | 381 379 | 96.33 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_85594
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 435.1, number of alignments: 2, unaligned bases: 333
+		This contig is misassembled.
+			Real Alignment 1: 2595344 2595420 | 233 157 | 77 77 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_85594
+			  Gap between these two alignments (local misassembly). Inconsistency = 223
+			Real Alignment 2: 2594567 2594947 | 785 407 | 381 379 | 96.33 | Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 k105_85594
+
+CONTIG: k105_87549 (1022bp)
+Best alignment score: 67.0 (LEN: 67, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 67.0, number of alignments: 1, unaligned bases: 955
+		This contig is partially unaligned. (Aligned 67 out of 1022 non-N bases (6.56%))
+		Alignment: 602521 602587 | 693 627 | 67 67 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_87549
+		Unaligned bases: 1 to 626 (626)
+		Unaligned bases: 694 to 1022 (329)
+
+CONTIG: k105_134928 (1407bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1331
+		This contig is partially unaligned. (Aligned 76 out of 1407 non-N bases (5.40%))
+		Alignment: 724679 724754 | 670 745 | 76 76 | 100.0 | Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 k105_134928
+		Unaligned bases: 1 to 669 (669)
+		Unaligned bases: 746 to 1407 (662)
+
+CONTIG: k105_63693 (502bp)
+Best alignment score: 91.0 (LEN: 93, IDY: 97.85), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 409
+		Alignment: 763 855 | 162 254 | 93 93 | 97.85 | Oceanicola_granulosus_HTCC2516_NZ_AAOT01000084.1 k105_63693
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Oceanicola_granulosus_HTCC2516/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Oceanicola_granulosus_HTCC2516/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 2 + 6 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 31637
+
+Ambiguously Mapped Contigs: 10
+Total Bases in Ambiguously Mapped Contigs: 8002
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2625
+
+	SNPs: 73
+	Insertions: 0
+	Deletions: 2
+

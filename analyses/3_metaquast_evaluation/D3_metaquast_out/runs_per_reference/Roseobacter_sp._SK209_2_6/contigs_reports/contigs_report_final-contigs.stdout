@@ -1,0 +1,304 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000002.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000003.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000004.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000005.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000006.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000007.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000008.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000010.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000012.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000013.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000014.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000016.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000017.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000018.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000019.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000020.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000021.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000022.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000023.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000024.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000025.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000026.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000028.1]
+	Loaded [Roseobacter_sp._SK209_2_6_NZ_AAYC01000029.1]
+	Total Regions: 29
+	Total Region Length: 4555826
+Analyzing contigs...
+CONTIG: k105_77693 (1678bp)
+		This contig is unaligned. (1678 bp)
+		Unaligned bases: 1678 (number of Ns: 0)
+
+CONTIG: k105_91500 (736bp)
+Best alignment score: 377.1 (LEN: 394, IDY: 95.71), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 56940 57333 | 343 736 | 394 394 | 95.71 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_91500
+		Skipping redundant alignment 5362 5755 | 736 343 | 394 394 | 95.71 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_91500
+		Skipping redundant alignment 174502 174895 | 736 343 | 394 394 | 95.71 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_91500
+		Skipping redundant alignment 70219 70612 | 343 736 | 394 394 | 95.71 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_91500
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 377.1, number of alignments: 1, unaligned bases: 342
+		Alignment: 206322 206715 | 343 736 | 394 394 | 95.71 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_91500
+
+CONTIG: k105_134775 (575bp)
+Best alignment score: 441.0 (LEN: 452, IDY: 97.57), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 169913 170364 | 1 452 | 452 452 | 97.57 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_134775
+		Skipping redundant alignment 210853 211304 | 452 1 | 452 452 | 97.57 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_134775
+		Skipping redundant alignment 74748 75199 | 452 1 | 452 452 | 97.57 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_134775
+		Skipping redundant alignment 61471 61922 | 452 1 | 452 452 | 97.57 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_134775
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 441.0, number of alignments: 1, unaligned bases: 123
+		Alignment: 773 1224 | 1 452 | 452 452 | 97.57 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_134775
+
+CONTIG: k105_80700 (1125bp)
+Best alignment score: 377.0 (LEN: 396, IDY: 95.20), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2632 3026 | 3 397 | 395 395 | 95.44 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_80700
+		Skipping redundant alignment 171772 172166 | 3 397 | 395 395 | 95.44 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_80700
+		Skipping redundant alignment 72945 73340 | 398 3 | 396 396 | 95.2 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_80700
+		Skipping redundant alignment 209050 209445 | 398 3 | 396 396 | 95.2 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_80700
+		Skipping redundant alignment 3097 3228 | 468 599 | 132 132 | 96.21 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_80700
+		Skipping redundant alignment 172237 172368 | 468 599 | 132 132 | 96.21 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_80700
+		Skipping redundant alignment 72744 72875 | 599 468 | 132 132 | 96.21 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_80700
+		Skipping redundant alignment 208849 208980 | 599 468 | 132 132 | 96.21 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_80700
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 504.0, number of alignments: 2, unaligned bases: 597
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 528 out of 1125 non-N bases (46.93%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1125 (number of Ns: 0) and total length of all aligns is 528
+		Alignment: 59668 60063 | 398 3 | 396 396 | 95.2 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_80700
+		Alignment: 59467 59598 | 599 468 | 132 132 | 96.21 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_80700
+		Unaligned bases: 597
+
+CONTIG: k105_80757 (599bp)
+Best alignment score: 166.0 (LEN: 171, IDY: 97.08), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 174683 174850 | 599 432 | 168 168 | 97.02 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_80757
+		Skipping redundant alignment 5543 5710 | 599 432 | 168 168 | 97.02 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_80757
+		Skipping redundant alignment 70261 70431 | 429 599 | 171 171 | 97.08 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_80757
+		Skipping redundant alignment 56982 57152 | 429 599 | 171 171 | 97.08 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_80757
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 166.0, number of alignments: 1, unaligned bases: 428
+		Alignment: 206364 206534 | 429 599 | 171 171 | 97.08 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_80757
+
+CONTIG: k105_105240 (515bp)
+Best alignment score: 182.0 (LEN: 190, IDY: 95.79), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 169990 170179 | 326 515 | 190 190 | 95.79 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_105240
+		Skipping redundant alignment 74933 75122 | 515 326 | 190 190 | 95.79 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_105240
+		Skipping redundant alignment 61656 61845 | 515 326 | 190 190 | 95.79 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_105240
+		Skipping redundant alignment 850 1039 | 326 515 | 190 190 | 95.79 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_105240
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 182.0, number of alignments: 1, unaligned bases: 325
+		Alignment: 211038 211227 | 515 326 | 190 190 | 95.79 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_105240
+
+CONTIG: k105_9486 (842bp)
+Best alignment score: 146.0 (LEN: 153, IDY: 95.42), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 74125 74258 | 292 159 | 134 134 | 95.52 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_9486
+		Skipping redundant alignment 210230 210363 | 292 159 | 134 134 | 95.52 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_9486
+		Skipping redundant alignment 60848 60981 | 292 159 | 134 134 | 95.52 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_9486
+		Skipping redundant alignment 1713 1847 | 158 292 | 135 135 | 95.56 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_9486
+		Skipping redundant alignment 73603 73755 | 842 690 | 153 153 | 95.42 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_9486
+		Skipping redundant alignment 209708 209860 | 842 690 | 153 153 | 95.42 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_9486
+		Skipping redundant alignment 2217 2369 | 690 842 | 153 153 | 95.42 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_9486
+		Skipping redundant alignment 60326 60478 | 842 690 | 153 153 | 95.42 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_9486
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 275.0, number of alignments: 2, unaligned bases: 554
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 842 (number of Ns: 0) and total length of all aligns is 288
+		Alignment: 170853 170987 | 158 292 | 135 135 | 95.56 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_9486
+		Alignment: 171357 171509 | 690 842 | 153 153 | 95.42 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_9486
+		Unaligned bases: 554
+
+CONTIG: k105_150096 (536bp)
+Best alignment score: 95.0 (LEN: 95, IDY: 100.00), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4242 4334 | 1 93 | 93 93 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_150096
+		Skipping redundant alignment 173382 173474 | 1 93 | 93 93 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_150096
+		Skipping redundant alignment 58359 58453 | 95 1 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_150096
+		Skipping redundant alignment 71636 71730 | 95 1 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_150096
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 441
+		Alignment: 207741 207835 | 95 1 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_150096
+
+CONTIG: k105_85432 (1432bp)
+Best alignment score: 154.0 (LEN: 159, IDY: 96.86), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4242 4336 | 98 4 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_85432
+		Skipping redundant alignment 71636 71730 | 4 98 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_85432
+		Skipping redundant alignment 173382 173476 | 98 4 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_85432
+		Skipping redundant alignment 58359 58453 | 4 98 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_85432
+		Skipping redundant alignment 72552 72698 | 884 1030 | 147 147 | 97.96 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_85432
+		Skipping redundant alignment 59275 59421 | 884 1030 | 147 147 | 97.96 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_85432
+		Skipping redundant alignment 3272 3420 | 1032 884 | 149 149 | 96.64 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_85432
+		Skipping redundant alignment 172412 172560 | 1032 884 | 149 149 | 96.64 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_85432
+		Skipping redundant alignment 2869 3026 | 1432 1275 | 158 158 | 97.47 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_85432
+		Skipping redundant alignment 172009 172166 | 1432 1275 | 158 158 | 97.47 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_85432
+		Skipping redundant alignment 72945 73103 | 1274 1432 | 159 159 | 96.86 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_85432
+		Skipping redundant alignment 59668 59826 | 1274 1432 | 159 159 | 96.86 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_85432
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 393.0, number of alignments: 3, unaligned bases: 1031
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 401 out of 1432 non-N bases (28.00%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1432 (number of Ns: 0) and total length of all aligns is 401
+		Alignment: 207741 207835 | 4 98 | 95 95 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_85432
+		Alignment: 208657 208803 | 884 1030 | 147 147 | 97.96 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_85432
+		Alignment: 209050 209208 | 1274 1432 | 159 159 | 96.86 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_85432
+		Unaligned bases: 1031
+
+CONTIG: k105_74466 (870bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 187436 187512 | 204 128 | 77 77 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_74466
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 792
+		This contig is partially unaligned. (Aligned 78 out of 870 non-N bases (8.97%))
+		Alignment: 247281 247358 | 128 205 | 78 78 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_74466
+		Unaligned bases: 1 to 127 (127)
+		Unaligned bases: 206 to 870 (665)
+
+CONTIG: k105_85594 (789bp)
+Best alignment score: 363.0 (LEN: 382, IDY: 95.03), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 72001 72080 | 234 155 | 80 80 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_85594
+		Skipping redundant alignment 3892 3971 | 155 234 | 80 80 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_85594
+		Skipping redundant alignment 208106 208185 | 234 155 | 80 80 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_85594
+		Skipping redundant alignment 58724 58803 | 234 155 | 80 80 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_85594
+		Skipping redundant alignment 4239 4616 | 404 785 | 378 382 | 95.03 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_85594
+		Skipping redundant alignment 207461 207838 | 785 404 | 378 382 | 95.03 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_85594
+		Skipping redundant alignment 58079 58456 | 785 404 | 378 382 | 95.03 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_85594
+		Skipping redundant alignment 71356 71733 | 785 404 | 378 382 | 95.03 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_85594
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 436.0, number of alignments: 2, unaligned bases: 327
+		This contig is misassembled.
+			Real Alignment 1: 173032 173111 | 155 234 | 80 80 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_85594
+			  Gap between these two alignments (local misassembly). Inconsistency = 98
+			Real Alignment 2: 173379 173756 | 404 785 | 378 382 | 95.03 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_85594
+
+CONTIG: k105_64219 (1047bp)
+Best alignment score: 469.0 (LEN: 488, IDY: 96.11), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 206364 206851 | 488 1 | 488 488 | 96.11 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 k105_64219
+		Skipping redundant alignment 56982 57469 | 488 1 | 488 488 | 96.11 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 k105_64219
+		Skipping redundant alignment 5226 5713 | 1 488 | 488 488 | 96.11 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 k105_64219
+		Skipping redundant alignment 70261 70746 | 488 1 | 486 488 | 95.7 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_64219
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 469.0, number of alignments: 1, unaligned bases: 559
+		This contig is partially unaligned. (Aligned 488 out of 1047 non-N bases (46.61%))
+		Alignment: 174366 174853 | 1 488 | 488 488 | 96.11 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 k105_64219
+		Unaligned bases: 489 to 1047 (559)
+
+CONTIG: k105_136435 (591bp)
+Best alignment score: 65.0 (LEN: 67, IDY: 97.01), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 65.0, number of alignments: 1, unaligned bases: 524
+		Alignment: 127254 127320 | 75 141 | 67 67 | 97.01 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_136435
+
+CONTIG: k105_93853 (594bp)
+Best alignment score: 108.0 (LEN: 113, IDY: 95.58), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 108.0, number of alignments: 1, unaligned bases: 481
+		Alignment: 70536 70648 | 594 482 | 113 113 | 95.58 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_93853
+
+CONTIG: k105_52791 (1221bp)
+Best alignment score: 86.0 (LEN: 88, IDY: 97.73), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 86276 86363 | 209 122 | 88 88 | 97.73 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 k105_52791
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 1133
+		This contig is partially unaligned. (Aligned 88 out of 1221 non-N bases (7.21%))
+		Alignment: 30445 30532 | 209 122 | 88 88 | 97.73 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000004.1 k105_52791
+		Unaligned bases: 1 to 121 (121)
+		Unaligned bases: 210 to 1221 (1012)
+
+CONTIG: k105_105762 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: k105_100704 (876bp)
+Best alignment score: 106.0 (LEN: 110, IDY: 96.36), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 106.0, number of alignments: 1, unaligned bases: 766
+		This contig is partially unaligned. (Aligned 110 out of 876 non-N bases (12.56%))
+		Alignment: 186600 186709 | 335 226 | 110 110 | 96.36 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000008.1 k105_100704
+		Unaligned bases: 1 to 225 (225)
+		Unaligned bases: 336 to 876 (541)
+
+CONTIG: k105_15283 (725bp)
+Best alignment score: 88.0 (LEN: 88, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 88.0, number of alignments: 1, unaligned bases: 637
+		Alignment: 217818 217905 | 583 496 | 88 88 | 100.0 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000007.1 k105_15283
+
+CONTIG: k105_124644 (520bp)
+Best alignment score: 130.0 (LEN: 136, IDY: 95.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 130.0, number of alignments: 1, unaligned bases: 384
+		Alignment: 130554 130689 | 250 115 | 136 136 | 95.59 | Roseobacter_sp._SK209_2_6_NZ_AAYC01000003.1 k105_124644
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Roseobacter_sp._SK209_2_6/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Roseobacter_sp._SK209_2_6/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 2 + 6 part
+Half Unaligned Contigs with Misassemblies: 3
+Unaligned Contig Bases: 7184
+
+Ambiguously Mapped Contigs: 11
+Total Bases in Ambiguously Mapped Contigs: 9417
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 3879
+
+	SNPs: 135
+	Insertions: 6
+	Deletions: 2
+

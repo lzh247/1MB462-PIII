@@ -1,0 +1,25 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2339430	2339507	602	679	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_43777	98.72		True
+CONTIG	k105_43777	679	correct_unaligned
+439907	440038	539	408	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_44280	96.21		True
+CONTIG	k105_44280	539	correct
+440069	440144	487	412	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_100628	97.37		True
+CONTIG	k105_100628	593	correct
+436096	436399	314	11	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_68486	96.38		True
+CONTIG	k105_68486	821	correct_unaligned
+436887	437114	669	442	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_4506	96.49		True
+CONTIG	k105_4506	669	correct
+CONTIG	k105_113386	807	unaligned
+436883	436977	11	105	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_27494	95.79		True
+CONTIG	k105_27494	727	correct_unaligned
+694866	694940	1012	1086	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_38657	98.67		True
+CONTIG	k105_38657	1313	correct_unaligned
+440458	440648	344	534	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_29763	95.81		True
+CONTIG	k105_29763	540	correct
+438394	438495	1	102	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_30124	95.1		True
+CONTIG	k105_30124	572	correct
+CONTIG	k105_31458	901	unaligned
+439347	439525	179	1	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_52701	97.21		True
+CONTIG	k105_52701	876	correct_unaligned
+694848	694934	601	515	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1	k105_75379	97.7		True
+CONTIG	k105_75379	601	correct_unaligned

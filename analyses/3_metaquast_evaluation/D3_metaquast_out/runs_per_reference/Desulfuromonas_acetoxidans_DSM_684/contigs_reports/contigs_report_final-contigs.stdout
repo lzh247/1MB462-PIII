@@ -1,0 +1,135 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000001.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000002.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000003.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000004.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000005.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000006.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000007.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000009.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000010.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000011.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000012.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000013.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000014.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000015.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000016.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000017.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000018.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000019.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000020.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000021.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000022.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000023.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000024.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000025.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000026.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000027.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000028.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000029.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000030.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000031.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000032.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000033.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000034.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000035.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000036.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000037.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000038.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000039.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000040.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000041.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000042.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000043.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000044.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000045.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000046.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000047.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000048.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000049.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000050.1]
+	Loaded [Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000051.1]
+	Total Regions: 51
+	Total Region Length: 3828328
+Analyzing contigs...
+CONTIG: k105_156104 (39648bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 39569
+		This contig is partially unaligned. (Aligned 79 out of 39648 non-N bases (0.20%))
+		Alignment: 13323 13401 | 34426 34504 | 79 79 | 97.47 | Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000016.1 k105_156104
+		Unaligned bases: 1 to 34425 (34425)
+		Unaligned bases: 34505 to 39648 (5144)
+
+CONTIG: k105_71074 (1051bp)
+		This contig is unaligned. (1051 bp)
+		Unaligned bases: 1051 (number of Ns: 0)
+
+CONTIG: k105_82356 (1299bp)
+		This contig is unaligned. (1299 bp)
+		Unaligned bases: 1299 (number of Ns: 0)
+
+CONTIG: k105_83395 (1649bp)
+Best alignment score: 111.0 (LEN: 113, IDY: 98.23), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 111.0, number of alignments: 1, unaligned bases: 1536
+		This contig is partially unaligned. (Aligned 113 out of 1649 non-N bases (6.85%))
+		Alignment: 193337 193449 | 1642 1530 | 113 113 | 98.23 | Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1 k105_83395
+		Unaligned bases: 1 to 1529 (1529)
+		Unaligned bases: 1643 to 1649 (7)
+
+CONTIG: k105_18624 (627bp)
+Best alignment score: 66.0 (LEN: 67, IDY: 98.51), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 66.0, number of alignments: 1, unaligned bases: 560
+		This contig is partially unaligned. (Aligned 67 out of 627 non-N bases (10.69%))
+		Alignment: 190493 190559 | 1 67 | 67 67 | 98.51 | Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1 k105_18624
+		Unaligned bases: 68 to 627 (560)
+
+CONTIG: k105_139947 (701bp)
+Best alignment score: 81.0 (LEN: 84, IDY: 96.43), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 194872 194955 | 314 397 | 84 84 | 96.43 | Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1 k105_139947
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 617
+		Alignment: 189406 189489 | 314 397 | 84 84 | 96.43 | Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1 k105_139947
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Desulfuromonas_acetoxidans_DSM_684/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Desulfuromonas_acetoxidans_DSM_684/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 2 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 44015
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 701
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 343
+
+	SNPs: 8
+	Insertions: 0
+	Deletions: 0
+

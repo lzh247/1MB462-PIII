@@ -1,0 +1,104 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Syntrophus_aciditrophicus_NC_007759.1]
+	Total Regions: 1
+	Total Region Length: 3179300
+Analyzing contigs...
+CONTIG: k105_47962 (605bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 523
+		This contig is partially unaligned. (Aligned 82 out of 605 non-N bases (13.55%))
+		Alignment: 742018 742099 | 1 82 | 82 82 | 100.0 | Syntrophus_aciditrophicus_NC_007759.1 k105_47962
+		Unaligned bases: 83 to 605 (523)
+
+CONTIG: k105_146366 (955bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 142.0, number of alignments: 2, unaligned bases: 803
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 955 (number of Ns: 0) and total length of all aligns is 152
+		Alignment: 739807 739881 | 561 487 | 75 75 | 100.0 | Syntrophus_aciditrophicus_NC_007759.1 k105_146366
+		Alignment: 739696 739772 | 758 682 | 77 77 | 98.7 | Syntrophus_aciditrophicus_NC_007759.1 k105_146366
+		Unaligned bases: 803
+
+CONTIG: k105_125622 (2862bp)
+Best alignment score: 105.0 (LEN: 108, IDY: 97.22), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 105.0, number of alignments: 1, unaligned bases: 2754
+		This contig is partially unaligned. (Aligned 108 out of 2862 non-N bases (3.77%))
+		Alignment: 742006 742113 | 7 114 | 108 108 | 97.22 | Syntrophus_aciditrophicus_NC_007759.1 k105_125622
+		Unaligned bases: 1 to 6 (6)
+		Unaligned bases: 115 to 2862 (2748)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 1216
+		This contig is partially unaligned. (Aligned 83 out of 1299 non-N bases (6.39%))
+		Alignment: 742018 742100 | 556 474 | 83 83 | 98.8 | Syntrophus_aciditrophicus_NC_007759.1 k105_82356
+		Unaligned bases: 1 to 473 (473)
+		Unaligned bases: 557 to 1299 (743)
+
+CONTIG: k105_160429 (604bp)
+Best alignment score: 92.0 (LEN: 94, IDY: 97.87), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 510
+		Alignment: 742006 742099 | 125 218 | 94 94 | 97.87 | Syntrophus_aciditrophicus_NC_007759.1 k105_160429
+
+CONTIG: k105_105762 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: k105_63795 (2135bp)
+		This contig is unaligned. (2135 bp)
+		Unaligned bases: 2135 (number of Ns: 0)
+
+CONTIG: k105_53040 (4597bp)
+Best alignment score: 121.0 (LEN: 126, IDY: 96.03), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 121.0, number of alignments: 1, unaligned bases: 4471
+		This contig is partially unaligned. (Aligned 126 out of 4597 non-N bases (2.74%))
+		Alignment: 742612 742736 | 224 349 | 125 126 | 96.03 | Syntrophus_aciditrophicus_NC_007759.1 k105_53040
+		Unaligned bases: 1 to 223 (223)
+		Unaligned bases: 350 to 4597 (4248)
+
+CONTIG: k105_42099 (674bp)
+		This contig is unaligned. (674 bp)
+		Unaligned bases: 674 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Syntrophus_aciditrophicus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Syntrophus_aciditrophicus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 3 + 4 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 12401
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 385
+
+	SNPs: 11
+	Insertions: 1
+	Deletions: 0
+

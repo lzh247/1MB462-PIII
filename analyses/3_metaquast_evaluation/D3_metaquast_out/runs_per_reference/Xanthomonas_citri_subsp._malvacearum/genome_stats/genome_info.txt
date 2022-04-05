@@ -1,0 +1,15 @@
+reference chromosomes:
+	Xanthomonas_citri_subsp._malvacearum_NZ_CP013006.1 (total length: 5218607 bp, total length without N's: 5218607 bp, maximal covered length: 445 bp)
+	Xanthomonas_citri_subsp._malvacearum_NZ_CP013007.1 (total length: 59644 bp, total length without N's: 59644 bp, maximal covered length: 0 bp)
+
+total genome size: 5278251
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Xanthom | 0.008     | 2.330       | 7         | -         | -         | -         | -         |

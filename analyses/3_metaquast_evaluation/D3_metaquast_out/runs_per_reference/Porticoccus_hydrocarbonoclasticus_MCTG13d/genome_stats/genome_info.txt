@@ -1,0 +1,14 @@
+reference chromosomes:
+	Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 (total length: 2474654 bp, total length without N's: 2474654 bp, maximal covered length: 1387 bp)
+
+total genome size: 2474654
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Portico | 0.056     | 2.690       | 9         | -         | -         | -         | -         |

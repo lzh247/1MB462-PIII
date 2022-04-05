@@ -1,0 +1,41 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+18	112	486	392	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_65683	96.84		True
+CONTIG	k105_65683	707	correct
+1951	2088	18	155	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_87693	97.1		True
+local misassembly
+2196	2383	263	450	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_87693	95.21		True
+indel: indel (<= 5bp)
+2386	2478	451	543	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_87693	98.92		True
+CONTIG	k105_87693	573	correct
+3906	4041	4157	4022	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_44670	96.32		True
+CONTIG	k105_44670	4157	correct_unaligned
+3319	3419	104	4	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_99368	98.02		True
+unknown
+2592	2709	862	745	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_99368	95.76		True
+unknown
+CONTIG	k105_99368	868	mis_unaligned
+3649	3950	302	1	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_122431	97.02		True
+indel: stretch of mismatches
+3320	3636	631	315	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_122431	96.21		True
+CONTIG	k105_122431	1015	correct
+CONTIG	k105_158827	1056	unaligned
+3939	4101	1132	970	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_114969	96.32		True
+CONTIG	k105_114969	1132	correct_unaligned
+848	1058	1805	1595	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_103871	97.16		True
+CONTIG	k105_103871	1805	correct_unaligned
+3324	3410	569	483	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1	k105_82356	97.7		True
+CONTIG	k105_82356	1299	correct_unaligned
+CONTIG	k105_73909	504	unaligned
+241077	241155	200	278	Tenacibaculum_skagerrakense_NZ_SLXM01000007.1	k105_88033	98.73		True
+CONTIG	k105_88033	4179	correct_unaligned
+119902	119977	227	152	Tenacibaculum_skagerrakense_NZ_SLXM01000006.1	k105_55314	100.0		True
+CONTIG	k105_55314	3043	correct_unaligned
+36366	36441	1639	1714	Tenacibaculum_skagerrakense_NZ_SLXM01000006.1	k105_23022	98.68		True
+CONTIG	k105_23022	2275	correct_unaligned
+34902	34977	330	405	Tenacibaculum_skagerrakense_NZ_SLXM01000006.1	k105_14044	97.37		True
+CONTIG	k105_14044	1204	correct_unaligned
+609757	609831	5022	5096	Tenacibaculum_skagerrakense_NZ_SLXM01000001.1	k105_155695	100.0		True
+CONTIG	k105_155695	5625	correct_unaligned
+CONTIG	k105_79326	2405	unaligned
+363332	363409	3239	3316	Tenacibaculum_skagerrakense_NZ_SLXM01000001.1	k105_105823	98.72		True
+CONTIG	k105_105823	4469	correct_unaligned

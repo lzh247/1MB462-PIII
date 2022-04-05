@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.205*0.61] collected minimizers
+[M::mm_idx_gen::0.254*0.61] sorted minimizers
+[M::main::0.254*0.61] loaded/built the index for 86 target sequence(s)
+[M::mm_mapopt_update::0.276*0.59] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 86
+[M::mm_idx_stat::0.279*0.59] distinct minimizers: 342138 (99.76% are singletons); average occurrences: 1.006; average spacing: 10.000
+[M::worker_pipeline::0.426*0.54] mapped 35 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/quast_corrected_input/endosymbiont_of_Ridgeia_piscesae.fasta /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/quast_corrected_input/final-contigs_to_endosymbiont_of_Ridgeia_piscesae.fasta
+[M::main] Real time: 0.431 sec; CPU: 0.234 sec

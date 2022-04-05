@@ -1,0 +1,19 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+742018	742099	1	82	Syntrophus_aciditrophicus_NC_007759.1	k105_47962	100.0		True
+CONTIG	k105_47962	605	correct_unaligned
+739807	739881	561	487	Syntrophus_aciditrophicus_NC_007759.1	k105_146366	100.0		True
+unknown
+739696	739772	758	682	Syntrophus_aciditrophicus_NC_007759.1	k105_146366	98.7		True
+unknown
+CONTIG	k105_146366	955	mis_unaligned
+742006	742113	7	114	Syntrophus_aciditrophicus_NC_007759.1	k105_125622	97.22		True
+CONTIG	k105_125622	2862	correct_unaligned
+742018	742100	556	474	Syntrophus_aciditrophicus_NC_007759.1	k105_82356	98.8		True
+CONTIG	k105_82356	1299	correct_unaligned
+742006	742099	125	218	Syntrophus_aciditrophicus_NC_007759.1	k105_160429	97.87		True
+CONTIG	k105_160429	604	correct
+CONTIG	k105_105762	628	unaligned
+CONTIG	k105_63795	2135	unaligned
+742612	742736	224	349	Syntrophus_aciditrophicus_NC_007759.1	k105_53040	96.03		True
+CONTIG	k105_53040	4597	correct_unaligned
+CONTIG	k105_42099	674	unaligned

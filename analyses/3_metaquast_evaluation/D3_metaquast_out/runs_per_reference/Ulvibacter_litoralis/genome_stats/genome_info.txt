@@ -1,0 +1,69 @@
+reference chromosomes:
+	Ulvibacter_litoralis_NZ_FNBA01000001.1 (total length: 1322203 bp, total length without N's: 1322203 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000002.1 (total length: 907925 bp, total length without N's: 907925 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000003.1 (total length: 542226 bp, total length without N's: 542226 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000004.1 (total length: 284704 bp, total length without N's: 284704 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000005.1 (total length: 204868 bp, total length without N's: 204868 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000006.1 (total length: 148539 bp, total length without N's: 148539 bp, maximal covered length: 241 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000007.1 (total length: 84250 bp, total length without N's: 84250 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000008.1 (total length: 60933 bp, total length without N's: 60933 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000009.1 (total length: 44880 bp, total length without N's: 44880 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000010.1 (total length: 28787 bp, total length without N's: 28787 bp, maximal covered length: 87 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000011.1 (total length: 23437 bp, total length without N's: 23437 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000012.1 (total length: 14602 bp, total length without N's: 14602 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000013.1 (total length: 12266 bp, total length without N's: 12266 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000014.1 (total length: 10140 bp, total length without N's: 10140 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000015.1 (total length: 8550 bp, total length without N's: 8550 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000016.1 (total length: 6910 bp, total length without N's: 6910 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000017.1 (total length: 6650 bp, total length without N's: 6650 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000018.1 (total length: 6424 bp, total length without N's: 6424 bp, maximal covered length: 2194 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000019.1 (total length: 6040 bp, total length without N's: 6040 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000020.1 (total length: 5195 bp, total length without N's: 5195 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000021.1 (total length: 5145 bp, total length without N's: 5145 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000022.1 (total length: 5083 bp, total length without N's: 5083 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000023.1 (total length: 4762 bp, total length without N's: 4762 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000024.1 (total length: 4501 bp, total length without N's: 4501 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000025.1 (total length: 3866 bp, total length without N's: 3866 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000026.1 (total length: 3823 bp, total length without N's: 3823 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000027.1 (total length: 3660 bp, total length without N's: 3660 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000028.1 (total length: 3487 bp, total length without N's: 3487 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000029.1 (total length: 3480 bp, total length without N's: 3480 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000030.1 (total length: 3171 bp, total length without N's: 3171 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000031.1 (total length: 3121 bp, total length without N's: 3121 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000032.1 (total length: 3054 bp, total length without N's: 3054 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000033.1 (total length: 3041 bp, total length without N's: 3041 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000034.1 (total length: 3040 bp, total length without N's: 3040 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000035.1 (total length: 2969 bp, total length without N's: 2969 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000036.1 (total length: 2895 bp, total length without N's: 2895 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000037.1 (total length: 2885 bp, total length without N's: 2885 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000038.1 (total length: 2674 bp, total length without N's: 2674 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000039.1 (total length: 2619 bp, total length without N's: 2619 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000040.1 (total length: 2408 bp, total length without N's: 2408 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000041.1 (total length: 2034 bp, total length without N's: 2034 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000042.1 (total length: 1882 bp, total length without N's: 1882 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000043.1 (total length: 1834 bp, total length without N's: 1834 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000044.1 (total length: 1807 bp, total length without N's: 1807 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000045.1 (total length: 1701 bp, total length without N's: 1701 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000046.1 (total length: 1535 bp, total length without N's: 1535 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000047.1 (total length: 1489 bp, total length without N's: 1489 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000048.1 (total length: 1398 bp, total length without N's: 1398 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000049.1 (total length: 1316 bp, total length without N's: 1316 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000050.1 (total length: 1213 bp, total length without N's: 1213 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000051.1 (total length: 1208 bp, total length without N's: 1208 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000052.1 (total length: 1175 bp, total length without N's: 1175 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000053.1 (total length: 1067 bp, total length without N's: 1067 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000054.1 (total length: 1033 bp, total length without N's: 1033 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000055.1 (total length: 1012 bp, total length without N's: 1012 bp, maximal covered length: 0 bp)
+	Ulvibacter_litoralis_NZ_FNBA01000056.1 (total length: 1009 bp, total length without N's: 1009 bp, maximal covered length: 0 bp)
+
+total genome size: 3821926
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Ulvibac | 0.066     | 2.916       | 70        | -         | -         | -         | -         |

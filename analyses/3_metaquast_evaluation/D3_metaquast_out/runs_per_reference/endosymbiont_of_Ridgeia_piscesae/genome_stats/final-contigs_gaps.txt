@@ -1,0 +1,202 @@
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557115.1
+1 193609
+193689 236298
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557116.1
+1 226020
+226121 258673
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557117.1
+1 123561
+123662 148708
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557118.1
+1 143916
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557119.1
+1 67297
+67398 140256
+140357 141821
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557120.1
+1 129329
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557121.1
+1 42960
+43040 128918
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557122.1
+1 39364
+39527 121888
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557123.1
+1 116303
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557124.1
+1 106960
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557125.1
+1 100141
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557126.1
+1 31615
+31694 32019
+32117 98883
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557127.1
+1 92967
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557128.1
+1 84272
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557129.1
+1 80487
+80566 83967
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557130.1
+1 81406
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557131.1
+1 53758
+53850 78739
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557132.1
+1 18189
+18290 90666
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557133.1
+1 54987
+55067 69375
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557134.1
+1 66380
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557135.1
+1 65704
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557136.1
+1 62143
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557137.1
+1 15326
+15412 16713
+16791 16951
+17042 60685
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557138.1
+1 60376
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557139.1
+1 48644
+48745 59266
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557140.1
+1 54739
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557141.1
+1 49804
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557142.1
+1 42210
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557143.1
+1 42005
+42106 83407
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557144.1
+1 36399
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557145.1
+1 30637
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557146.1
+1 29596
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557147.1
+1 28691
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557148.1
+1 28354
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557149.1
+1 5584
+5685 24941
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557150.1
+1 23769
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557151.1
+1 20147
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557152.1
+1 2161
+2235 2326
+2517 3002
+3706 3806
+3976 4350
+4449 4605
+4707 5617
+6966 19620
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557153.1
+1 19470
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557154.1
+1 12666
+12767 31993
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557155.1
+1 18389
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557156.1
+1 17457
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557157.1
+1 15999
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557158.1
+1 15613
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557159.1
+1 14587
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557160.1
+1 11684
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557161.1
+1 11225
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557162.1
+1 11078
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557163.1
+1 10448
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557164.1
+1 9030
+9131 15991
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557165.1
+1 8947
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557166.1
+1 8235
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557167.1
+1 8093
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557168.1
+1 6553
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557169.1
+1 5386
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557170.1
+1 4098
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557171.1
+1 3795
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557172.1
+1 3291
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557173.1
+1 3282
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557174.1
+1 2942
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557175.1
+1 2812
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557176.1
+1 2347
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557177.1
+1 2271
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557178.1
+1 2184
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557179.1
+1 1670
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557180.1
+1 1629
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557181.1
+1 1598
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557182.1
+1 1475
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557183.1
+1 1463
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557184.1
+1 1441
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557185.1
+1 1438
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557186.1
+1 1398
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557187.1
+1 1290
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557188.1
+1 1209
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557189.1
+1 1195
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557190.1
+1 1105
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557191.1
+1 931
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557192.1
+1 914
+1015 1458
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557193.1
+1 735
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557194.1
+1 690
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557195.1
+1 481
+582 1136
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557196.1
+1 450
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557197.1
+1 410
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557198.1
+1 401
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557199.1
+1 314
+endosymbiont_of_Ridgeia_piscesae_NZ_KQ557200.1
+1 313

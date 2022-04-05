@@ -1,0 +1,171 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000001.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000003.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000004.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000005.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000006.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000009.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_AUKG01000010.1]
+	Loaded [Conexibacter_woesei_Iso977N_NZ_KE384217.1]
+	Total Regions: 9
+	Total Region Length: 5695417
+Analyzing contigs...
+CONTIG: k105_11011 (5845bp)
+		This contig is unaligned. (5845 bp)
+		Unaligned bases: 5845 (number of Ns: 0)
+
+CONTIG: k105_93250 (1613bp)
+		This contig is unaligned. (1613 bp)
+		Unaligned bases: 1613 (number of Ns: 0)
+
+CONTIG: k105_170901 (7571bp)
+		This contig is unaligned. (7571 bp)
+		Unaligned bases: 7571 (number of Ns: 0)
+
+CONTIG: k105_76955 (1494bp)
+Best alignment score: 76.0 (LEN: 80, IDY: 95.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1414
+		This contig is partially unaligned. (Aligned 80 out of 1494 non-N bases (5.35%))
+		Alignment: 1388751 1388830 | 17 96 | 80 80 | 95.0 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_76955
+		Unaligned bases: 1 to 16 (16)
+		Unaligned bases: 97 to 1494 (1398)
+
+CONTIG: k105_100628 (593bp)
+Best alignment score: 72.0 (LEN: 73, IDY: 98.63), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 72.0, number of alignments: 1, unaligned bases: 520
+		Alignment: 1388458 1388530 | 415 487 | 73 73 | 98.63 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_100628
+
+CONTIG: k105_101408 (2806bp)
+Best alignment score: 80.0 (LEN: 82, IDY: 97.56), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 2724
+		This contig is partially unaligned. (Aligned 82 out of 2806 non-N bases (2.92%))
+		Alignment: 1388743 1388824 | 99 18 | 82 82 | 97.56 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_101408
+		Unaligned bases: 1 to 17 (17)
+		Unaligned bases: 100 to 2806 (2707)
+
+CONTIG: k105_14870 (1238bp)
+Best alignment score: 98.0 (LEN: 101, IDY: 97.03), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 182.0, number of alignments: 2, unaligned bases: 1049
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 189 out of 1238 non-N bases (15.27%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1238 (number of Ns: 0) and total length of all aligns is 189
+		Alignment: 1388458 1388545 | 1026 1113 | 88 88 | 95.45 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_14870
+		Alignment: 1388561 1388661 | 1130 1230 | 101 101 | 97.03 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_14870
+		Unaligned bases: 1049
+
+CONTIG: k105_47962 (605bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 523
+		This contig is partially unaligned. (Aligned 82 out of 605 non-N bases (13.55%))
+		Alignment: 1391677 1391758 | 1 82 | 82 82 | 100.0 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_47962
+		Unaligned bases: 83 to 605 (523)
+
+CONTIG: k105_59590 (532bp)
+Best alignment score: 100.0 (LEN: 105, IDY: 95.24), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 187.0, number of alignments: 2, unaligned bases: 338
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 532 (number of Ns: 0) and total length of all aligns is 194
+		Alignment: 1388602 1388706 | 1 105 | 105 105 | 95.24 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_59590
+		Alignment: 1388753 1388841 | 151 239 | 89 89 | 97.75 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_59590
+		Unaligned bases: 338
+
+CONTIG: k105_135460 (741bp)
+Best alignment score: 96.0 (LEN: 100, IDY: 96.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 641
+		This contig is partially unaligned. (Aligned 100 out of 741 non-N bases (13.50%))
+		Alignment: 1392298 1392397 | 741 642 | 100 100 | 96.0 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_135460
+		Unaligned bases: 1 to 641 (641)
+
+CONTIG: k105_16938 (36014bp)
+		This contig is unaligned. (36014 bp)
+		Unaligned bases: 36014 (number of Ns: 0)
+
+CONTIG: k105_158827 (1056bp)
+Best alignment score: 94.0 (LEN: 98, IDY: 95.92), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 958
+		This contig is partially unaligned. (Aligned 98 out of 1056 non-N bases (9.28%))
+		Alignment: 1391675 1391772 | 1056 959 | 98 98 | 95.92 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_158827
+		Unaligned bases: 1 to 958 (958)
+
+CONTIG: k105_82356 (1299bp)
+		This contig is unaligned. (1299 bp)
+		Unaligned bases: 1299 (number of Ns: 0)
+
+CONTIG: k105_160429 (604bp)
+		This contig is unaligned. (604 bp)
+		Unaligned bases: 604 (number of Ns: 0)
+
+CONTIG: k105_61937 (752bp)
+Best alignment score: 100.0 (LEN: 105, IDY: 95.24), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 100.0, number of alignments: 1, unaligned bases: 647
+		This contig is partially unaligned. (Aligned 105 out of 752 non-N bases (13.96%))
+		Alignment: 1392293 1392397 | 752 648 | 105 105 | 95.24 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_61937
+		Unaligned bases: 1 to 647 (647)
+
+CONTIG: k105_62472 (789bp)
+		This contig is unaligned. (789 bp)
+		Unaligned bases: 789 (number of Ns: 0)
+
+CONTIG: k105_84718 (666bp)
+Best alignment score: 97.0 (LEN: 102, IDY: 95.10), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 97.0, number of alignments: 1, unaligned bases: 564
+		This contig is partially unaligned. (Aligned 102 out of 666 non-N bases (15.32%))
+		Alignment: 1392296 1392397 | 1 102 | 102 102 | 95.1 | Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 k105_84718
+		Unaligned bases: 103 to 666 (564)
+
+CONTIG: k105_86809 (1028bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 950
+		This contig is partially unaligned. (Aligned 78 out of 1028 non-N bases (7.59%))
+		Alignment: 454983 455060 | 858 935 | 78 78 | 100.0 | Conexibacter_woesei_Iso977N_NZ_AUKG01000003.1 k105_86809
+		Unaligned bases: 1 to 857 (857)
+		Unaligned bases: 936 to 1028 (93)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Conexibacter_woesei_Iso977N/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Conexibacter_woesei_Iso977N/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 7 + 9 part
+Half Unaligned Contigs with Misassemblies: 2
+Unaligned Contig Bases: 63205
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 614
+
+	SNPs: 39
+	Insertions: 0
+	Deletions: 0
+

@@ -1,0 +1,86 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Neisseria_sp._CSL_7565_NZ_CP031700.1]
+	Total Regions: 1
+	Total Region Length: 2423693
+Analyzing contigs...
+CONTIG: k105_99987 (1497bp)
+Best alignment score: 93.0 (LEN: 96, IDY: 96.88), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 13972 14067 | 96 191 | 96 96 | 96.88 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_99987
+		Skipping redundant alignment 1822811 1822906 | 96 191 | 96 96 | 96.88 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_99987
+		Skipping redundant alignment 185957 186052 | 96 191 | 96 96 | 96.88 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_99987
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 1401
+		This contig is partially unaligned. (Aligned 96 out of 1497 non-N bases (6.41%))
+		Alignment: 30713 30808 | 96 191 | 96 96 | 96.88 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_99987
+		Unaligned bases: 1 to 95 (95)
+		Unaligned bases: 192 to 1497 (1306)
+
+CONTIG: k105_48244 (1341bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 16913 16987 | 698 772 | 75 75 | 100.0 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_48244
+		Skipping redundant alignment 1825752 1825826 | 698 772 | 75 75 | 100.0 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_48244
+		Skipping redundant alignment 33654 33728 | 698 772 | 75 75 | 100.0 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_48244
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1266
+		This contig is partially unaligned. (Aligned 75 out of 1341 non-N bases (5.59%))
+		Alignment: 188898 188972 | 698 772 | 75 75 | 100.0 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_48244
+		Unaligned bases: 1 to 697 (697)
+		Unaligned bases: 773 to 1341 (569)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 92.0 (LEN: 95, IDY: 96.84), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1822696 1822790 | 474 568 | 95 95 | 96.84 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_82356
+		Skipping redundant alignment 13857 13951 | 474 568 | 95 95 | 96.84 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_82356
+		Skipping redundant alignment 185842 185936 | 474 568 | 95 95 | 96.84 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_82356
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 1204
+		This contig is partially unaligned. (Aligned 95 out of 1299 non-N bases (7.31%))
+		Alignment: 30598 30692 | 474 568 | 95 95 | 96.84 | Neisseria_sp._CSL_7565_NZ_CP031700.1 k105_82356
+		Unaligned bases: 1 to 473 (473)
+		Unaligned bases: 569 to 1299 (731)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Neisseria_sp._CSL_7565/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Neisseria_sp._CSL_7565/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 3871
+
+Ambiguously Mapped Contigs: 3
+Total Bases in Ambiguously Mapped Contigs: 4137
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 266
+
+	SNPs: 6
+	Insertions: 0
+	Deletions: 0
+

@@ -1,0 +1,146 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000018.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000021.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000024.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000025.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000026.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000027.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000030.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000031.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000032.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000034.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000035.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000036.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000037.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000038.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000039.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211100.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211101.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211102.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211104.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211106.1]
+	Loaded [Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211107.1]
+	Total Regions: 24
+	Total Region Length: 4361351
+Analyzing contigs...
+CONTIG: k105_54638 (755bp)
+		This contig is unaligned. (755 bp)
+		Unaligned bases: 755 (number of Ns: 0)
+
+CONTIG: k105_12177 (514bp)
+Best alignment score: 95.0 (LEN: 100, IDY: 95.00), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 297799 297898 | 413 512 | 100 100 | 95.0 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1 k105_12177
+		Skipping redundant alignment 1295 1394 | 512 413 | 100 100 | 95.0 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1 k105_12177
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 414
+		Alignment: 2375 2474 | 512 413 | 100 100 | 95.0 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1 k105_12177
+
+CONTIG: k105_169549 (1193bp)
+Best alignment score: 113.0 (LEN: 117, IDY: 96.58), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 658 774 | 490 606 | 117 117 | 96.58 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1 k105_169549
+		Skipping redundant alignment 298419 298535 | 606 490 | 117 117 | 96.58 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1 k105_169549
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 113.0, number of alignments: 1, unaligned bases: 1076
+		This contig is partially unaligned. (Aligned 117 out of 1193 non-N bases (9.81%))
+		Alignment: 1738 1854 | 490 606 | 117 117 | 96.58 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1 k105_169549
+		Unaligned bases: 1 to 489 (489)
+		Unaligned bases: 607 to 1193 (587)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 93.0 (LEN: 97, IDY: 95.88), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 663 759 | 570 474 | 97 97 | 95.88 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1 k105_82356
+		Skipping redundant alignment 1743 1839 | 570 474 | 97 97 | 95.88 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1 k105_82356
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 1202
+		This contig is partially unaligned. (Aligned 97 out of 1299 non-N bases (7.47%))
+		Alignment: 298434 298530 | 474 570 | 97 97 | 95.88 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1 k105_82356
+		Unaligned bases: 1 to 473 (473)
+		Unaligned bases: 571 to 1299 (729)
+
+CONTIG: k105_158827 (1056bp)
+Best alignment score: 81.0 (LEN: 84, IDY: 96.43), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1755 1838 | 1056 973 | 84 84 | 96.43 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1 k105_158827
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 972
+		This contig is partially unaligned. (Aligned 84 out of 1056 non-N bases (7.95%))
+		Alignment: 675 758 | 1056 973 | 84 84 | 96.43 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1 k105_158827
+		Unaligned bases: 1 to 972 (972)
+
+CONTIG: k105_164853 (2248bp)
+Best alignment score: 123.0 (LEN: 128, IDY: 96.09), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 489530 489657 | 1617 1490 | 128 128 | 96.09 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211101.1 k105_164853
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 123.0, number of alignments: 1, unaligned bases: 2120
+		This contig is partially unaligned. (Aligned 128 out of 2248 non-N bases (5.69%))
+		Alignment: 419851 419978 | 1617 1490 | 128 128 | 96.09 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211102.1 k105_164853
+		Unaligned bases: 1 to 1489 (1489)
+		Unaligned bases: 1618 to 2248 (631)
+
+CONTIG: k105_14870 (1238bp)
+Best alignment score: 65.0 (LEN: 65, IDY: 100.00), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 419455 419519 | 305 369 | 65 65 | 100.0 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211102.1 k105_14870
+		Skipping redundant alignment 1919 1983 | 369 305 | 65 65 | 100.0 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000021.1 k105_14870
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 65.0, number of alignments: 1, unaligned bases: 1173
+		This contig is partially unaligned. (Aligned 65 out of 1238 non-N bases (5.25%))
+		Alignment: 489134 489198 | 305 369 | 65 65 | 100.0 | Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211101.1 k105_14870
+		Unaligned bases: 1 to 304 (304)
+		Unaligned bases: 370 to 1238 (869)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Desulfitibacter_alkalitolerans_DSM_16504/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Desulfitibacter_alkalitolerans_DSM_16504/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 5 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 7298
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 7548
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 591
+
+	SNPs: 21
+	Insertions: 0
+	Deletions: 0
+

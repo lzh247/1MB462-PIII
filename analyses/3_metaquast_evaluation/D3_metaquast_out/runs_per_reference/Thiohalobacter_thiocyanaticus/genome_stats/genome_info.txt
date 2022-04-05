@@ -1,0 +1,15 @@
+reference chromosomes:
+	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 (total length: 3056480 bp, total length without N's: 3056480 bp, maximal covered length: 2181 bp)
+	Thiohalobacter_thiocyanaticus_NZ_QZMU01000002.1 (total length: 243135 bp, total length without N's: 243135 bp, maximal covered length: 80 bp)
+
+total genome size: 3299615
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Thiohal | 0.069     | 3.257       | 19        | -         | -         | -         | -         |

@@ -1,0 +1,83 @@
+Number of interspecies translocations by references: 
+References                                       1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40
+Alcanivorax_pacificus_W11_5                      -  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0 
+Aurantimonas_manganoxydans_SI85_9A1              0  -  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Conexibacter_woesei_Iso977N                      0  0  -  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Desulfitibacter_alkalitolerans_DSM_16504         0  0  0  -  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Desulfuromonas_acetoxidans_DSM_684               0  0  0  0  -  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Desulfuromonas_thiophila                         0  0  0  0  0  -  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Fluviicola_taffensis_DSM_16823                   0  0  0  0  0  0  -  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0 
+Gracilibacteria_bacterium_JGI_0000069_P22        0  0  0  0  0  0  0  -  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Ilumatobacter_coccineus_YM16_304                 0  0  0  0  0  0  0  0  -  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Modicisalibacter_tunisiensis                     0  0  0  0  0  0  0  0  0  -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Neisseria_sp._CSL_7565                           0  0  0  0  0  0  0  0  0  0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Nitrospina_gracilis                              0  0  0  0  0  0  0  0  0  0   0   -   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Nitrospina_sp._SCGC_AAA288_L16                   0  0  0  0  0  0  0  0  0  0   0   1   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0 
+Oceanicola_granulosus_HTCC2516                   0  0  0  0  0  0  0  0  0  0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Owenweeksia_hongkongensis_DSM_17368              0  0  0  0  0  0  0  0  0  0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0 
+Paracoccus_aminophilus                           0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   -   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Porticoccus_hydrocarbonoclasticus_MCTG13d        0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   -   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Pseudoruegeria_aquimaris                         0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   1   0   -   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Rhodopirellula_sp._SM50                          0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Roseobacter_sp._SK209_2_6                        0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   1   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0 
+Shewanella_amazonensis_SB2B                      0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   1   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0 
+Simiduia_sp._J_MY2                               0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   1   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Sinobacterium_caligoides                         1  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Sphingobium_fuliginis                            0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0 
+Streptomyces_cyaneogriseus_subsp._noncyanogenus  0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Sulfitobacter_sp._NAS_14.1                       0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Synechococcus_sp._KORDI_49                       0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0   0 
+Syntrophus_aciditrophicus                        0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0   0   0 
+Tenacibaculum_skagerrakense                      0  0  0  0  0  0  0  0  0  0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   1   0   0   0   0   0   0   0 
+Thioalkalivibrio_sp._ALJ17                       0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0   0 
+Thioalkalivibrio_sulfidiphilus_HL_EbGr7          0  0  0  0  0  0  0  0  0  0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0   0   0   0 
+Thiohalobacter_thiocyanaticus                    1  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   2   1   0   0   0 
+Ulvibacter_litoralis                             0  0  0  0  0  0  1  0  0  0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   -   0   0   0   0   0   0   0 
+Xanthomonas_citri_subsp._malvacearum             0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0   0 
+alpha_proteobacterium_BAL199                     0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0   0   0   0   0 
+endosymbiont_of_Ridgeia_piscesae                 0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   2   0   0   0   -   0   0   0   0 
+gamma_proteobacterium_SCGC_AB_629_P17            0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   -   1   0   0 
+marine_gamma_proteobacterium_HTCC2080            0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   1   -   0   0 
+marine_metagenome                                0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   -   0 
+mine_drainage_metagenome                         0  0  0  0  0  0  0  0  0  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   - 
+References:
+1 - Alcanivorax_pacificus_W11_5
+2 - Aurantimonas_manganoxydans_SI85_9A1
+3 - Conexibacter_woesei_Iso977N
+4 - Desulfitibacter_alkalitolerans_DSM_16504
+5 - Desulfuromonas_acetoxidans_DSM_684
+6 - Desulfuromonas_thiophila
+7 - Fluviicola_taffensis_DSM_16823
+8 - Gracilibacteria_bacterium_JGI_0000069_P22
+9 - Ilumatobacter_coccineus_YM16_304
+10 - Modicisalibacter_tunisiensis
+11 - Neisseria_sp._CSL_7565
+12 - Nitrospina_gracilis
+13 - Nitrospina_sp._SCGC_AAA288_L16
+14 - Oceanicola_granulosus_HTCC2516
+15 - Owenweeksia_hongkongensis_DSM_17368
+16 - Paracoccus_aminophilus
+17 - Porticoccus_hydrocarbonoclasticus_MCTG13d
+18 - Pseudoruegeria_aquimaris
+19 - Rhodopirellula_sp._SM50
+20 - Roseobacter_sp._SK209_2_6
+21 - Shewanella_amazonensis_SB2B
+22 - Simiduia_sp._J_MY2
+23 - Sinobacterium_caligoides
+24 - Sphingobium_fuliginis
+25 - Streptomyces_cyaneogriseus_subsp._noncyanogenus
+26 - Sulfitobacter_sp._NAS_14.1
+27 - Synechococcus_sp._KORDI_49
+28 - Syntrophus_aciditrophicus
+29 - Tenacibaculum_skagerrakense
+30 - Thioalkalivibrio_sp._ALJ17
+31 - Thioalkalivibrio_sulfidiphilus_HL_EbGr7
+32 - Thiohalobacter_thiocyanaticus
+33 - Ulvibacter_litoralis
+34 - Xanthomonas_citri_subsp._malvacearum
+35 - alpha_proteobacterium_BAL199
+36 - endosymbiont_of_Ridgeia_piscesae
+37 - gamma_proteobacterium_SCGC_AB_629_P17
+38 - marine_gamma_proteobacterium_HTCC2080
+39 - marine_metagenome
+40 - mine_drainage_metagenome

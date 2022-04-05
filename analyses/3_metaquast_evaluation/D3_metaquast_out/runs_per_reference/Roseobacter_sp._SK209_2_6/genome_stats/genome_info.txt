@@ -1,0 +1,42 @@
+reference chromosomes:
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000001.1 (total length: 649731 bp, total length without N's: 649731 bp, maximal covered length: 1063 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000002.1 (total length: 530190 bp, total length without N's: 530190 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000003.1 (total length: 350920 bp, total length without N's: 350920 bp, maximal covered length: 136 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000004.1 (total length: 321686 bp, total length without N's: 321686 bp, maximal covered length: 88 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000005.1 (total length: 284886 bp, total length without N's: 284886 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000006.1 (total length: 266095 bp, total length without N's: 266095 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000007.1 (total length: 247062 bp, total length without N's: 247062 bp, maximal covered length: 88 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000008.1 (total length: 212344 bp, total length without N's: 212344 bp, maximal covered length: 110 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000009.1 (total length: 207837 bp, total length without N's: 207837 bp, maximal covered length: 180 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000010.1 (total length: 204433 bp, total length without N's: 204433 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000011.1 (total length: 175230 bp, total length without N's: 175230 bp, maximal covered length: 1234 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000012.1 (total length: 159378 bp, total length without N's: 159378 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000013.1 (total length: 159161 bp, total length without N's: 159161 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000014.1 (total length: 110505 bp, total length without N's: 110505 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000015.1 (total length: 102863 bp, total length without N's: 102863 bp, maximal covered length: 528 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000016.1 (total length: 99596 bp, total length without N's: 99596 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000017.1 (total length: 83752 bp, total length without N's: 83752 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000018.1 (total length: 80846 bp, total length without N's: 80846 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000019.1 (total length: 58862 bp, total length without N's: 58862 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000020.1 (total length: 58819 bp, total length without N's: 58819 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000021.1 (total length: 56733 bp, total length without N's: 56733 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000022.1 (total length: 27312 bp, total length without N's: 27312 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000023.1 (total length: 26167 bp, total length without N's: 26167 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000024.1 (total length: 23669 bp, total length without N's: 23669 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000025.1 (total length: 20279 bp, total length without N's: 20279 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000026.1 (total length: 15686 bp, total length without N's: 15686 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000027.1 (total length: 13944 bp, total length without N's: 13944 bp, maximal covered length: 452 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000028.1 (total length: 6035 bp, total length without N's: 6035 bp, maximal covered length: 0 bp)
+	Roseobacter_sp._SK209_2_6_NZ_AAYC01000029.1 (total length: 1805 bp, total length without N's: 1805 bp, maximal covered length: 0 bp)
+
+total genome size: 4555826
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Roseoba | 0.085     | 2.247       | 49        | -         | -         | -         | -         |

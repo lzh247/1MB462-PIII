@@ -1,0 +1,33 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3704447	3704531	1859	1775	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_78655	97.65		True
+CONTIG	k105_78655	2963	correct_unaligned
+1487488	1487601	1171	1284	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_89776	99.12		True
+unknown
+1489155	1489244	2827	2916	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_89776	95.56		True
+unknown
+1489992	1490228	3708	3942	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_89776	96.2		True
+unknown
+CONTIG	k105_89776	3942	mis_unaligned
+3204477	3204569	1173	1081	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_90131	95.7		True
+CONTIG	k105_90131	1965	correct_unaligned
+1491461	1491534	867	940	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_14869	98.65		True
+CONTIG	k105_14869	19166	correct_unaligned
+3205512	3205579	373	306	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_14870	98.53		True
+CONTIG	k105_14870	1238	correct_unaligned
+3204475	3204567	364	456	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_167792	95.7		True
+CONTIG	k105_167792	504	correct
+CONTIG	k105_102659	878	unaligned
+CONTIG	k105_5900	658	unaligned
+5778985	5779051	470	404	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_49523	97.01		True
+CONTIG	k105_49523	603	correct
+1489992	1490228	235	1	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_126488	97.47		True
+unknown
+1489155	1489244	1090	1001	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_126488	96.67		True
+unknown
+1489070	1489154	1176	1092	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_126488	97.65		True
+unknown
+1487488	1487600	2757	2645	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_126488	97.35		True
+unknown
+CONTIG	k105_126488	4306	mis_unaligned
+1912167	1912368	756	957	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1	k105_106160	96.53		True
+CONTIG	k105_106160	3858	correct_unaligned

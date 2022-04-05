@@ -1,0 +1,24 @@
+reference chromosomes:
+	Sinobacterium_caligoides_NZ_RKHR01000001.1 (total length: 49864 bp, total length without N's: 49864 bp, maximal covered length: 0 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000002.1 (total length: 4380 bp, total length without N's: 4283 bp, maximal covered length: 860 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000003.1 (total length: 1492182 bp, total length without N's: 1492182 bp, maximal covered length: 0 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000004.1 (total length: 1338060 bp, total length without N's: 1338060 bp, maximal covered length: 0 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000005.1 (total length: 560931 bp, total length without N's: 560834 bp, maximal covered length: 81 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000006.1 (total length: 341903 bp, total length without N's: 341903 bp, maximal covered length: 0 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000007.1 (total length: 208396 bp, total length without N's: 208297 bp, maximal covered length: 90 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000008.1 (total length: 161631 bp, total length without N's: 161631 bp, maximal covered length: 0 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000009.1 (total length: 83253 bp, total length without N's: 83253 bp, maximal covered length: 0 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000010.1 (total length: 82560 bp, total length without N's: 82560 bp, maximal covered length: 0 bp)
+	Sinobacterium_caligoides_NZ_RKHR01000011.1 (total length: 75289 bp, total length without N's: 75289 bp, maximal covered length: 0 bp)
+
+total genome size: 4398449
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Sinobac | 0.023     | 4.266       | 20        | -         | -         | -         | -         |

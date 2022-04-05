@@ -1,0 +1,333 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000001.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000002.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000003.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000004.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000005.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000006.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000007.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000008.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000009.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000010.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000011.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000012.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000013.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000014.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000015.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000016.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000017.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000018.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000019.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000020.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000021.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000022.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000023.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000024.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000025.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000026.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000027.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000028.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000029.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000030.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000031.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000032.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000033.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000034.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000035.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000036.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000037.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000038.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000039.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000040.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000041.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000042.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000043.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000044.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000045.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000046.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000047.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000048.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000049.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000050.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000051.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000052.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000053.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000054.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000055.1]
+	Loaded [Ulvibacter_litoralis_NZ_FNBA01000056.1]
+	Total Regions: 56
+	Total Region Length: 3821926
+Analyzing contigs...
+CONTIG: k105_152539 (3552bp)
+Best alignment score: 215.0 (LEN: 224, IDY: 95.98), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 215.0, number of alignments: 1, unaligned bases: 3328
+		This contig is partially unaligned. (Aligned 224 out of 3552 non-N bases (6.31%))
+		Alignment: 1050 1273 | 3051 3274 | 224 224 | 95.98 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_152539
+		Unaligned bases: 1 to 3050 (3050)
+		Unaligned bases: 3275 to 3552 (278)
+
+CONTIG: k105_65683 (707bp)
+Best alignment score: 99.0 (LEN: 102, IDY: 97.06), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 99.0, number of alignments: 1, unaligned bases: 605
+		This contig is partially unaligned. (Aligned 102 out of 707 non-N bases (14.43%))
+		Alignment: 4834 4935 | 1 102 | 102 102 | 97.06 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_65683
+		Unaligned bases: 103 to 707 (605)
+
+CONTIG: k105_65684 (898bp)
+		This contig is unaligned. (898 bp)
+		Unaligned bases: 898 (number of Ns: 0)
+
+CONTIG: k105_87693 (573bp)
+Best alignment score: 280.0 (LEN: 294, IDY: 95.24), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 392.0, number of alignments: 2, unaligned bases: 162
+		This contig is misassembled.
+			Real Alignment 1: 3031 3147 | 150 34 | 117 117 | 95.73 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_87693
+			  Indel (<= 5bp) between these two alignments: insertion of length 2; 4 mismatches (number of Ns: 0)
+			Real Alignment 2: 2733 3026 | 450 157 | 294 294 | 95.24 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_87693
+
+CONTIG: k105_87850 (524bp)
+Best alignment score: 228.0 (LEN: 237, IDY: 96.20), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 228.0, number of alignments: 1, unaligned bases: 287
+		Alignment: 2406 2642 | 273 37 | 237 237 | 96.2 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_87850
+
+CONTIG: k105_66487 (2056bp)
+Best alignment score: 92.0 (LEN: 93, IDY: 98.92), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 1963
+		This contig is partially unaligned. (Aligned 93 out of 2056 non-N bases (4.52%))
+		Alignment: 1669 1761 | 1 93 | 93 93 | 98.92 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_66487
+		Unaligned bases: 94 to 2056 (1963)
+
+CONTIG: k105_99368 (868bp)
+Best alignment score: 224.0 (LEN: 234, IDY: 95.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 224.0, number of alignments: 1, unaligned bases: 634
+		This contig is partially unaligned. (Aligned 234 out of 868 non-N bases (26.96%))
+		Alignment: 1666 1899 | 4 237 | 234 234 | 95.73 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_99368
+		Unaligned bases: 1 to 3 (3)
+		Unaligned bases: 238 to 868 (631)
+
+CONTIG: k105_154640 (762bp)
+Best alignment score: 114.0 (LEN: 119, IDY: 95.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 114.0, number of alignments: 1, unaligned bases: 643
+		This contig is partially unaligned. (Aligned 119 out of 762 non-N bases (15.62%))
+		Alignment: 2409 2527 | 124 6 | 119 119 | 95.8 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_154640
+		Unaligned bases: 1 to 5 (5)
+		Unaligned bases: 125 to 762 (638)
+
+CONTIG: k105_166645 (949bp)
+Best alignment score: 294.0 (LEN: 306, IDY: 96.08), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 294.0, number of alignments: 1, unaligned bases: 643
+		This contig is partially unaligned. (Aligned 306 out of 949 non-N bases (32.24%))
+		Alignment: 838 1143 | 306 1 | 306 306 | 96.08 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_166645
+		Unaligned bases: 307 to 949 (643)
+
+CONTIG: k105_122749 (557bp)
+Best alignment score: 145.0 (LEN: 149, IDY: 97.32), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 303.0, number of alignments: 3, unaligned bases: 246
+		This contig is misassembled.
+			Real Alignment 1: 4041 4128 | 177 264 | 88 88 | 95.45 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_122749
+			  Indel (> 5bp) between these two alignments: deletion of length 82; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 4275 4348 | 329 402 | 74 74 | 100.0 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_122749
+			  Stretch of 6 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 3: 4355 4503 | 409 557 | 149 149 | 97.32 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_122749
+
+CONTIG: k105_156138 (2393bp)
+Best alignment score: 305.0 (LEN: 320, IDY: 95.31), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 698.0, number of alignments: 4, unaligned bases: 1664
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 729 out of 2393 non-N bases (30.46%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 2393 (number of Ns: 0) and total length of all aligns is 729
+		Alignment: 2406 2725 | 358 677 | 320 320 | 95.31 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_156138
+		Alignment: 3466 3567 | 1431 1532 | 102 102 | 95.1 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_156138
+		Alignment: 4038 4115 | 1995 2072 | 78 78 | 97.44 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_156138
+		Alignment: 4275 4503 | 2165 2393 | 229 229 | 96.07 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_156138
+		Unaligned bases: 1664
+
+CONTIG: k105_112273 (695bp)
+		This contig is unaligned. (695 bp)
+		Unaligned bases: 695 (number of Ns: 0)
+
+CONTIG: k105_47962 (605bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 522
+		This contig is partially unaligned. (Aligned 83 out of 605 non-N bases (13.72%))
+		Alignment: 1666 1748 | 83 1 | 83 83 | 98.8 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_47962
+		Unaligned bases: 84 to 605 (522)
+
+CONTIG: k105_81167 (626bp)
+Best alignment score: 204.0 (LEN: 213, IDY: 95.77), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 204.0, number of alignments: 1, unaligned bases: 413
+		Alignment: 1686 1898 | 626 414 | 213 213 | 95.77 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_81167
+
+CONTIG: k105_71077 (723bp)
+Best alignment score: 70.0 (LEN: 71, IDY: 98.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 652
+		Alignment: 4992 5062 | 550 480 | 71 71 | 98.59 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_71077
+
+CONTIG: k105_103871 (1805bp)
+Best alignment score: 83.0 (LEN: 87, IDY: 95.40), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 141.0, number of alignments: 2, unaligned bases: 1641
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 164 out of 1805 non-N bases (9.09%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1805 (number of Ns: 0) and total length of all aligns is 164
+		Alignment: 2643 2729 | 177 263 | 87 87 | 95.4 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_103871
+		Alignment: 4039 4115 | 1447 1523 | 77 77 | 97.4 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_103871
+		Unaligned bases: 1641
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 92.0 (LEN: 95, IDY: 96.84), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 1204
+		This contig is partially unaligned. (Aligned 95 out of 1299 non-N bases (7.31%))
+		Alignment: 1666 1760 | 474 568 | 95 95 | 96.84 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_82356
+		Unaligned bases: 1 to 473 (473)
+		Unaligned bases: 569 to 1299 (731)
+
+CONTIG: k105_61845 (666bp)
+Best alignment score: 103.0 (LEN: 106, IDY: 97.17), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 103.0, number of alignments: 1, unaligned bases: 560
+		This contig is partially unaligned. (Aligned 106 out of 666 non-N bases (15.92%))
+		Alignment: 1669 1774 | 1 106 | 106 106 | 97.17 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_61845
+		Unaligned bases: 107 to 666 (560)
+
+CONTIG: k105_160429 (604bp)
+Best alignment score: 94.0 (LEN: 95, IDY: 98.95), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 509
+		Alignment: 1667 1761 | 218 124 | 95 95 | 98.95 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_160429
+
+CONTIG: k105_7995 (649bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 569
+		Alignment: 5726 5805 | 379 300 | 80 80 | 97.5 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_7995
+
+CONTIG: k105_138036 (1683bp)
+Best alignment score: 104.0 (LEN: 109, IDY: 95.41), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 181.0, number of alignments: 2, unaligned bases: 1495
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 188 out of 1683 non-N bases (11.17%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1683 (number of Ns: 0) and total length of all aligns is 188
+		Alignment: 5729 5807 | 372 294 | 79 79 | 97.47 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_138036
+		Alignment: 5224 5332 | 884 776 | 109 109 | 95.41 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_138036
+		Unaligned bases: 1495
+
+CONTIG: k105_105778 (3801bp)
+Best alignment score: 108.0 (LEN: 110, IDY: 98.18), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 181.0, number of alignments: 2, unaligned bases: 3617
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 184 out of 3801 non-N bases (4.84%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 3801 (number of Ns: 0) and total length of all aligns is 184
+		Alignment: 1666 1775 | 4 113 | 110 110 | 98.18 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_105778
+		Alignment: 4992 5065 | 3252 3325 | 74 74 | 98.65 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_105778
+		Unaligned bases: 3617
+
+CONTIG: k105_42099 (674bp)
+Best alignment score: 64.0 (LEN: 65, IDY: 98.46), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 64.0, number of alignments: 1, unaligned bases: 609
+		This contig is partially unaligned. (Aligned 65 out of 674 non-N bases (9.64%))
+		Alignment: 1666 1730 | 610 674 | 65 65 | 98.46 | Ulvibacter_litoralis_NZ_FNBA01000018.1 k105_42099
+		Unaligned bases: 1 to 609 (609)
+
+CONTIG: k105_53485 (1728bp)
+		This contig is unaligned. (1728 bp)
+		Unaligned bases: 1728 (number of Ns: 0)
+
+CONTIG: k105_35440 (12656bp)
+Best alignment score: 80.0 (LEN: 81, IDY: 98.77), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 12575
+		This contig is partially unaligned. (Aligned 81 out of 12656 non-N bases (0.64%))
+		Alignment: 126083 126163 | 1402 1482 | 81 81 | 98.77 | Ulvibacter_litoralis_NZ_FNBA01000006.1 k105_35440
+		Unaligned bases: 1 to 1401 (1401)
+		Unaligned bases: 1483 to 12656 (11174)
+
+CONTIG: k105_14044 (1204bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 1124
+		This contig is partially unaligned. (Aligned 80 out of 1204 non-N bases (6.64%))
+		Alignment: 124181 124260 | 151 230 | 80 80 | 100.0 | Ulvibacter_litoralis_NZ_FNBA01000006.1 k105_14044
+		Unaligned bases: 1 to 150 (150)
+		Unaligned bases: 231 to 1204 (974)
+
+CONTIG: k105_148634 (1924bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1846
+		This contig is partially unaligned. (Aligned 78 out of 1924 non-N bases (4.05%))
+		Alignment: 124468 124545 | 1185 1108 | 78 78 | 100.0 | Ulvibacter_litoralis_NZ_FNBA01000006.1 k105_148634
+		Unaligned bases: 1 to 1107 (1107)
+		Unaligned bases: 1186 to 1924 (739)
+
+CONTIG: k105_149852 (1584bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1504
+		This contig is partially unaligned. (Aligned 80 out of 1584 non-N bases (5.05%))
+		Alignment: 124183 124262 | 1257 1178 | 80 80 | 97.5 | Ulvibacter_litoralis_NZ_FNBA01000006.1 k105_149852
+		Unaligned bases: 1 to 1177 (1177)
+		Unaligned bases: 1258 to 1584 (327)
+
+CONTIG: k105_63839 (1187bp)
+Best alignment score: 87.0 (LEN: 87, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 1100
+		This contig is partially unaligned. (Aligned 87 out of 1187 non-N bases (7.33%))
+		Alignment: 26043 26129 | 470 556 | 87 87 | 100.0 | Ulvibacter_litoralis_NZ_FNBA01000010.1 k105_63839
+		Unaligned bases: 1 to 469 (469)
+		Unaligned bases: 557 to 1187 (631)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Ulvibacter_litoralis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Ulvibacter_litoralis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 3 + 19 part
+Half Unaligned Contigs with Misassemblies: 4
+Unaligned Contig Bases: 40598
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2522
+
+	SNPs: 157
+	Insertions: 2
+	Deletions: 82
+

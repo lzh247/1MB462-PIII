@@ -1,0 +1,196 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Alcanivorax_pacificus_W11_5_NZ_CP004387.1]
+	Total Regions: 1
+	Total Region Length: 4168427
+Analyzing contigs...
+CONTIG: k105_163867 (2448bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2013112 2013187 | 1853 1928 | 76 76 | 98.68 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_163867
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2371
+		This contig is partially unaligned. (Aligned 77 out of 2448 non-N bases (3.15%))
+		Alignment: 1464116 1464192 | 1852 1928 | 77 77 | 98.7 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_163867
+		Unaligned bases: 1 to 1851 (1851)
+		Unaligned bases: 1929 to 2448 (520)
+
+CONTIG: k105_88330 (26811bp)
+Best alignment score: 79.0 (LEN: 80, IDY: 98.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 26731
+		This contig is partially unaligned. (Aligned 80 out of 26811 non-N bases (0.30%))
+		Alignment: 2282235 2282314 | 217 138 | 80 80 | 98.75 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_88330
+		Unaligned bases: 1 to 137 (137)
+		Unaligned bases: 218 to 26811 (26594)
+
+CONTIG: k105_100628 (593bp)
+Best alignment score: 73.0 (LEN: 76, IDY: 96.05), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 734763 734838 | 412 487 | 76 76 | 96.05 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_100628
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 517
+		Alignment: 569640 569715 | 412 487 | 76 76 | 96.05 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_100628
+
+CONTIG: k105_4118 (14321bp)
+Best alignment score: 77.0 (LEN: 78, IDY: 98.72), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 14243
+		This contig is partially unaligned. (Aligned 78 out of 14321 non-N bases (0.54%))
+		Alignment: 1771903 1771980 | 4712 4635 | 78 78 | 98.72 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_4118
+		Unaligned bases: 1 to 4634 (4634)
+		Unaligned bases: 4713 to 14321 (9609)
+
+CONTIG: k105_133913 (1110bp)
+Best alignment score: 144.0 (LEN: 151, IDY: 95.36), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2013111 2013187 | 456 380 | 77 77 | 100.0 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_133913
+			The best set is below. Score: 144.0, number of alignments: 1, unaligned bases: 959
+		This contig is partially unaligned. (Aligned 151 out of 1110 non-N bases (13.60%))
+		Alignment: 1464044 1464192 | 530 380 | 149 151 | 95.36 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_133913
+		Unaligned bases: 1 to 379 (379)
+		Unaligned bases: 531 to 1110 (580)
+
+CONTIG: k105_26469 (1466bp)
+Best alignment score: 83.0 (LEN: 86, IDY: 96.51), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 224.0, number of alignments: 3, unaligned bases: 1224
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 242 out of 1466 non-N bases (16.51%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1466 (number of Ns: 0) and total length of all aligns is 242
+		Alignment: 596834 596911 | 317 240 | 78 78 | 98.72 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_26469
+		Alignment: 596146 596231 | 563 478 | 86 86 | 96.51 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_26469
+		Alignment: 595935 596012 | 782 705 | 78 78 | 100.0 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_26469
+		Unaligned bases: 1224
+
+CONTIG: k105_91574 (1208bp)
+Best alignment score: 120.0 (LEN: 125, IDY: 96.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 734729 734853 | 676 800 | 125 125 | 96.0 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_91574
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 120.0, number of alignments: 1, unaligned bases: 1083
+		This contig is partially unaligned. (Aligned 125 out of 1208 non-N bases (10.35%))
+		Alignment: 569606 569730 | 676 800 | 125 125 | 96.0 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_91574
+		Unaligned bases: 1 to 675 (675)
+		Unaligned bases: 801 to 1208 (408)
+
+CONTIG: k105_102505 (758bp)
+Best alignment score: 107.0 (LEN: 111, IDY: 96.40), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 572036 572146 | 648 758 | 111 111 | 96.4 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_102505
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 107.0, number of alignments: 1, unaligned bases: 647
+		This contig is partially unaligned. (Aligned 111 out of 758 non-N bases (14.64%))
+		Alignment: 737159 737269 | 648 758 | 111 111 | 96.4 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_102505
+		Unaligned bases: 1 to 647 (647)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 738042 738120 | 556 478 | 79 79 | 98.73 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_82356
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1220
+		This contig is partially unaligned. (Aligned 79 out of 1299 non-N bases (6.08%))
+		Alignment: 572919 572997 | 556 478 | 79 79 | 98.73 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_82356
+		Unaligned bases: 1 to 477 (477)
+		Unaligned bases: 557 to 1299 (743)
+
+CONTIG: k105_148069 (755bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 677
+		This contig is partially unaligned. (Aligned 78 out of 755 non-N bases (10.33%))
+		Alignment: 596833 596910 | 684 607 | 78 78 | 100.0 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_148069
+		Unaligned bases: 1 to 606 (606)
+		Unaligned bases: 685 to 755 (71)
+
+CONTIG: k105_8936 (702bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 624
+		This contig is partially unaligned. (Aligned 78 out of 702 non-N bases (11.11%))
+		Alignment: 596833 596910 | 578 501 | 78 78 | 100.0 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_8936
+		Unaligned bases: 1 to 500 (500)
+		Unaligned bases: 579 to 702 (124)
+
+CONTIG: k105_85365 (532bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 453
+		Alignment: 2313704 2313782 | 306 384 | 79 79 | 98.73 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_85365
+
+CONTIG: k105_21266 (841bp)
+Best alignment score: 169.0 (LEN: 176, IDY: 96.02), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 570263 570438 | 841 666 | 176 176 | 96.02 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_21266
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 169.0, number of alignments: 1, unaligned bases: 665
+		This contig is partially unaligned. (Aligned 176 out of 841 non-N bases (20.93%))
+		Alignment: 735386 735561 | 841 666 | 176 176 | 96.02 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_21266
+		Unaligned bases: 1 to 665 (665)
+
+CONTIG: k105_140695 (513bp)
+Best alignment score: 147.0 (LEN: 151, IDY: 97.35), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 573508 573658 | 507 357 | 151 151 | 97.35 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_140695
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 147.0, number of alignments: 1, unaligned bases: 362
+		Alignment: 738631 738781 | 507 357 | 151 151 | 97.35 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_140695
+
+CONTIG: k105_140970 (1614bp)
+Best alignment score: 79.0 (LEN: 80, IDY: 98.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 1534
+		This contig is partially unaligned. (Aligned 80 out of 1614 non-N bases (4.96%))
+		Alignment: 2282235 2282314 | 217 138 | 80 80 | 98.75 | Alcanivorax_pacificus_W11_5_NZ_CP004387.1 k105_140970
+		Unaligned bases: 1 to 137 (137)
+		Unaligned bases: 218 to 1614 (1397)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Alcanivorax_pacificus_W11_5/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Alcanivorax_pacificus_W11_5/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 12 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 51978
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 5212
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1271
+
+	SNPs: 38
+	Insertions: 2
+	Deletions: 0
+

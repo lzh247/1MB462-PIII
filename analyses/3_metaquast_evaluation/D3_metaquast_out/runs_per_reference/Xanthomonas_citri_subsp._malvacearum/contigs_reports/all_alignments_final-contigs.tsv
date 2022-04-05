@@ -1,0 +1,12 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+5114967	5115073	1	107	Xanthomonas_citri_subsp._malvacearum_NZ_CP013006.1	k105_65861	98.13		True
+unknown
+5115801	5115915	714	828	Xanthomonas_citri_subsp._malvacearum_NZ_CP013006.1	k105_65861	96.52		True
+unknown
+CONTIG	k105_65861	829	mis_unaligned
+1967627	1967699	154	82	Xanthomonas_citri_subsp._malvacearum_NZ_CP013006.1	k105_79645	98.63		True
+CONTIG	k105_79645	1369	correct_unaligned
+1171591	1171667	362	286	Xanthomonas_citri_subsp._malvacearum_NZ_CP013006.1	k105_138708	97.4		True
+CONTIG	k105_138708	2426	correct_unaligned
+1967455	1967527	469	541	Xanthomonas_citri_subsp._malvacearum_NZ_CP013006.1	k105_150107	98.63		True
+CONTIG	k105_150107	665	correct

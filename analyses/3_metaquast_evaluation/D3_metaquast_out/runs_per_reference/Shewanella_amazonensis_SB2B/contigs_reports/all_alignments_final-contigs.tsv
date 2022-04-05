@@ -1,0 +1,12 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1149696	1149766	928	858	Shewanella_amazonensis_SB2B_NC_008700.1	k105_165880	98.59		True
+CONTIG	k105_165880	1539	correct_unaligned
+4281314	4281386	487	415	Shewanella_amazonensis_SB2B_NC_008700.1	k105_100628	97.26		True
+CONTIG	k105_100628	593	correct
+CONTIG	k105_113386	807	unaligned
+279574	279652	556	478	Shewanella_amazonensis_SB2B_NC_008700.1	k105_82356	98.73		True
+CONTIG	k105_82356	1299	correct_unaligned
+56459	56590	628	759	Shewanella_amazonensis_SB2B_NC_008700.1	k105_171451	96.97		True
+CONTIG	k105_171451	2187	correct_unaligned
+225506	225591	641	556	Shewanella_amazonensis_SB2B_NC_008700.1	k105_31458	96.51		True
+CONTIG	k105_31458	901	correct_unaligned

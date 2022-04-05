@@ -1,0 +1,23 @@
+reference chromosomes:
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000001.1 (total length: 1273130 bp, total length without N's: 1272839 bp, maximal covered length: 79 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000002.1 (total length: 890717 bp, total length without N's: 890336 bp, maximal covered length: 79 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000003.1 (total length: 736881 bp, total length without N's: 736881 bp, maximal covered length: 0 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000004.1 (total length: 649624 bp, total length without N's: 649526 bp, maximal covered length: 0 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000005.1 (total length: 96494 bp, total length without N's: 96494 bp, maximal covered length: 0 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000006.1 (total length: 42454 bp, total length without N's: 42454 bp, maximal covered length: 0 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000007.1 (total length: 26309 bp, total length without N's: 26309 bp, maximal covered length: 0 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000008.1 (total length: 15853 bp, total length without N's: 15853 bp, maximal covered length: 0 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 (total length: 5049 bp, total length without N's: 4953 bp, maximal covered length: 780 bp)
+	Simiduia_sp._J_MY2_NZ_JACHXZ010000010.1 (total length: 2991 bp, total length without N's: 2991 bp, maximal covered length: 0 bp)
+
+total genome size: 3739502
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Simidui | 0.025     | 3.171       | 25        | -         | -         | -         | -         |

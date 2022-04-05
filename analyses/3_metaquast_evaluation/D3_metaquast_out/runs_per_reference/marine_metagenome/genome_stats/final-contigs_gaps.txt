@@ -1,0 +1,29 @@
+marine_metagenome_CAJIIY010000001.1
+1 131270
+marine_metagenome_CAJIIY010000002.1
+1 59198
+marine_metagenome_CAJIIY010000003.1
+1 206311
+marine_metagenome_CAJIIY010000004.1
+1 196187
+marine_metagenome_CAJIIY010000005.1
+1 23377
+marine_metagenome_CAJIIY010000006.1
+1 46037
+marine_metagenome_CAJIIY010000007.1
+1 185994
+marine_metagenome_CAJIIY010000008.1
+1 128046
+marine_metagenome_CAJIIY010000009.1
+1 155440
+marine_metagenome_CAJIIY010000010.1
+1 91915
+91992 564373
+marine_metagenome_CAJIIY010000011.1
+1 541725
+marine_metagenome_CAJIIY010000012.1
+1 85148
+marine_metagenome_CAJIIY010000013.1
+1 111571
+marine_metagenome_CAJIIY010000014.1
+1 287600

@@ -1,0 +1,200 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1]
+	Loaded [Modicisalibacter_tunisiensis_NZ_JAGXFC010000002.1]
+	Loaded [Modicisalibacter_tunisiensis_NZ_JAGXFC010000003.1]
+	Loaded [Modicisalibacter_tunisiensis_NZ_JAGXFC010000004.1]
+	Loaded [Modicisalibacter_tunisiensis_NZ_JAGXFC010000005.1]
+	Loaded [Modicisalibacter_tunisiensis_NZ_JAGXFC010000006.1]
+	Total Regions: 6
+	Total Region Length: 3568533
+Analyzing contigs...
+CONTIG: k105_11261 (941bp)
+Best alignment score: 86.0 (LEN: 89, IDY: 96.63), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1222997 1223083 | 645 559 | 87 87 | 96.55 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_11261
+		Skipping redundant alignment 2361374 2361460 | 645 559 | 87 87 | 96.55 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_11261
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 852
+		This contig is partially unaligned. (Aligned 89 out of 941 non-N bases (9.46%))
+		Alignment: 3018580 3018668 | 557 645 | 89 89 | 96.63 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_11261
+		Unaligned bases: 1 to 556 (556)
+		Unaligned bases: 646 to 941 (296)
+
+CONTIG: k105_46103 (16005bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 15928
+		This contig is partially unaligned. (Aligned 77 out of 16005 non-N bases (0.48%))
+		Alignment: 2355005 2355081 | 279 203 | 77 77 | 98.7 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_46103
+		Unaligned bases: 1 to 202 (202)
+		Unaligned bases: 280 to 16005 (15726)
+
+CONTIG: k105_24691 (570bp)
+		This contig is unaligned. (570 bp)
+		Unaligned bases: 570 (number of Ns: 0)
+
+CONTIG: k105_58596 (873bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 794
+		This contig is partially unaligned. (Aligned 79 out of 873 non-N bases (9.05%))
+		Alignment: 3044962 3045040 | 122 44 | 79 79 | 97.47 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_58596
+		Unaligned bases: 1 to 43 (43)
+		Unaligned bases: 123 to 873 (751)
+
+CONTIG: k105_37029 (200449bp)
+Best alignment score: 139.0 (LEN: 145, IDY: 95.86), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 139.0, number of alignments: 1, unaligned bases: 200304
+		This contig is partially unaligned. (Aligned 145 out of 200449 non-N bases (0.07%))
+		Alignment: 2022879 2023023 | 35545 35689 | 145 145 | 95.86 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_37029
+		Unaligned bases: 1 to 35544 (35544)
+		Unaligned bases: 35690 to 200449 (164760)
+
+CONTIG: k105_80348 (581bp)
+		This contig is unaligned. (581 bp)
+		Unaligned bases: 581 (number of Ns: 0)
+
+CONTIG: k105_113964 (539bp)
+Best alignment score: 96.0 (LEN: 101, IDY: 95.05), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1223295 1223395 | 146 46 | 101 101 | 95.05 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_113964
+		Skipping redundant alignment 2361672 2361772 | 146 46 | 101 101 | 95.05 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_113964
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 438
+		Alignment: 3018270 3018370 | 46 146 | 101 101 | 95.05 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_113964
+
+CONTIG: k105_93083 (3796bp)
+Best alignment score: 70.0 (LEN: 71, IDY: 98.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 3725
+		This contig is partially unaligned. (Aligned 71 out of 3796 non-N bases (1.87%))
+		Alignment: 2616777 2616847 | 3125 3195 | 71 71 | 98.59 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_93083
+		Unaligned bases: 1 to 3124 (3124)
+		Unaligned bases: 3196 to 3796 (601)
+
+CONTIG: k105_28389 (596bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 516
+		Alignment: 2122432 2122511 | 252 173 | 80 80 | 97.5 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_28389
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1220872 1220950 | 478 556 | 79 79 | 98.73 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_82356
+		Skipping redundant alignment 2358806 2358884 | 478 556 | 79 79 | 98.73 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_82356
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1220
+		This contig is partially unaligned. (Aligned 79 out of 1299 non-N bases (6.08%))
+		Alignment: 3020715 3020793 | 556 478 | 79 79 | 98.73 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_82356
+		Unaligned bases: 1 to 477 (477)
+		Unaligned bases: 557 to 1299 (743)
+
+CONTIG: k105_137473 (1030bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 954
+		This contig is partially unaligned. (Aligned 76 out of 1030 non-N bases (7.38%))
+		Alignment: 2355005 2355080 | 399 324 | 76 76 | 98.68 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_137473
+		Unaligned bases: 1 to 323 (323)
+		Unaligned bases: 400 to 1030 (631)
+
+CONTIG: k105_62472 (789bp)
+Best alignment score: 140.0 (LEN: 145, IDY: 96.55), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3017374 3017518 | 145 1 | 145 145 | 96.55 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_62472
+		Skipping redundant alignment 2362524 2362668 | 1 145 | 145 145 | 96.55 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_62472
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 140.0, number of alignments: 1, unaligned bases: 644
+		This contig is partially unaligned. (Aligned 145 out of 789 non-N bases (18.38%))
+		Alignment: 1224147 1224291 | 1 145 | 145 145 | 96.55 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_62472
+		Unaligned bases: 146 to 789 (644)
+
+CONTIG: k105_62473 (3303bp)
+Best alignment score: 144.0 (LEN: 149, IDY: 96.64), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1224147 1224295 | 1 149 | 149 149 | 96.64 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_62473
+		Skipping redundant alignment 3017370 3017518 | 149 1 | 149 149 | 96.64 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_62473
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 144.0, number of alignments: 1, unaligned bases: 3154
+		This contig is partially unaligned. (Aligned 149 out of 3303 non-N bases (4.51%))
+		Alignment: 2362524 2362672 | 1 149 | 149 149 | 96.64 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_62473
+		Unaligned bases: 150 to 3303 (3154)
+
+CONTIG: k105_150096 (536bp)
+Best alignment score: 82.0 (LEN: 86, IDY: 95.35), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3018285 3018370 | 398 313 | 86 86 | 95.35 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150096
+		Skipping redundant alignment 2361672 2361757 | 313 398 | 86 86 | 95.35 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150096
+		Skipping redundant alignment 3018171 3018239 | 511 443 | 69 69 | 95.65 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150096
+		Skipping redundant alignment 2361800 2361871 | 440 511 | 72 72 | 95.83 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150096
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 151.0, number of alignments: 2, unaligned bases: 378
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 536 (number of Ns: 0) and total length of all aligns is 158
+		Alignment: 1223295 1223380 | 313 398 | 86 86 | 95.35 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150096
+		Alignment: 1223423 1223494 | 440 511 | 72 72 | 95.83 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150096
+		Unaligned bases: 378
+
+CONTIG: k105_150900 (742bp)
+Best alignment score: 235.0 (LEN: 245, IDY: 95.92), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3021350 3021594 | 742 498 | 245 245 | 95.92 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150900
+		Skipping redundant alignment 2358005 2358249 | 498 742 | 245 245 | 95.92 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150900
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 235.0, number of alignments: 1, unaligned bases: 497
+		Alignment: 1220071 1220315 | 498 742 | 245 245 | 95.92 | Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1 k105_150900
+
+CONTIG: k105_173511 (588bp)
+		This contig is unaligned. (588 bp)
+		Unaligned bases: 588 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Modicisalibacter_tunisiensis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Modicisalibacter_tunisiensis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 3 + 9 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 229314
+
+Ambiguously Mapped Contigs: 6
+Total Bases in Ambiguously Mapped Contigs: 7208
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1418
+
+	SNPs: 49
+	Insertions: 0
+	Deletions: 0
+

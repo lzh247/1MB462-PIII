@@ -1,0 +1,22 @@
+reference chromosomes:
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000001.1 (total length: 2479841 bp, total length without N's: 2479841 bp, maximal covered length: 0 bp)
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000002.1 (total length: 1871678 bp, total length without N's: 1871678 bp, maximal covered length: 536 bp)
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000003.1 (total length: 588819 bp, total length without N's: 588819 bp, maximal covered length: 78 bp)
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000004.1 (total length: 385802 bp, total length without N's: 385802 bp, maximal covered length: 0 bp)
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000005.1 (total length: 193635 bp, total length without N's: 193635 bp, maximal covered length: 0 bp)
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000006.1 (total length: 162419 bp, total length without N's: 162419 bp, maximal covered length: 0 bp)
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000009.1 (total length: 5375 bp, total length without N's: 5375 bp, maximal covered length: 0 bp)
+	Conexibacter_woesei_Iso977N_NZ_AUKG01000010.1 (total length: 1951 bp, total length without N's: 1951 bp, maximal covered length: 0 bp)
+	Conexibacter_woesei_Iso977N_NZ_KE384217.1 (total length: 5897 bp, total length without N's: 5708 bp, maximal covered length: 0 bp)
+
+total genome size: 5695417
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Conexib | 0.011     | 3.324       | 14        | -         | -         | -         | -         |

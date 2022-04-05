@@ -1,0 +1,44 @@
+reference chromosomes:
+	Tenacibaculum_skagerrakense_NZ_SLXM01000001.1 (total length: 902261 bp, total length without N's: 902261 bp, maximal covered length: 153 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000002.1 (total length: 377915 bp, total length without N's: 377915 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000003.1 (total length: 346365 bp, total length without N's: 346268 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000004.1 (total length: 316461 bp, total length without N's: 316368 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000005.1 (total length: 312878 bp, total length without N's: 312780 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000006.1 (total length: 292242 bp, total length without N's: 292242 bp, maximal covered length: 228 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000007.1 (total length: 276840 bp, total length without N's: 276840 bp, maximal covered length: 79 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000008.1 (total length: 215077 bp, total length without N's: 215077 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000009.1 (total length: 144231 bp, total length without N's: 144231 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000010.1 (total length: 141976 bp, total length without N's: 141976 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000011.1 (total length: 94067 bp, total length without N's: 94067 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000012.1 (total length: 56406 bp, total length without N's: 56406 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000013.1 (total length: 54690 bp, total length without N's: 54690 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000014.1 (total length: 33994 bp, total length without N's: 33994 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000015.1 (total length: 28261 bp, total length without N's: 28261 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000016.1 (total length: 20500 bp, total length without N's: 20500 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000017.1 (total length: 19312 bp, total length without N's: 19312 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000018.1 (total length: 16673 bp, total length without N's: 16673 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000019.1 (total length: 16071 bp, total length without N's: 16071 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000020.1 (total length: 16041 bp, total length without N's: 16041 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000021.1 (total length: 5024 bp, total length without N's: 5024 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000022.1 (total length: 4686 bp, total length without N's: 4686 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 (total length: 4323 bp, total length without N's: 4323 bp, maximal covered length: 1614 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000024.1 (total length: 3490 bp, total length without N's: 3490 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000025.1 (total length: 3473 bp, total length without N's: 3473 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000026.1 (total length: 2121 bp, total length without N's: 2121 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000027.1 (total length: 2064 bp, total length without N's: 2064 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000028.1 (total length: 1952 bp, total length without N's: 1952 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000029.1 (total length: 1252 bp, total length without N's: 1252 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000030.1 (total length: 1229 bp, total length without N's: 1229 bp, maximal covered length: 0 bp)
+	Tenacibaculum_skagerrakense_NZ_SLXM01000031.1 (total length: 1025 bp, total length without N's: 1025 bp, maximal covered length: 0 bp)
+
+total genome size: 3712900
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Tenacib | 0.056     | 1.722       | 45        | -         | -         | -         | -         |

@@ -1,0 +1,74 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000001.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000002.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000003.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000004.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000005.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000006.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000007.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000008.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000009.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000010.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000011.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000012.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000013.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000014.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000015.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000016.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000017.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000018.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000019.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000020.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000021.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000022.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000023.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000024.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000025.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000026.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000027.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000028.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000029.1]
+	Loaded [Gracilibacteria_bacterium_JGI_0000069_P22_ASND01000030.1]
+	Total Regions: 30
+	Total Region Length: 341011
+Analyzing contigs...
+CONTIG: k105_18984 (724bp)
+		This contig is unaligned. (724 bp)
+		Unaligned bases: 724 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Gracilibacteria_bacterium_JGI_0000069_P22/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Gracilibacteria_bacterium_JGI_0000069_P22/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 724
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 0
+
+	SNPs: 0
+	Insertions: 0
+	Deletions: 0
+

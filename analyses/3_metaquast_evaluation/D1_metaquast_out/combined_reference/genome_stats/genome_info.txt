@@ -1,0 +1,14 @@
+reference chromosomes:
+	Synechococcus_sp._RCC307_CT978603.1 (total length: 2224914 bp, total length without N's: 2224913 bp, maximal covered length: 1242699 bp)
+
+total genome size: 2224914
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final_contigs            | 55.854    | 1.045       | 821       | -         | -         | -         | -         |

@@ -1,0 +1,276 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1]
+	Loaded [Thiohalobacter_thiocyanaticus_NZ_QZMU01000002.1]
+	Total Regions: 2
+	Total Region Length: 3299615
+Analyzing contigs...
+CONTIG: k105_163029 (87077bp)
+Best alignment score: 78.0 (LEN: 80, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 86997
+		This contig is partially unaligned. (Aligned 80 out of 87077 non-N bases (0.09%))
+		Alignment: 223510 223589 | 12224 12303 | 80 80 | 97.5 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000002.1 k105_163029
+		Unaligned bases: 1 to 12223 (12223)
+		Unaligned bases: 12304 to 87077 (74774)
+
+CONTIG: k105_65861 (829bp)
+Best alignment score: 114.0 (LEN: 116, IDY: 98.28), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 211.0, number of alignments: 2, unaligned bases: 609
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 220 out of 829 non-N bases (26.54%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 829 (number of Ns: 0) and total length of all aligns is 220
+		Alignment: 2365635 2365738 | 104 1 | 104 104 | 100.0 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_65861
+		Alignment: 2364788 2364903 | 829 714 | 116 116 | 98.28 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_65861
+		Unaligned bases: 609
+
+CONTIG: k105_44280 (539bp)
+Best alignment score: 126.0 (LEN: 132, IDY: 95.45), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 126.0, number of alignments: 1, unaligned bases: 407
+		Alignment: 2362628 2362759 | 408 539 | 132 132 | 95.45 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_44280
+
+CONTIG: k105_109451 (86960bp)
+Best alignment score: 87.0 (LEN: 90, IDY: 96.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 86870
+		This contig is partially unaligned. (Aligned 90 out of 86960 non-N bases (0.10%))
+		Alignment: 1994704 1994793 | 68533 68622 | 90 90 | 96.67 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_109451
+		Unaligned bases: 1 to 68532 (68532)
+		Unaligned bases: 68623 to 86960 (18338)
+
+CONTIG: k105_77240 (640bp)
+Best alignment score: 71.0 (LEN: 72, IDY: 98.61), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 568
+		Alignment: 2399715 2399786 | 560 489 | 72 72 | 98.61 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_77240
+
+CONTIG: k105_99286 (172953bp)
+Best alignment score: 74.0 (LEN: 77, IDY: 96.10), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 172876
+		This contig is partially unaligned. (Aligned 77 out of 172953 non-N bases (0.04%))
+		Alignment: 1695479 1695555 | 67922 67998 | 77 77 | 96.1 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_99286
+		Unaligned bases: 1 to 67921 (67921)
+		Unaligned bases: 67999 to 172953 (104955)
+
+CONTIG: k105_77732 (1214bp)
+Best alignment score: 237.0 (LEN: 249, IDY: 95.18), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 237.0, number of alignments: 1, unaligned bases: 965
+		This contig is partially unaligned. (Aligned 249 out of 1214 non-N bases (20.51%))
+		Alignment: 2366300 2366548 | 1 249 | 249 249 | 95.18 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_77732
+		Unaligned bases: 250 to 1214 (965)
+
+CONTIG: k105_111188 (992bp)
+Best alignment score: 72.0 (LEN: 75, IDY: 96.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 72.0, number of alignments: 1, unaligned bases: 917
+		This contig is partially unaligned. (Aligned 75 out of 992 non-N bases (7.56%))
+		Alignment: 2361812 2361886 | 376 302 | 75 75 | 96.0 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_111188
+		Unaligned bases: 1 to 301 (301)
+		Unaligned bases: 377 to 992 (616)
+
+CONTIG: k105_13716 (791bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 714
+		Alignment: 565682 565758 | 292 216 | 77 77 | 100.0 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_13716
+
+CONTIG: k105_122464 (4436bp)
+Best alignment score: 92.0 (LEN: 94, IDY: 97.87), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 4342
+		This contig is partially unaligned. (Aligned 94 out of 4436 non-N bases (2.12%))
+		Alignment: 2733550 2733643 | 3207 3114 | 94 94 | 97.87 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_122464
+		Unaligned bases: 1 to 3113 (3113)
+		Unaligned bases: 3208 to 4436 (1229)
+
+CONTIG: k105_155815 (859bp)
+Best alignment score: 112.0 (LEN: 116, IDY: 96.55), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 112.0, number of alignments: 1, unaligned bases: 743
+		This contig is partially unaligned. (Aligned 116 out of 859 non-N bases (13.50%))
+		Alignment: 2364788 2364903 | 1 116 | 116 116 | 96.55 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_155815
+		Unaligned bases: 117 to 859 (743)
+
+CONTIG: k105_68578 (785bp)
+Best alignment score: 86.0 (LEN: 89, IDY: 96.63), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 696
+		This contig is partially unaligned. (Aligned 89 out of 785 non-N bases (11.34%))
+		Alignment: 2363228 2363316 | 527 615 | 89 89 | 96.63 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_68578
+		Unaligned bases: 1 to 526 (526)
+		Unaligned bases: 616 to 785 (170)
+
+CONTIG: k105_91574 (1208bp)
+Best alignment score: 106.0 (LEN: 110, IDY: 96.36), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 206.0, number of alignments: 2, unaligned bases: 994
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 214 out of 1208 non-N bases (17.72%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1208 (number of Ns: 0) and total length of all aligns is 214
+		Alignment: 2362800 2362909 | 988 1097 | 110 110 | 96.36 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_91574
+		Alignment: 2362914 2363017 | 1104 1207 | 104 104 | 96.15 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_91574
+		Unaligned bases: 994
+
+CONTIG: k105_27494 (727bp)
+Best alignment score: 91.0 (LEN: 95, IDY: 95.79), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 632
+		This contig is partially unaligned. (Aligned 95 out of 727 non-N bases (13.07%))
+		Alignment: 2365648 2365742 | 105 11 | 95 95 | 95.79 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_27494
+		Unaligned bases: 1 to 10 (10)
+		Unaligned bases: 106 to 727 (622)
+
+CONTIG: k105_94114 (3102bp)
+Best alignment score: 97.0 (LEN: 102, IDY: 95.10), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 275.0, number of alignments: 3, unaligned bases: 2816
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 286 out of 3102 non-N bases (9.22%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 3102 (number of Ns: 0) and total length of all aligns is 286
+		Alignment: 2362672 2362773 | 8 109 | 102 102 | 95.1 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_94114
+		Alignment: 2362818 2362907 | 165 254 | 90 90 | 95.56 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_94114
+		Alignment: 2365649 2365742 | 3009 3102 | 94 94 | 97.87 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_94114
+		Unaligned bases: 2816
+
+CONTIG: k105_61404 (598bp)
+Best alignment score: 144.0 (LEN: 148, IDY: 97.30), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 144.0, number of alignments: 1, unaligned bases: 450
+		Alignment: 2364158 2364305 | 303 450 | 148 148 | 97.3 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_61404
+
+CONTIG: k105_50228 (1099bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1022
+		This contig is partially unaligned. (Aligned 77 out of 1099 non-N bases (7.01%))
+		Alignment: 2398127 2398203 | 355 279 | 77 77 | 98.7 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_50228
+		Unaligned bases: 1 to 278 (278)
+		Unaligned bases: 356 to 1099 (744)
+
+CONTIG: k105_29232 (134279bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 134202
+		This contig is partially unaligned. (Aligned 77 out of 134279 non-N bases (0.06%))
+		Alignment: 1843195 1843271 | 39137 39213 | 77 77 | 100.0 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_29232
+		Unaligned bases: 1 to 39136 (39136)
+		Unaligned bases: 39214 to 134279 (95066)
+
+CONTIG: k105_95469 (603bp)
+Best alignment score: 154.0 (LEN: 162, IDY: 95.06), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 154.0, number of alignments: 1, unaligned bases: 441
+		Alignment: 2362617 2362778 | 442 603 | 162 162 | 95.06 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_95469
+
+CONTIG: k105_52236 (2532bp)
+Best alignment score: 71.0 (LEN: 72, IDY: 98.61), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 2460
+		This contig is partially unaligned. (Aligned 72 out of 2532 non-N bases (2.84%))
+		Alignment: 2399715 2399786 | 2402 2331 | 72 72 | 98.61 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_52236
+		Unaligned bases: 1 to 2330 (2330)
+		Unaligned bases: 2403 to 2532 (130)
+
+CONTIG: k105_106257 (3426bp)
+Best alignment score: 91.0 (LEN: 93, IDY: 97.85), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 3333
+		This contig is partially unaligned. (Aligned 93 out of 3426 non-N bases (2.71%))
+		Alignment: 2733550 2733642 | 1936 1844 | 93 93 | 97.85 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_106257
+		Unaligned bases: 1 to 1843 (1843)
+		Unaligned bases: 1937 to 3426 (1490)
+
+CONTIG: k105_52701 (876bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 146.0, number of alignments: 2, unaligned bases: 720
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 876 (number of Ns: 0) and total length of all aligns is 156
+		Alignment: 2363401 2363478 | 250 327 | 78 78 | 97.44 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_52701
+		Alignment: 2363490 2363567 | 442 519 | 78 78 | 100.0 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_52701
+		Unaligned bases: 720
+
+CONTIG: k105_52859 (597bp)
+		This contig is unaligned. (597 bp)
+		Unaligned bases: 597 (number of Ns: 0)
+
+CONTIG: k105_118644 (2232bp)
+Best alignment score: 191.0 (LEN: 201, IDY: 95.02), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 191.0, number of alignments: 1, unaligned bases: 2031
+		This contig is partially unaligned. (Aligned 201 out of 2232 non-N bases (9.01%))
+		Alignment: 2362817 2363017 | 903 703 | 201 201 | 95.02 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_118644
+		Unaligned bases: 1 to 702 (702)
+		Unaligned bases: 904 to 2232 (1329)
+
+CONTIG: k105_10842 (1395bp)
+Best alignment score: 273.0 (LEN: 284, IDY: 96.13), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 273.0, number of alignments: 1, unaligned bases: 1111
+		This contig is partially unaligned. (Aligned 284 out of 1395 non-N bases (20.36%))
+		Alignment: 2366248 2366531 | 1 284 | 284 284 | 96.13 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_10842
+		Unaligned bases: 285 to 1395 (1111)
+
+CONTIG: k105_42097 (674bp)
+Best alignment score: 261.0 (LEN: 272, IDY: 95.96), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 261.0, number of alignments: 1, unaligned bases: 402
+		Alignment: 2366081 2366352 | 272 1 | 272 272 | 95.96 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_42097
+
+CONTIG: k105_21266 (841bp)
+Best alignment score: 80.0 (LEN: 83, IDY: 96.39), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 758
+		This contig is partially unaligned. (Aligned 83 out of 841 non-N bases (9.87%))
+		Alignment: 2363395 2363477 | 610 528 | 83 83 | 96.39 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_21266
+		Unaligned bases: 1 to 527 (527)
+		Unaligned bases: 611 to 841 (231)
+
+CONTIG: k105_151753 (2819bp)
+Best alignment score: 70.0 (LEN: 71, IDY: 98.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 2748
+		This contig is partially unaligned. (Aligned 71 out of 2819 non-N bases (2.52%))
+		Alignment: 2408489 2408559 | 123 53 | 71 71 | 98.59 | Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1 k105_151753
+		Unaligned bases: 1 to 52 (52)
+		Unaligned bases: 124 to 2819 (2696)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Thiohalobacter_thiocyanaticus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Thiohalobacter_thiocyanaticus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 20 part
+Half Unaligned Contigs with Misassemblies: 4
+Unaligned Contig Bases: 507719
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2261
+
+	SNPs: 118
+	Insertions: 0
+	Deletions: 0
+

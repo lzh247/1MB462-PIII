@@ -1,0 +1,86 @@
+Desulfuromonas_thiophila_NZ_FNAQ01000001.1
+1 313032
+313358 501858
+Desulfuromonas_thiophila_NZ_FNAQ01000002.1
+1 120493
+120573 339575
+Desulfuromonas_thiophila_NZ_FNAQ01000003.1
+1 295391
+Desulfuromonas_thiophila_NZ_FNAQ01000004.1
+1 222861
+Desulfuromonas_thiophila_NZ_FNAQ01000005.1
+1 111360
+Desulfuromonas_thiophila_NZ_FNAQ01000006.1
+1 75300
+75521 105888
+Desulfuromonas_thiophila_NZ_FNAQ01000007.1
+1 82390
+84356 105035
+Desulfuromonas_thiophila_NZ_FNAQ01000008.1
+1 99781
+Desulfuromonas_thiophila_NZ_FNAQ01000009.1
+1 98747
+Desulfuromonas_thiophila_NZ_FNAQ01000010.1
+1 88012
+Desulfuromonas_thiophila_NZ_FNAQ01000011.1
+1 82133
+Desulfuromonas_thiophila_NZ_FNAQ01000012.1
+1 78710
+Desulfuromonas_thiophila_NZ_FNAQ01000013.1
+1 70871
+Desulfuromonas_thiophila_NZ_FNAQ01000014.1
+1 60403
+Desulfuromonas_thiophila_NZ_FNAQ01000015.1
+1 4232
+4423 57817
+Desulfuromonas_thiophila_NZ_FNAQ01000016.1
+1 52358
+Desulfuromonas_thiophila_NZ_FNAQ01000017.1
+1 52422
+Desulfuromonas_thiophila_NZ_FNAQ01000018.1
+1 50317
+Desulfuromonas_thiophila_NZ_FNAQ01000019.1
+1 44155
+Desulfuromonas_thiophila_NZ_FNAQ01000020.1
+1 41870
+Desulfuromonas_thiophila_NZ_FNAQ01000021.1
+1 41101
+Desulfuromonas_thiophila_NZ_FNAQ01000022.1
+1 32335
+Desulfuromonas_thiophila_NZ_FNAQ01000023.1
+1 30689
+Desulfuromonas_thiophila_NZ_FNAQ01000024.1
+1 25517
+Desulfuromonas_thiophila_NZ_FNAQ01000025.1
+1 25167
+Desulfuromonas_thiophila_NZ_FNAQ01000026.1
+1 16868
+Desulfuromonas_thiophila_NZ_FNAQ01000027.1
+1 11855
+Desulfuromonas_thiophila_NZ_FNAQ01000028.1
+1 8529
+Desulfuromonas_thiophila_NZ_FNAQ01000029.1
+1 8347
+Desulfuromonas_thiophila_NZ_FNAQ01000030.1
+1 6072
+Desulfuromonas_thiophila_NZ_FNAQ01000031.1
+1 5826
+Desulfuromonas_thiophila_NZ_FNAQ01000032.1
+96 321
+412 3229
+3343 4056
+4122 4265
+Desulfuromonas_thiophila_NZ_FNAQ01000033.1
+1 2839
+Desulfuromonas_thiophila_NZ_FNAQ01000034.1
+1 2730
+Desulfuromonas_thiophila_NZ_FNAQ01000035.1
+1 2167
+Desulfuromonas_thiophila_NZ_FNAQ01000036.1
+1 1984
+Desulfuromonas_thiophila_NZ_FNAQ01000037.1
+1 1749
+Desulfuromonas_thiophila_NZ_FNAQ01000038.1
+1 1323
+Desulfuromonas_thiophila_NZ_FNAQ01000039.1
+1 1040

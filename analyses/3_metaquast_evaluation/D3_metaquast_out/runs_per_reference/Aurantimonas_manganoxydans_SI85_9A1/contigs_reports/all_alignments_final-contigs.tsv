@@ -1,0 +1,12 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1743057	1743125	18	86	Aurantimonas_manganoxydans_SI85_9A1_NZ_CH672387.1	k105_76955	97.1		True
+CONTIG	k105_76955	1494	correct_unaligned
+4220814	4220894	513	593	Aurantimonas_manganoxydans_SI85_9A1_NZ_CH672387.1	k105_100628	95.06		True
+CONTIG	k105_100628	593	correct_unaligned
+4224269	4224365	755	659	Aurantimonas_manganoxydans_SI85_9A1_NZ_CH672387.1	k105_25981	95.88		True
+CONTIG	k105_25981	1377	correct_unaligned
+1746318	1746473	1032	1187	Aurantimonas_manganoxydans_SI85_9A1_NZ_CH672387.1	k105_58585	95.51		True
+CONTIG	k105_58585	1348	correct_unaligned
+CONTIG	k105_128190	519	unaligned
+2200296	2200372	356	432	Aurantimonas_manganoxydans_SI85_9A1_NZ_CH672387.1	k105_139673	97.4		True
+CONTIG	k105_139673	1437	correct_unaligned

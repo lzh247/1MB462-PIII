@@ -1,0 +1,33 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+3018580	3018668	557	645	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_11261	96.63		True
+CONTIG	k105_11261	941	correct_unaligned
+2355005	2355081	279	203	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_46103	98.7		True
+CONTIG	k105_46103	16005	correct_unaligned
+CONTIG	k105_24691	570	unaligned
+3044962	3045040	122	44	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_58596	97.47		True
+CONTIG	k105_58596	873	correct_unaligned
+2022879	2023023	35545	35689	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_37029	95.86		True
+CONTIG	k105_37029	200449	correct_unaligned
+CONTIG	k105_80348	581	unaligned
+3018270	3018370	46	146	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_113964	95.05		True
+CONTIG	k105_113964	539	correct
+2616777	2616847	3125	3195	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_93083	98.59		True
+CONTIG	k105_93083	3796	correct_unaligned
+2122432	2122511	252	173	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_28389	97.5		True
+CONTIG	k105_28389	596	correct
+3020715	3020793	556	478	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_82356	98.73		True
+CONTIG	k105_82356	1299	correct_unaligned
+2355005	2355080	399	324	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_137473	98.68		True
+CONTIG	k105_137473	1030	correct_unaligned
+1224147	1224291	1	145	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_62472	96.55		True
+CONTIG	k105_62472	789	correct_unaligned
+2362524	2362672	1	149	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_62473	96.64		True
+CONTIG	k105_62473	3303	correct_unaligned
+1223295	1223380	313	398	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_150096	95.35		True
+unknown
+1223423	1223494	440	511	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_150096	95.83		True
+unknown
+CONTIG	k105_150096	536	mis_unaligned
+1220071	1220315	498	742	Modicisalibacter_tunisiensis_NZ_JAGXFC010000001.1	k105_150900	95.92		True
+CONTIG	k105_150900	742	correct
+CONTIG	k105_173511	588	unaligned

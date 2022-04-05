@@ -1,0 +1,22 @@
+reference chromosomes:
+	Oceanicola_granulosus_HTCC2516_NZ_AAOT01000082.1 (total length: 1897 bp, total length without N's: 1897 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_AAOT01000083.1 (total length: 1657 bp, total length without N's: 1657 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_AAOT01000084.1 (total length: 1281 bp, total length without N's: 1281 bp, maximal covered length: 93 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724107.1 (total length: 2598952 bp, total length without N's: 2590084 bp, maximal covered length: 1874 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724108.1 (total length: 736483 bp, total length without N's: 732829 bp, maximal covered length: 555 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724109.1 (total length: 283342 bp, total length without N's: 282670 bp, maximal covered length: 103 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724110.1 (total length: 238077 bp, total length without N's: 237597 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724111.1 (total length: 132045 bp, total length without N's: 131950 bp, maximal covered length: 0 bp)
+	Oceanicola_granulosus_HTCC2516_NZ_CH724112.1 (total length: 59405 bp, total length without N's: 59146 bp, maximal covered length: 0 bp)
+
+total genome size: 4053139
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Oceanic | 0.065     | 2.390       | 101       | -         | -         | -         | -         |

@@ -1,0 +1,14 @@
+reference chromosomes:
+	Alcanivorax_pacificus_W11_5_NZ_CP004387.1 (total length: 4168427 bp, total length without N's: 4168426 bp, maximal covered length: 1271 bp)
+
+total genome size: 4168427
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Alcaniv | 0.030     | 2.355       | 14        | -         | -         | -         | -         |

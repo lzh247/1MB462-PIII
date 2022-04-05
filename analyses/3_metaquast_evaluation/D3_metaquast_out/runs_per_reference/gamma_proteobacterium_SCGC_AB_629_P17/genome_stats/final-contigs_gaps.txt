@@ -1,0 +1,160 @@
+gamma_proteobacterium_SCGC_AB_629_P17_KB889757.1
+1 205509
+gamma_proteobacterium_SCGC_AB_629_P17_KB889758.1
+1 86750
+88666 92999
+93015 139034
+gamma_proteobacterium_SCGC_AB_629_P17_KB889759.1
+1 36235
+gamma_proteobacterium_SCGC_AB_629_P17_KB889760.1
+1 7367
+7938 35808
+gamma_proteobacterium_SCGC_AB_629_P17_KB889761.1
+1 33648
+gamma_proteobacterium_SCGC_AB_629_P17_KB889762.1
+1 25550
+25552 32970
+gamma_proteobacterium_SCGC_AB_629_P17_KB889763.1
+1 3605
+3607 24464
+25590 28166
+gamma_proteobacterium_SCGC_AB_629_P17_KB889764.1
+1 28089
+gamma_proteobacterium_SCGC_AB_629_P17_KB889765.1
+1 26673
+gamma_proteobacterium_SCGC_AB_629_P17_KB889766.1
+1 24240
+gamma_proteobacterium_SCGC_AB_629_P17_KB889767.1
+1 23267
+gamma_proteobacterium_SCGC_AB_629_P17_KB889768.1
+1 21247
+gamma_proteobacterium_SCGC_AB_629_P17_KB889769.1
+1 23879
+23881 24060
+24062 110970
+gamma_proteobacterium_SCGC_AB_629_P17_KB889770.1
+1 20011
+gamma_proteobacterium_SCGC_AB_629_P17_KB889771.1
+1 18111
+gamma_proteobacterium_SCGC_AB_629_P17_KB889772.1
+1 13925
+14000 16984
+gamma_proteobacterium_SCGC_AB_629_P17_KB889773.1
+1 6139
+6145 16913
+gamma_proteobacterium_SCGC_AB_629_P17_KB889774.1
+1 15064
+gamma_proteobacterium_SCGC_AB_629_P17_KB889775.1
+1 13366
+gamma_proteobacterium_SCGC_AB_629_P17_KB889776.1
+1 4386
+4388 10624
+gamma_proteobacterium_SCGC_AB_629_P17_KB889777.1
+1 10551
+gamma_proteobacterium_SCGC_AB_629_P17_KB889778.1
+1 9917
+gamma_proteobacterium_SCGC_AB_629_P17_KB889779.1
+1 9635
+gamma_proteobacterium_SCGC_AB_629_P17_KB889780.1
+1 38684
+38686 43528
+43530 59987
+60564 61010
+61331 62258
+62986 63951
+64588 87684
+gamma_proteobacterium_SCGC_AB_629_P17_KB889781.1
+1 7054
+gamma_proteobacterium_SCGC_AB_629_P17_KB889782.1
+1 4718
+gamma_proteobacterium_SCGC_AB_629_P17_KB889783.1
+1 4629
+gamma_proteobacterium_SCGC_AB_629_P17_KB889784.1
+1 4624
+gamma_proteobacterium_SCGC_AB_629_P17_KB889785.1
+1 4574
+gamma_proteobacterium_SCGC_AB_629_P17_KB889786.1
+1 3644
+gamma_proteobacterium_SCGC_AB_629_P17_KB889787.1
+1 3140
+gamma_proteobacterium_SCGC_AB_629_P17_KB889788.1
+1 3077
+gamma_proteobacterium_SCGC_AB_629_P17_KB889789.1
+1 1258
+1354 2758
+gamma_proteobacterium_SCGC_AB_629_P17_KB889790.1
+1 2714
+gamma_proteobacterium_SCGC_AB_629_P17_KB889791.1
+1 74654
+gamma_proteobacterium_SCGC_AB_629_P17_KB889792.1
+1 2598
+gamma_proteobacterium_SCGC_AB_629_P17_KB889793.1
+1 2417
+gamma_proteobacterium_SCGC_AB_629_P17_KB889794.1
+1 2384
+gamma_proteobacterium_SCGC_AB_629_P17_KB889795.1
+1 2141
+gamma_proteobacterium_SCGC_AB_629_P17_KB889796.1
+1 2066
+gamma_proteobacterium_SCGC_AB_629_P17_KB889797.1
+1 2045
+gamma_proteobacterium_SCGC_AB_629_P17_KB889798.1
+1 2042
+gamma_proteobacterium_SCGC_AB_629_P17_KB889799.1
+1 2006
+gamma_proteobacterium_SCGC_AB_629_P17_KB889800.1
+1 1894
+gamma_proteobacterium_SCGC_AB_629_P17_KB889801.1
+1 1793
+gamma_proteobacterium_SCGC_AB_629_P17_KB889802.1
+1 73896
+gamma_proteobacterium_SCGC_AB_629_P17_KB889803.1
+1 1775
+gamma_proteobacterium_SCGC_AB_629_P17_KB889804.1
+1 1697
+gamma_proteobacterium_SCGC_AB_629_P17_KB889805.1
+1 1653
+gamma_proteobacterium_SCGC_AB_629_P17_KB889806.1
+1 1523
+gamma_proteobacterium_SCGC_AB_629_P17_KB889807.1
+1 1453
+gamma_proteobacterium_SCGC_AB_629_P17_KB889808.1
+1 1366
+gamma_proteobacterium_SCGC_AB_629_P17_KB889809.1
+1 1244
+gamma_proteobacterium_SCGC_AB_629_P17_KB889810.1
+1 1238
+gamma_proteobacterium_SCGC_AB_629_P17_KB889811.1
+1 1208
+gamma_proteobacterium_SCGC_AB_629_P17_KB889812.1
+1 1196
+gamma_proteobacterium_SCGC_AB_629_P17_KB889813.1
+1 63061
+gamma_proteobacterium_SCGC_AB_629_P17_KB889814.1
+1 1172
+gamma_proteobacterium_SCGC_AB_629_P17_KB889815.1
+1 1148
+gamma_proteobacterium_SCGC_AB_629_P17_KB889816.1
+1 1145
+gamma_proteobacterium_SCGC_AB_629_P17_KB889817.1
+1 1111
+gamma_proteobacterium_SCGC_AB_629_P17_KB889818.1
+1 1092
+gamma_proteobacterium_SCGC_AB_629_P17_KB889819.1
+1 1074
+gamma_proteobacterium_SCGC_AB_629_P17_KB889820.1
+1 1053
+gamma_proteobacterium_SCGC_AB_629_P17_KB889821.1
+1 1022
+gamma_proteobacterium_SCGC_AB_629_P17_KB889822.1
+1 1014
+gamma_proteobacterium_SCGC_AB_629_P17_KB889823.1
+1 1005
+gamma_proteobacterium_SCGC_AB_629_P17_KB889824.1
+1 48616
+48618 62576
+gamma_proteobacterium_SCGC_AB_629_P17_KB889825.1
+1 32680
+32766 47967
+gamma_proteobacterium_SCGC_AB_629_P17_KB889826.1
+1 39715

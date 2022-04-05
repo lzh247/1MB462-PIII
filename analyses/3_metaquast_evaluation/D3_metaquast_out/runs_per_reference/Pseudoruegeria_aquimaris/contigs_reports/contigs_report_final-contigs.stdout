@@ -1,0 +1,262 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000001.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000003.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000004.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000005.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000006.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000007.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000008.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000009.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000010.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000011.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000012.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000013.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000014.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000015.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000016.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000017.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000018.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000019.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000020.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000021.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000022.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000023.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000024.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000025.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000026.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000027.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000028.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000029.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000030.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000031.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000032.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000033.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000034.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000035.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000036.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000037.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000038.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000039.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000040.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000041.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000042.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000043.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000044.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000045.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000046.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000047.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000048.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000049.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000050.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000051.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000053.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000054.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000055.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000056.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000057.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000058.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000059.1]
+	Loaded [Pseudoruegeria_aquimaris_NZ_FWFQ01000060.1]
+	Total Regions: 60
+	Total Region Length: 3691014
+Analyzing contigs...
+CONTIG: k105_76248 (626bp)
+		This contig is unaligned. (626 bp)
+		Unaligned bases: 626 (number of Ns: 0)
+
+CONTIG: k105_78975 (1395bp)
+		This contig is unaligned. (1395 bp)
+		Unaligned bases: 1395 (number of Ns: 0)
+
+CONTIG: k105_77693 (1678bp)
+Best alignment score: 165.0 (LEN: 170, IDY: 97.06), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 339.0, number of alignments: 3, unaligned bases: 1329
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 349 out of 1678 non-N bases (20.80%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1678 (number of Ns: 0) and total length of all aligns is 349
+		Alignment: 2860 3029 | 197 28 | 170 170 | 97.06 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_77693
+		Alignment: 2466 2556 | 593 503 | 91 91 | 96.7 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_77693
+		Alignment: 1647 1734 | 1484 1397 | 88 88 | 97.73 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_77693
+		Unaligned bases: 1329
+
+CONTIG: k105_36233 (1018bp)
+		This contig is unaligned. (1018 bp)
+		Unaligned bases: 1018 (number of Ns: 0)
+
+CONTIG: k105_134775 (575bp)
+Best alignment score: 438.0 (LEN: 452, IDY: 96.90), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 438.0, number of alignments: 1, unaligned bases: 123
+		Alignment: 4657 5108 | 452 1 | 452 452 | 96.9 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_134775
+
+CONTIG: k105_80700 (1125bp)
+Best alignment score: 108.0 (LEN: 113, IDY: 95.58), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 108.0, number of alignments: 1, unaligned bases: 1012
+		This contig is partially unaligned. (Aligned 113 out of 1125 non-N bases (10.04%))
+		Alignment: 2470 2582 | 829 717 | 113 113 | 95.58 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_80700
+		Unaligned bases: 1 to 716 (716)
+		Unaligned bases: 830 to 1125 (296)
+
+CONTIG: k105_48244 (1341bp)
+Best alignment score: 84.0 (LEN: 88, IDY: 95.45), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 167.0, number of alignments: 2, unaligned bases: 1166
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 175 out of 1341 non-N bases (13.05%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1341 (number of Ns: 0) and total length of all aligns is 175
+		Alignment: 1645 1732 | 361 274 | 88 88 | 95.45 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_48244
+		Alignment: 1359 1445 | 658 572 | 87 87 | 95.4 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_48244
+		Unaligned bases: 1166
+
+CONTIG: k105_39954 (513bp)
+Best alignment score: 508.0 (LEN: 513, IDY: 99.03), Total number of alignments: 1
+		One align captures most of this contig: 502 1014 | 513 1 | 513 513 | 99.03 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_39954
+
+CONTIG: k105_105762 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: k105_51732 (869bp)
+Best alignment score: 300.0 (LEN: 312, IDY: 96.15), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 300.0, number of alignments: 1, unaligned bases: 557
+		This contig is partially unaligned. (Aligned 312 out of 869 non-N bases (35.90%))
+		Alignment: 5004 5315 | 869 558 | 312 312 | 96.15 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_51732
+		Unaligned bases: 1 to 557 (557)
+
+CONTIG: k105_9486 (842bp)
+Best alignment score: 192.0 (LEN: 198, IDY: 96.97), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 192.0, number of alignments: 1, unaligned bases: 644
+		This contig is partially unaligned. (Aligned 198 out of 842 non-N bases (23.52%))
+		Alignment: 3518 3715 | 842 645 | 198 198 | 96.97 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_9486
+		Unaligned bases: 1 to 644 (644)
+
+CONTIG: k105_31522 (684bp)
+Best alignment score: 305.0 (LEN: 311, IDY: 98.07), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 305.0, number of alignments: 1, unaligned bases: 373
+		Alignment: 5004 5314 | 684 374 | 311 311 | 98.07 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_31522
+
+CONTIG: k105_152008 (700bp)
+Best alignment score: 104.0 (LEN: 106, IDY: 98.11), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 195.0, number of alignments: 2, unaligned bases: 499
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 700 (number of Ns: 0) and total length of all aligns is 201
+		Alignment: 4199 4293 | 486 580 | 95 95 | 95.79 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_152008
+		Alignment: 4296 4401 | 594 699 | 106 106 | 98.11 | Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 k105_152008
+		Unaligned bases: 499
+
+CONTIG: k105_79390 (56925bp)
+Best alignment score: 80.0 (LEN: 80, IDY: 100.00), Total number of alignments: 14
+			Looking for the best set of alignments (out of 14 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 242228 242292 | 65 1 | 65 65 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242228 242298 | 71 1 | 71 71 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242228 242304 | 77 1 | 77 77 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242291 242357 | 80 14 | 67 67 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242285 242357 | 80 8 | 73 73 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242279 242357 | 80 2 | 79 79 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242237 242316 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242243 242322 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242249 242328 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242231 242310 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242255 242334 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242261 242340 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Skipping redundant alignment 242273 242352 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 56845
+		This contig is partially unaligned. (Aligned 80 out of 56925 non-N bases (0.14%))
+		Alignment: 242267 242346 | 80 1 | 80 80 | 100.0 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_79390
+		Unaligned bases: 81 to 56925 (56845)
+
+CONTIG: k105_104503 (52811bp)
+Best alignment score: 70.0 (LEN: 71, IDY: 98.59), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 242245 242315 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242275 242345 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242239 242309 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242233 242303 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242287 242357 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242263 242333 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242251 242321 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242269 242339 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Skipping redundant alignment 242281 242351 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 52740
+		This contig is partially unaligned. (Aligned 71 out of 52811 non-N bases (0.13%))
+		Alignment: 242257 242327 | 52811 52741 | 71 71 | 98.59 | Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 k105_104503
+		Unaligned bases: 1 to 52740 (52740)
+
+CONTIG: k105_80580 (700bp)
+		This contig is unaligned. (700 bp)
+		Unaligned bases: 700 (number of Ns: 0)
+
+CONTIG: k105_16004 (1428bp)
+Best alignment score: 99.0 (LEN: 104, IDY: 95.19), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 99.0, number of alignments: 1, unaligned bases: 1324
+		This contig is partially unaligned. (Aligned 104 out of 1428 non-N bases (7.28%))
+		Alignment: 109841 109944 | 308 411 | 104 104 | 95.19 | Pseudoruegeria_aquimaris_NZ_FWFQ01000011.1 k105_16004
+		Unaligned bases: 1 to 307 (307)
+		Unaligned bases: 412 to 1428 (1017)
+
+CONTIG: k105_17034 (844bp)
+Best alignment score: 96.0 (LEN: 98, IDY: 97.96), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 746
+		This contig is partially unaligned. (Aligned 98 out of 844 non-N bases (11.61%))
+		Alignment: 52771 52868 | 264 167 | 98 98 | 97.96 | Pseudoruegeria_aquimaris_NZ_FWFQ01000012.1 k105_17034
+		Unaligned bases: 1 to 166 (166)
+		Unaligned bases: 265 to 844 (580)
+
+CONTIG: k105_63693 (502bp)
+Best alignment score: 91.0 (LEN: 93, IDY: 97.85), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 409
+		Alignment: 117799 117891 | 162 254 | 93 93 | 97.85 | Pseudoruegeria_aquimaris_NZ_FWFQ01000003.1 k105_63693
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Pseudoruegeria_aquimaris/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Pseudoruegeria_aquimaris/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 5 + 9 part
+Half Unaligned Contigs with Misassemblies: 3
+Unaligned Contig Bases: 120730
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 109736
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2420
+
+	SNPs: 82
+	Insertions: 0
+	Deletions: 0
+
