@@ -15,8 +15,8 @@ module load bioinfo-tools
 module load MetaBat
 
 # Sequence directories 
-SEQDIR="/home/lihu6475/1MB462-PIII/analyses/2_megahit_assembly"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/4_metabat_binning"
+SEQDIR="/home/lihu6475/1MB462-PIII/analyses/2_assembly_evaluation"
+OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation"
 
 metabat -i $SEQDIR/D1_megahit_output/final.contigs.fa -o $OUTDIR/D1_metabat_output -t 2 -v
 metabat -i $SEQDIR/D3_megahit_output/final.contigs.fa -o $OUTDIR/D3_metabat_output -t 2 -v
