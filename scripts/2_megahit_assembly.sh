@@ -16,7 +16,7 @@ module load megahit
 
 # Sequence directories 
 SEQDIR="/home/lihu6475/1MB462-PIII/data/DNA_trimmed"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/2_megahit_assembly"
+OUTDIR="/home/lihu6475/1MB462-PIII/analyses/2_assembly_evaluation"
 
 # Run megahit on sites D1 and D2
 # Parameters fromthe paper (IBDA-UB): -mink 65 -maxk 105 -step 10.
