@@ -17,7 +17,7 @@ module load FastQC/0.11.9
 
 # Sequence directories 
 SEQDIR="/home/lihu6475/1MB462-PIII/data"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/1_fastqc_quality_control"
+OUTDIR="/home/lihu6475/1MB462-PIII/analyses/1_quality_control"
 
 # Run FastQC trimmed DNA
 for file in $SEQDIR/DNA_trimmed/*
