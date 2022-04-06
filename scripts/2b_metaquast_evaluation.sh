@@ -15,12 +15,10 @@ module load bioinfo-tools
 module load quast
 
 # Sequence directories 
-SEQDIR="/home/lihu6475/1MB462-PIII/analyses/2_megahit_assembly"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation"
+SEQDIR="/home/lihu6475/1MB462-PIII/analyses/2_assembly_evaluation"
+OUTDIR=$SEQDIR
 
 # Run metaquast on sites D1 and D3, assembled by megahit 
 
 metaquast.py -o $OUTDIR/D1_metaquast_out $SEQDIR/D1_megahit_output/final.contigs.fa
 metaquast.py -o $OUTDIR/D3_metaquast_out $SEQDIR/D3_megahit_output/final.contigs.fa
-
-
