@@ -1,0 +1,199 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1]
+	Total Regions: 1
+	Total Region Length: 7762396
+Analyzing contigs...
+CONTIG: k105_78655 (2963bp)
+Best alignment score: 83.0 (LEN: 85, IDY: 97.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 2878
+		This contig is partially unaligned. (Aligned 85 out of 2963 non-N bases (2.87%))
+		Alignment: 3704447 3704531 | 1859 1775 | 85 85 | 97.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_78655
+		Unaligned bases: 1 to 1774 (1774)
+		Unaligned bases: 1860 to 2963 (1104)
+
+CONTIG: k105_89776 (3942bp)
+Best alignment score: 226.1 (LEN: 235, IDY: 96.20), Total number of alignments: 15
+			Looking for the best set of alignments (out of 15 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5782910 5783021 | 1284 1173 | 112 112 | 100.0 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 4228346 4228457 | 1284 1173 | 112 112 | 100.0 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 3201543 3201656 | 1171 1284 | 114 114 | 99.12 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 3547045 3547158 | 1171 1284 | 114 114 | 99.12 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 5781267 5781354 | 2916 2829 | 88 88 | 96.59 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 4226703 4226790 | 2916 2829 | 88 88 | 96.59 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 3203210 3203299 | 2827 2916 | 90 90 | 95.56 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 3548712 3548801 | 2827 2916 | 90 90 | 95.56 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 5780283 5780519 | 3942 3708 | 237 235 | 96.2 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 4225719 4225955 | 3942 3708 | 237 235 | 96.2 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 3204047 3204283 | 3708 3942 | 237 235 | 96.2 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Skipping redundant alignment 3549542 3549778 | 3708 3942 | 237 235 | 96.2 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 425.1, number of alignments: 3, unaligned bases: 3503
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 439 out of 3942 non-N bases (11.14%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 3942 (number of Ns: 0) and total length of all aligns is 439
+		Alignment: 1487488 1487601 | 1171 1284 | 114 114 | 99.12 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Alignment: 1489155 1489244 | 2827 2916 | 90 90 | 95.56 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Alignment: 1489992 1490228 | 3708 3942 | 237 235 | 96.2 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_89776
+		Unaligned bases: 3503
+
+CONTIG: k105_90131 (1965bp)
+Best alignment score: 89.0 (LEN: 93, IDY: 95.70), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1490422 1490514 | 1173 1081 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_90131
+		Skipping redundant alignment 3549972 3550064 | 1173 1081 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_90131
+		Skipping redundant alignment 1915864 1915956 | 1173 1081 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_90131
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 89.0, number of alignments: 1, unaligned bases: 1872
+		This contig is partially unaligned. (Aligned 93 out of 1965 non-N bases (4.73%))
+		Alignment: 3204477 3204569 | 1173 1081 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_90131
+		Unaligned bases: 1 to 1080 (1080)
+		Unaligned bases: 1174 to 1965 (792)
+
+CONTIG: k105_14869 (19166bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3551011 3551084 | 867 940 | 74 74 | 98.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14869
+		Skipping redundant alignment 3205516 3205589 | 867 940 | 74 74 | 98.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14869
+		Skipping redundant alignment 5778977 5779050 | 940 867 | 74 74 | 98.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14869
+		Skipping redundant alignment 4224413 4224486 | 940 867 | 74 74 | 98.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14869
+		Skipping redundant alignment 1916903 1916976 | 867 940 | 74 74 | 98.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14869
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 19092
+		This contig is partially unaligned. (Aligned 74 out of 19166 non-N bases (0.39%))
+		Alignment: 1491461 1491534 | 867 940 | 74 74 | 98.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14869
+		Unaligned bases: 1 to 866 (866)
+		Unaligned bases: 941 to 19166 (18226)
+
+CONTIG: k105_14870 (1238bp)
+Best alignment score: 67.0 (LEN: 68, IDY: 98.53), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5778987 5779054 | 306 373 | 68 68 | 98.53 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14870
+		Skipping redundant alignment 4224423 4224490 | 306 373 | 68 68 | 98.53 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14870
+		Skipping redundant alignment 3551007 3551074 | 373 306 | 68 68 | 98.53 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14870
+		Skipping redundant alignment 1491457 1491524 | 373 306 | 68 68 | 98.53 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14870
+		Skipping redundant alignment 1916899 1916966 | 373 306 | 68 68 | 98.53 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14870
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 67.0, number of alignments: 1, unaligned bases: 1170
+		This contig is partially unaligned. (Aligned 68 out of 1238 non-N bases (5.49%))
+		Alignment: 3205512 3205579 | 373 306 | 68 68 | 98.53 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_14870
+		Unaligned bases: 1 to 305 (305)
+		Unaligned bases: 374 to 1238 (865)
+
+CONTIG: k105_167792 (504bp)
+Best alignment score: 89.0 (LEN: 93, IDY: 95.70), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 5779999 5780089 | 456 366 | 91 91 | 96.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_167792
+		Skipping redundant alignment 4225435 4225525 | 456 366 | 91 91 | 96.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_167792
+		Skipping redundant alignment 3549970 3550062 | 364 456 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_167792
+		Skipping redundant alignment 1490420 1490512 | 364 456 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_167792
+		Skipping redundant alignment 1915862 1915954 | 364 456 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_167792
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 89.0, number of alignments: 1, unaligned bases: 411
+		Alignment: 3204475 3204567 | 364 456 | 93 93 | 95.7 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_167792
+
+CONTIG: k105_102659 (878bp)
+		This contig is unaligned. (878 bp)
+		Unaligned bases: 878 (number of Ns: 0)
+
+CONTIG: k105_5900 (658bp)
+		This contig is unaligned. (658 bp)
+		Unaligned bases: 658 (number of Ns: 0)
+
+CONTIG: k105_49523 (603bp)
+Best alignment score: 65.0 (LEN: 67, IDY: 97.01), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 4224421 4224487 | 470 404 | 67 67 | 97.01 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_49523
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 65.0, number of alignments: 1, unaligned bases: 536
+		Alignment: 5778985 5779051 | 470 404 | 67 67 | 97.01 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_49523
+
+CONTIG: k105_126488 (4306bp)
+Best alignment score: 229.1 (LEN: 235, IDY: 97.47), Total number of alignments: 20
+			Looking for the best set of alignments (out of 20 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3549542 3549778 | 235 1 | 237 235 | 97.47 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 5780283 5780519 | 1 235 | 237 235 | 97.47 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 3204047 3204283 | 235 1 | 237 235 | 97.47 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 4225719 4225955 | 1 235 | 237 235 | 97.47 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 5781267 5781354 | 1001 1088 | 88 88 | 97.73 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 4226703 4226790 | 1001 1088 | 88 88 | 97.73 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 3203210 3203299 | 1090 1001 | 90 90 | 96.67 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 3548712 3548801 | 1090 1001 | 90 90 | 96.67 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 3203125 3203209 | 1176 1092 | 85 85 | 97.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 3548627 3548711 | 1176 1092 | 85 85 | 97.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 5781355 5781441 | 1090 1176 | 87 87 | 96.55 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 4226791 4226877 | 1090 1176 | 87 87 | 96.55 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 5782911 5783022 | 2645 2756 | 112 112 | 98.21 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 4228347 4228458 | 2645 2756 | 112 112 | 98.21 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 3201543 3201655 | 2757 2645 | 113 113 | 97.35 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Skipping redundant alignment 3547045 3547157 | 2757 2645 | 113 113 | 97.35 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 509.1, number of alignments: 4, unaligned bases: 3783
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 523 out of 4306 non-N bases (12.15%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 4306 (number of Ns: 0) and total length of all aligns is 523
+		Alignment: 1489992 1490228 | 235 1 | 237 235 | 97.47 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Alignment: 1489155 1489244 | 1090 1001 | 90 90 | 96.67 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Alignment: 1489070 1489154 | 1176 1092 | 85 85 | 97.65 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Alignment: 1487488 1487600 | 2757 2645 | 113 113 | 97.35 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_126488
+		Unaligned bases: 3783
+
+CONTIG: k105_106160 (3858bp)
+Best alignment score: 195.0 (LEN: 202, IDY: 96.53), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 195.0, number of alignments: 1, unaligned bases: 3656
+		This contig is partially unaligned. (Aligned 202 out of 3858 non-N bases (5.24%))
+		Alignment: 1912167 1912368 | 756 957 | 202 202 | 96.53 | Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 k105_106160
+		Unaligned bases: 1 to 755 (755)
+		Unaligned bases: 958 to 3858 (2901)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Streptomyces_cyaneogriseus_subsp._noncyanogenus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Streptomyces_cyaneogriseus_subsp._noncyanogenus/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 2 + 7 part
+Half Unaligned Contigs with Misassemblies: 2
+Unaligned Contig Bases: 37490
+
+Ambiguously Mapped Contigs: 7
+Total Bases in Ambiguously Mapped Contigs: 31724
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1117
+
+	SNPs: 45
+	Insertions: 0
+	Deletions: 4
+

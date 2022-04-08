@@ -1,0 +1,108 @@
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000001.1
+1 313951
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000002.1
+1 258343
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000003.1
+1 244141
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000004.1
+1 242838
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000005.1
+1 228521
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000006.1
+1 220576
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000007.1
+1 215890
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1
+1 189405
+189490 190492
+190560 193336
+193450 195311
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000009.1
+1 169836
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000010.1
+1 148175
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000011.1
+1 133363
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000012.1
+1 125851
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000013.1
+1 115266
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000014.1
+1 113158
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000015.1
+1 110216
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000016.1
+1 13322
+13402 103879
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000017.1
+1 94913
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000018.1
+1 81910
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000019.1
+1 75849
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000020.1
+1 68446
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000021.1
+1 59771
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000022.1
+1 41946
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000023.1
+1 37821
+37838 38494
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000024.1
+1 33378
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000025.1
+1 33061
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000026.1
+1 29442
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000027.1
+1 28154
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000028.1
+1 26653
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000029.1
+1 25836
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000030.1
+1 23012
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000031.1
+1 20007
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000032.1
+1 17351
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000033.1
+1 17262
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000034.1
+1 16597
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000035.1
+1 16123
+16125 16189
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000036.1
+1 15659
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000037.1
+1 15387
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000038.1
+1 14762
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000039.1
+1 13559
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000040.1
+1 11453
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000041.1
+1 10901
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000042.1
+1 10644
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000043.1
+1 8974
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000044.1
+1 8971
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000045.1
+1 7448
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000046.1
+1 5803
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000047.1
+1 4324
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000048.1
+1 3888
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000049.1
+1 3699
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000050.1
+1 3009
+Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000051.1
+1 2207

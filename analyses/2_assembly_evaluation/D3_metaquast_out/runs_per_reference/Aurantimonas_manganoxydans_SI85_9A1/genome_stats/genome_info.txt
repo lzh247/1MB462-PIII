@@ -1,0 +1,35 @@
+reference chromosomes:
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000014.1 (total length: 17195 bp, total length without N's: 17195 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000016.1 (total length: 1487 bp, total length without N's: 1487 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000017.1 (total length: 1438 bp, total length without N's: 1438 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000018.1 (total length: 1435 bp, total length without N's: 1435 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000019.1 (total length: 1408 bp, total length without N's: 1408 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000020.1 (total length: 1383 bp, total length without N's: 1383 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000021.1 (total length: 1364 bp, total length without N's: 1364 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000022.1 (total length: 1261 bp, total length without N's: 1261 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000023.1 (total length: 1246 bp, total length without N's: 1246 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000024.1 (total length: 1206 bp, total length without N's: 1206 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000025.1 (total length: 1182 bp, total length without N's: 1182 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000026.1 (total length: 1174 bp, total length without N's: 1174 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000027.1 (total length: 1163 bp, total length without N's: 1163 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000028.1 (total length: 1137 bp, total length without N's: 1137 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000029.1 (total length: 1109 bp, total length without N's: 1109 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000030.1 (total length: 1107 bp, total length without N's: 1107 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000031.1 (total length: 1092 bp, total length without N's: 1092 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000032.1 (total length: 1038 bp, total length without N's: 1038 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000033.1 (total length: 1029 bp, total length without N's: 1029 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000034.1 (total length: 1017 bp, total length without N's: 1017 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_AAPJ01000035.1 (total length: 1000 bp, total length without N's: 1000 bp, maximal covered length: 0 bp)
+	Aurantimonas_manganoxydans_SI85_9A1_NZ_CH672387.1 (total length: 4285343 bp, total length without N's: 4283786 bp, maximal covered length: 480 bp)
+
+total genome size: 4326814
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Auranti | 0.011     | 1.000       | 40        | -         | -         | -         | -         |

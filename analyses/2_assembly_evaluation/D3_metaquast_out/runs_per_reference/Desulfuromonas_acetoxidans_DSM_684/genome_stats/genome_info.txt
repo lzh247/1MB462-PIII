@@ -1,0 +1,64 @@
+reference chromosomes:
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000001.1 (total length: 313951 bp, total length without N's: 313951 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000002.1 (total length: 258343 bp, total length without N's: 258343 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000003.1 (total length: 244141 bp, total length without N's: 244141 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000004.1 (total length: 242838 bp, total length without N's: 242838 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000005.1 (total length: 228521 bp, total length without N's: 228521 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000006.1 (total length: 220576 bp, total length without N's: 220576 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000007.1 (total length: 215890 bp, total length without N's: 215890 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1 (total length: 195317 bp, total length without N's: 195314 bp, maximal covered length: 264 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000009.1 (total length: 169836 bp, total length without N's: 169836 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000010.1 (total length: 148175 bp, total length without N's: 148175 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000011.1 (total length: 133363 bp, total length without N's: 133363 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000012.1 (total length: 125851 bp, total length without N's: 125851 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000013.1 (total length: 115266 bp, total length without N's: 115266 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000014.1 (total length: 113158 bp, total length without N's: 113158 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000015.1 (total length: 110216 bp, total length without N's: 110216 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000016.1 (total length: 103879 bp, total length without N's: 103879 bp, maximal covered length: 79 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000017.1 (total length: 94913 bp, total length without N's: 94913 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000018.1 (total length: 81919 bp, total length without N's: 81917 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000019.1 (total length: 75849 bp, total length without N's: 75849 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000020.1 (total length: 68446 bp, total length without N's: 68446 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000021.1 (total length: 59771 bp, total length without N's: 59771 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000022.1 (total length: 41946 bp, total length without N's: 41946 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000023.1 (total length: 38494 bp, total length without N's: 38478 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000024.1 (total length: 33378 bp, total length without N's: 33378 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000025.1 (total length: 33061 bp, total length without N's: 33061 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000026.1 (total length: 29442 bp, total length without N's: 29442 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000027.1 (total length: 28154 bp, total length without N's: 28154 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000028.1 (total length: 26653 bp, total length without N's: 26653 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000029.1 (total length: 25836 bp, total length without N's: 25836 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000030.1 (total length: 23012 bp, total length without N's: 23012 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000031.1 (total length: 20007 bp, total length without N's: 20007 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000032.1 (total length: 17351 bp, total length without N's: 17351 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000033.1 (total length: 17262 bp, total length without N's: 17262 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000034.1 (total length: 16597 bp, total length without N's: 16597 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000035.1 (total length: 16189 bp, total length without N's: 16188 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000036.1 (total length: 15659 bp, total length without N's: 15659 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000037.1 (total length: 15387 bp, total length without N's: 15387 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000038.1 (total length: 14762 bp, total length without N's: 14762 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000039.1 (total length: 13559 bp, total length without N's: 13559 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000040.1 (total length: 11453 bp, total length without N's: 11453 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000041.1 (total length: 10919 bp, total length without N's: 10918 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000042.1 (total length: 10644 bp, total length without N's: 10644 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000043.1 (total length: 8974 bp, total length without N's: 8974 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000044.1 (total length: 8971 bp, total length without N's: 8971 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000045.1 (total length: 7448 bp, total length without N's: 7448 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000046.1 (total length: 5803 bp, total length without N's: 5803 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000047.1 (total length: 4324 bp, total length without N's: 4324 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000048.1 (total length: 3909 bp, total length without N's: 3908 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000049.1 (total length: 3699 bp, total length without N's: 3699 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000050.1 (total length: 3009 bp, total length without N's: 3009 bp, maximal covered length: 0 bp)
+	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000051.1 (total length: 2207 bp, total length without N's: 2207 bp, maximal covered length: 0 bp)
+
+total genome size: 3828328
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Desulfu | 0.009     | 2.799       | 57        | -         | -         | -         | -         |

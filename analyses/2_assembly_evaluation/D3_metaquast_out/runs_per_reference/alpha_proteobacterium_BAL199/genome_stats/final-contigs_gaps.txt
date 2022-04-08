@@ -1,0 +1,148 @@
+alpha_proteobacterium_BAL199_ABHC01000001.1
+1 590463
+alpha_proteobacterium_BAL199_ABHC01000002.1
+1 443642
+alpha_proteobacterium_BAL199_ABHC01000003.1
+1 424353
+alpha_proteobacterium_BAL199_ABHC01000004.1
+1 273097
+alpha_proteobacterium_BAL199_ABHC01000005.1
+1 234998
+alpha_proteobacterium_BAL199_ABHC01000006.1
+1 143070
+143147 226602
+alpha_proteobacterium_BAL199_ABHC01000007.1
+1 221551
+alpha_proteobacterium_BAL199_ABHC01000008.1
+1 216102
+alpha_proteobacterium_BAL199_ABHC01000009.1
+1 215304
+alpha_proteobacterium_BAL199_ABHC01000010.1
+1 210286
+alpha_proteobacterium_BAL199_ABHC01000011.1
+1 19091
+19175 199905
+alpha_proteobacterium_BAL199_ABHC01000012.1
+1 176608
+alpha_proteobacterium_BAL199_ABHC01000013.1
+1 168339
+alpha_proteobacterium_BAL199_ABHC01000014.1
+1 149696
+alpha_proteobacterium_BAL199_ABHC01000015.1
+1 148027
+alpha_proteobacterium_BAL199_ABHC01000016.1
+1 115879
+115958 147979
+alpha_proteobacterium_BAL199_ABHC01000017.1
+1 143277
+alpha_proteobacterium_BAL199_ABHC01000018.1
+1 139143
+alpha_proteobacterium_BAL199_ABHC01000019.1
+1 136168
+alpha_proteobacterium_BAL199_ABHC01000020.1
+1 132628
+alpha_proteobacterium_BAL199_ABHC01000021.1
+1 55066
+55271 55707
+55806 58249
+58504 58681
+58784 58978
+59051 59333
+59540 120727
+alpha_proteobacterium_BAL199_ABHC01000022.1
+1 116887
+alpha_proteobacterium_BAL199_ABHC01000023.1
+1 110413
+alpha_proteobacterium_BAL199_ABHC01000024.1
+1 106078
+alpha_proteobacterium_BAL199_ABHC01000025.1
+1 92886
+alpha_proteobacterium_BAL199_ABHC01000026.1
+1 82798
+alpha_proteobacterium_BAL199_ABHC01000027.1
+1 72401
+alpha_proteobacterium_BAL199_ABHC01000028.1
+1 53236
+alpha_proteobacterium_BAL199_ABHC01000029.1
+1 53038
+alpha_proteobacterium_BAL199_ABHC01000030.1
+1 52319
+alpha_proteobacterium_BAL199_ABHC01000031.1
+1 50194
+alpha_proteobacterium_BAL199_ABHC01000032.1
+1 44235
+alpha_proteobacterium_BAL199_ABHC01000033.1
+1 163
+298 43426
+alpha_proteobacterium_BAL199_ABHC01000034.1
+1 41685
+alpha_proteobacterium_BAL199_ABHC01000035.1
+1 39358
+alpha_proteobacterium_BAL199_ABHC01000036.1
+1 38505
+alpha_proteobacterium_BAL199_ABHC01000037.1
+1 30741
+alpha_proteobacterium_BAL199_ABHC01000038.1
+1 29850
+alpha_proteobacterium_BAL199_ABHC01000039.1
+1 29178
+alpha_proteobacterium_BAL199_ABHC01000040.1
+1 27675
+alpha_proteobacterium_BAL199_ABHC01000041.1
+1 27506
+alpha_proteobacterium_BAL199_ABHC01000042.1
+1 27145
+alpha_proteobacterium_BAL199_ABHC01000043.1
+1 25153
+alpha_proteobacterium_BAL199_ABHC01000044.1
+1 20938
+alpha_proteobacterium_BAL199_ABHC01000045.1
+1 18784
+alpha_proteobacterium_BAL199_ABHC01000046.1
+1 18035
+alpha_proteobacterium_BAL199_ABHC01000047.1
+1 17528
+alpha_proteobacterium_BAL199_ABHC01000048.1
+1 15093
+alpha_proteobacterium_BAL199_ABHC01000049.1
+1 14592
+alpha_proteobacterium_BAL199_ABHC01000050.1
+1 12694
+alpha_proteobacterium_BAL199_ABHC01000051.1
+1 11925
+alpha_proteobacterium_BAL199_ABHC01000052.1
+1 11897
+alpha_proteobacterium_BAL199_ABHC01000053.1
+1 7555
+alpha_proteobacterium_BAL199_ABHC01000054.1
+1 6858
+alpha_proteobacterium_BAL199_ABHC01000055.1
+1 4960
+alpha_proteobacterium_BAL199_ABHC01000056.1
+1 4134
+alpha_proteobacterium_BAL199_ABHC01000057.1
+1 2915
+alpha_proteobacterium_BAL199_ABHC01000058.1
+1 2529
+alpha_proteobacterium_BAL199_ABHC01000059.1
+1 2102
+alpha_proteobacterium_BAL199_ABHC01000060.1
+1 1999
+alpha_proteobacterium_BAL199_ABHC01000061.1
+1 1982
+alpha_proteobacterium_BAL199_ABHC01000062.1
+1 1793
+alpha_proteobacterium_BAL199_ABHC01000063.1
+1 1781
+alpha_proteobacterium_BAL199_ABHC01000064.1
+1 1748
+alpha_proteobacterium_BAL199_ABHC01000065.1
+1 1678
+alpha_proteobacterium_BAL199_ABHC01000066.1
+1 1622
+alpha_proteobacterium_BAL199_ABHC01000067.1
+1 1478
+alpha_proteobacterium_BAL199_ABHC01000068.1
+1 1284
+alpha_proteobacterium_BAL199_ABHC01000069.1
+1 1195

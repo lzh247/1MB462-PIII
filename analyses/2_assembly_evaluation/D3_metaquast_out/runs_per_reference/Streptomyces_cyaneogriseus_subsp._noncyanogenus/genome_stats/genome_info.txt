@@ -1,0 +1,14 @@
+reference chromosomes:
+	Streptomyces_cyaneogriseus_subsp._noncyanogenus_NZ_CP010849.1 (total length: 7762396 bp, total length without N's: 7762396 bp, maximal covered length: 1117 bp)
+
+total genome size: 7762396
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Strepto | 0.014     | 2.320       | 10        | -         | -         | -         | -         |

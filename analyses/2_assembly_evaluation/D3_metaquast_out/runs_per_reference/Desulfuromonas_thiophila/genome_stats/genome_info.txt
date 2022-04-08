@@ -1,0 +1,52 @@
+reference chromosomes:
+	Desulfuromonas_thiophila_NZ_FNAQ01000001.1 (total length: 501858 bp, total length without N's: 501533 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000002.1 (total length: 339575 bp, total length without N's: 339575 bp, maximal covered length: 79 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000003.1 (total length: 295391 bp, total length without N's: 295391 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000004.1 (total length: 222861 bp, total length without N's: 222861 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000005.1 (total length: 111360 bp, total length without N's: 111360 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000006.1 (total length: 105888 bp, total length without N's: 105668 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000007.1 (total length: 105035 bp, total length without N's: 103070 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000008.1 (total length: 99781 bp, total length without N's: 99781 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000009.1 (total length: 98747 bp, total length without N's: 98747 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000010.1 (total length: 88012 bp, total length without N's: 88012 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000011.1 (total length: 82133 bp, total length without N's: 82133 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000012.1 (total length: 78710 bp, total length without N's: 78710 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000013.1 (total length: 70871 bp, total length without N's: 70871 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000014.1 (total length: 60403 bp, total length without N's: 60403 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000015.1 (total length: 57817 bp, total length without N's: 57627 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000016.1 (total length: 52358 bp, total length without N's: 52358 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000017.1 (total length: 52422 bp, total length without N's: 52422 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000018.1 (total length: 50317 bp, total length without N's: 50317 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000019.1 (total length: 44155 bp, total length without N's: 44155 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000020.1 (total length: 41870 bp, total length without N's: 41870 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000021.1 (total length: 41101 bp, total length without N's: 41101 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000022.1 (total length: 32335 bp, total length without N's: 32335 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000023.1 (total length: 30689 bp, total length without N's: 30689 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000024.1 (total length: 25517 bp, total length without N's: 25517 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000025.1 (total length: 25167 bp, total length without N's: 25167 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000026.1 (total length: 16868 bp, total length without N's: 16868 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000027.1 (total length: 11855 bp, total length without N's: 11855 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000028.1 (total length: 8529 bp, total length without N's: 8529 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000029.1 (total length: 8347 bp, total length without N's: 8347 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000030.1 (total length: 6072 bp, total length without N's: 6072 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000031.1 (total length: 5826 bp, total length without N's: 5826 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000032.1 (total length: 4265 bp, total length without N's: 4265 bp, maximal covered length: 342 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000033.1 (total length: 2839 bp, total length without N's: 2839 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000034.1 (total length: 2730 bp, total length without N's: 2730 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000035.1 (total length: 2167 bp, total length without N's: 2167 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000036.1 (total length: 1984 bp, total length without N's: 1984 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000037.1 (total length: 1749 bp, total length without N's: 1749 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000038.1 (total length: 1323 bp, total length without N's: 1323 bp, maximal covered length: 0 bp)
+	Desulfuromonas_thiophila_NZ_FNAQ01000039.1 (total length: 1040 bp, total length without N's: 1040 bp, maximal covered length: 0 bp)
+
+total genome size: 2789967
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Desulfu | 0.015     | 3.382       | 47        | -         | -         | -         | -         |

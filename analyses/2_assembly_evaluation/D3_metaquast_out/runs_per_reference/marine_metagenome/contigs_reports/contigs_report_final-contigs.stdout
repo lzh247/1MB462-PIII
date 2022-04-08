@@ -1,0 +1,81 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [marine_metagenome_CAJIIY010000001.1]
+	Loaded [marine_metagenome_CAJIIY010000002.1]
+	Loaded [marine_metagenome_CAJIIY010000003.1]
+	Loaded [marine_metagenome_CAJIIY010000004.1]
+	Loaded [marine_metagenome_CAJIIY010000005.1]
+	Loaded [marine_metagenome_CAJIIY010000006.1]
+	Loaded [marine_metagenome_CAJIIY010000007.1]
+	Loaded [marine_metagenome_CAJIIY010000008.1]
+	Loaded [marine_metagenome_CAJIIY010000009.1]
+	Loaded [marine_metagenome_CAJIIY010000010.1]
+	Loaded [marine_metagenome_CAJIIY010000011.1]
+	Loaded [marine_metagenome_CAJIIY010000012.1]
+	Loaded [marine_metagenome_CAJIIY010000013.1]
+	Loaded [marine_metagenome_CAJIIY010000014.1]
+	Total Regions: 14
+	Total Region Length: 2722277
+Analyzing contigs...
+CONTIG: k105_89670 (700bp)
+Best alignment score: 71.0 (LEN: 72, IDY: 98.61), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 628
+		This contig is partially unaligned. (Aligned 72 out of 700 non-N bases (10.29%))
+		Alignment: 91916 91987 | 96 25 | 72 72 | 98.61 | marine_metagenome_CAJIIY010000010.1 k105_89670
+		Unaligned bases: 1 to 24 (24)
+		Unaligned bases: 97 to 700 (604)
+
+CONTIG: k105_69661 (854bp)
+Best alignment score: 70.0 (LEN: 71, IDY: 98.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 783
+		This contig is partially unaligned. (Aligned 71 out of 854 non-N bases (8.31%))
+		Alignment: 91917 91987 | 317 247 | 71 71 | 98.59 | marine_metagenome_CAJIIY010000010.1 k105_69661
+		Unaligned bases: 1 to 246 (246)
+		Unaligned bases: 318 to 854 (537)
+
+CONTIG: k105_53194 (3858bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 3782
+		This contig is partially unaligned. (Aligned 76 out of 3858 non-N bases (1.97%))
+		Alignment: 91916 91991 | 2148 2223 | 76 76 | 98.68 | marine_metagenome_CAJIIY010000010.1 k105_53194
+		Unaligned bases: 1 to 2147 (2147)
+		Unaligned bases: 2224 to 3858 (1635)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/marine_metagenome/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/marine_metagenome/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 5193
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 76
+
+	SNPs: 3
+	Insertions: 0
+	Deletions: 0
+

@@ -1,0 +1,151 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000001.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000002.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000003.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000004.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000005.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000006.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000007.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000008.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000009.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000010.1]
+	Loaded [Sinobacterium_caligoides_NZ_RKHR01000011.1]
+	Total Regions: 11
+	Total Region Length: 4398449
+Analyzing contigs...
+CONTIG: k105_76403 (3120bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 460653 460729 | 2904 2828 | 77 77 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_76403
+		Skipping redundant alignment 460522 460599 | 2905 2828 | 78 78 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_76403
+		Skipping redundant alignment 460954 461031 | 2905 2828 | 78 78 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_76403
+		Skipping redundant alignment 551585 551662 | 2905 2828 | 78 78 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000003.1 k105_76403
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 3041
+		This contig is partially unaligned. (Aligned 79 out of 3120 non-N bases (2.53%))
+		Alignment: 461177 461255 | 2906 2828 | 79 79 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_76403
+		Unaligned bases: 1 to 2827 (2827)
+		Unaligned bases: 2907 to 3120 (214)
+
+CONTIG: k105_162875 (8011bp)
+Best alignment score: 81.0 (LEN: 81, IDY: 100.00), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 460653 460731 | 5845 5767 | 79 79 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_162875
+		Skipping redundant alignment 460522 460599 | 5846 5769 | 78 78 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_162875
+		Skipping redundant alignment 460954 461031 | 5846 5769 | 78 78 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_162875
+		Skipping redundant alignment 551585 551663 | 5846 5768 | 79 79 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000003.1 k105_162875
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 7930
+		This contig is partially unaligned. (Aligned 81 out of 8011 non-N bases (1.01%))
+		Alignment: 461177 461257 | 5847 5767 | 81 81 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000005.1 k105_162875
+		Unaligned bases: 1 to 5766 (5766)
+		Unaligned bases: 5848 to 8011 (2164)
+
+CONTIG: k105_44280 (539bp)
+Best alignment score: 126.0 (LEN: 132, IDY: 95.45), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 126.0, number of alignments: 1, unaligned bases: 407
+		Alignment: 3666 3797 | 539 408 | 132 132 | 95.45 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_44280
+
+CONTIG: k105_99987 (1497bp)
+Best alignment score: 118.0 (LEN: 124, IDY: 95.16), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 193.0, number of alignments: 2, unaligned bases: 1295
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 202 out of 1497 non-N bases (13.49%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1497 (number of Ns: 0) and total length of all aligns is 202
+		Alignment: 979 1056 | 1 78 | 78 78 | 96.15 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_99987
+		Alignment: 1790 1913 | 812 935 | 124 124 | 95.16 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_99987
+		Unaligned bases: 1295
+
+CONTIG: k105_100628 (593bp)
+		This contig is unaligned. (593 bp)
+		Unaligned bases: 593 (number of Ns: 0)
+
+CONTIG: k105_4506 (669bp)
+Best alignment score: 116.0 (LEN: 120, IDY: 96.67), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 220.0, number of alignments: 2, unaligned bases: 445
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 669 (number of Ns: 0) and total length of all aligns is 224
+		Alignment: 1062 1181 | 559 440 | 120 120 | 96.67 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_4506
+		Alignment: 950 1053 | 669 566 | 104 104 | 100.0 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_4506
+		Unaligned bases: 445
+
+CONTIG: k105_4507 (577bp)
+Best alignment score: 117.0 (LEN: 120, IDY: 97.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 117.0, number of alignments: 1, unaligned bases: 457
+		Alignment: 1062 1181 | 559 440 | 120 120 | 97.5 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_4507
+
+CONTIG: k105_91574 (1208bp)
+		This contig is unaligned. (1208 bp)
+		Unaligned bases: 1208 (number of Ns: 0)
+
+CONTIG: k105_28480 (728bp)
+Best alignment score: 231.1 (LEN: 241, IDY: 95.88), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 231.1, number of alignments: 1, unaligned bases: 487
+		Alignment: 939 1181 | 724 484 | 243 241 | 95.88 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_28480
+
+CONTIG: k105_31458 (901bp)
+		This contig is unaligned. (901 bp)
+		Unaligned bases: 901 (number of Ns: 0)
+
+CONTIG: k105_162411 (691bp)
+Best alignment score: 111.0 (LEN: 116, IDY: 95.69), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 111.0, number of alignments: 1, unaligned bases: 575
+		Alignment: 1218 1333 | 270 385 | 116 116 | 95.69 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_162411
+
+CONTIG: k105_150900 (742bp)
+Best alignment score: 234.0 (LEN: 245, IDY: 95.51), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 234.0, number of alignments: 1, unaligned bases: 497
+		Alignment: 148 392 | 498 742 | 245 245 | 95.51 | Sinobacterium_caligoides_NZ_RKHR01000002.1 k105_150900
+
+CONTIG: k105_58596 (873bp)
+Best alignment score: 87.0 (LEN: 90, IDY: 96.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 783
+		This contig is partially unaligned. (Aligned 90 out of 873 non-N bases (10.31%))
+		Alignment: 35367 35456 | 311 222 | 90 90 | 96.67 | Sinobacterium_caligoides_NZ_RKHR01000007.1 k105_58596
+		Unaligned bases: 1 to 221 (221)
+		Unaligned bases: 312 to 873 (562)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Sinobacterium_caligoides/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Sinobacterium_caligoides/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 3 + 4 part
+Half Unaligned Contigs with Misassemblies: 2
+Unaligned Contig Bases: 15751
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1031
+
+	SNPs: 49
+	Insertions: 0
+	Deletions: 2
+

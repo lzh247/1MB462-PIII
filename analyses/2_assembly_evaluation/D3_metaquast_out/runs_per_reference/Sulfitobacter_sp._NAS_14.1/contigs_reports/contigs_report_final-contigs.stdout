@@ -1,0 +1,237 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000007.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000011.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000017.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000021.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_CH959313.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_CH959314.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_CH959315.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_CH959316.1]
+	Loaded [Sulfitobacter_sp._NAS_14.1_NZ_CH959317.1]
+	Total Regions: 11
+	Total Region Length: 4010516
+Analyzing contigs...
+CONTIG: k105_77693 (1678bp)
+Best alignment score: 247.0 (LEN: 259, IDY: 95.37), Total number of alignments: 12
+			Looking for the best set of alignments (out of 12 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 203827 203993 | 606 440 | 167 167 | 96.41 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_77693
+		Skipping redundant alignment 2926 3092 | 606 440 | 167 167 | 96.41 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_77693
+		Skipping redundant alignment 1106850 1107016 | 440 606 | 167 167 | 96.41 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_77693
+		Skipping redundant alignment 203170 203248 | 1273 1195 | 79 79 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_77693
+		Skipping redundant alignment 2269 2347 | 1273 1195 | 79 79 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_77693
+		Skipping redundant alignment 1107595 1107673 | 1195 1273 | 79 79 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_77693
+		Skipping redundant alignment 202498 202756 | 1657 1399 | 259 259 | 95.37 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_77693
+		Skipping redundant alignment 1108087 1108345 | 1399 1657 | 259 259 | 95.37 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_77693
+		Skipping redundant alignment 1597 1855 | 1657 1399 | 259 259 | 95.37 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_77693
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 471.0, number of alignments: 3, unaligned bases: 1173
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 505 out of 1678 non-N bases (30.10%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1678 (number of Ns: 0) and total length of all aligns is 505
+		Alignment: 1570191 1570357 | 606 440 | 167 167 | 96.41 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_77693
+		Alignment: 1569534 1569612 | 1273 1195 | 79 79 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_77693
+		Alignment: 1568862 1569120 | 1657 1399 | 259 259 | 95.37 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_77693
+		Unaligned bases: 1173
+
+CONTIG: k105_121510 (703bp)
+Best alignment score: 678.0 (LEN: 703, IDY: 96.45), Total number of alignments: 4
+		This contig has 4 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1568302 1569004 | 1 703 | 703 703 | 96.45 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_121510
+			Skipping alignment 1037 1739 | 1 703 | 703 703 | 96.45 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_121510
+			Skipping alignment 1108203 1108905 | 703 1 | 703 703 | 96.45 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_121510
+			Skipping alignment 201938 202640 | 1 703 | 703 703 | 96.45 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_121510
+
+CONTIG: k105_100628 (593bp)
+Best alignment score: 63.0 (LEN: 65, IDY: 96.92), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 201899 201963 | 337 401 | 65 65 | 96.92 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_100628
+		Skipping redundant alignment 1568263 1568327 | 337 401 | 65 65 | 96.92 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_100628
+		Skipping redundant alignment 1108880 1108944 | 401 337 | 65 65 | 96.92 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_100628
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 63.0, number of alignments: 1, unaligned bases: 528
+		Alignment: 998 1062 | 337 401 | 65 65 | 96.92 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_100628
+
+CONTIG: k105_46648 (502bp)
+Best alignment score: 153.0 (LEN: 158, IDY: 96.84), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 203832 203989 | 196 39 | 158 158 | 96.84 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_46648
+		Skipping redundant alignment 1570196 1570353 | 196 39 | 158 158 | 96.84 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_46648
+		Skipping redundant alignment 1106854 1107011 | 39 196 | 158 158 | 96.84 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_46648
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 153.0, number of alignments: 1, unaligned bases: 344
+		Alignment: 2931 3088 | 196 39 | 158 158 | 96.84 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_46648
+
+CONTIG: k105_36233 (1018bp)
+Best alignment score: 72.0 (LEN: 73, IDY: 98.63), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 384 456 | 488 416 | 73 73 | 98.63 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_36233
+		Skipping redundant alignment 1567649 1567721 | 488 416 | 73 73 | 98.63 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_36233
+		Skipping redundant alignment 1109486 1109558 | 416 488 | 73 73 | 98.63 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_36233
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 72.0, number of alignments: 1, unaligned bases: 945
+		This contig is partially unaligned. (Aligned 73 out of 1018 non-N bases (7.17%))
+		Alignment: 201285 201357 | 488 416 | 73 73 | 98.63 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_36233
+		Unaligned bases: 1 to 415 (415)
+		Unaligned bases: 489 to 1018 (530)
+
+CONTIG: k105_134775 (575bp)
+Best alignment score: 443.0 (LEN: 456, IDY: 97.15), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1572472 1572927 | 456 1 | 456 456 | 97.15 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_134775
+		Skipping redundant alignment 1104280 1104735 | 1 456 | 456 456 | 97.15 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_134775
+		Skipping redundant alignment 5207 5662 | 456 1 | 456 456 | 96.93 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_134775
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 443.0, number of alignments: 1, unaligned bases: 119
+		Alignment: 206108 206563 | 456 1 | 456 456 | 97.15 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_134775
+
+CONTIG: k105_105240 (515bp)
+Best alignment score: 182.0 (LEN: 190, IDY: 95.79), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 206297 206486 | 515 326 | 190 190 | 95.79 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_105240
+		Skipping redundant alignment 5396 5585 | 515 326 | 190 190 | 95.79 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_105240
+		Skipping redundant alignment 1104357 1104546 | 326 515 | 190 190 | 95.79 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_105240
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 182.0, number of alignments: 1, unaligned bases: 325
+		Alignment: 1572661 1572850 | 515 326 | 190 190 | 95.79 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_105240
+
+CONTIG: k105_105762 (628bp)
+		This contig is unaligned. (628 bp)
+		Unaligned bases: 628 (number of Ns: 0)
+
+CONTIG: k105_9486 (842bp)
+Best alignment score: 233.0 (LEN: 243, IDY: 95.88), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 205497 205739 | 284 42 | 243 243 | 95.88 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_9486
+		Skipping redundant alignment 4596 4838 | 284 42 | 243 243 | 95.88 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_9486
+		Skipping redundant alignment 1571861 1572103 | 284 42 | 243 243 | 95.88 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_9486
+		Skipping redundant alignment 204931 205083 | 842 690 | 153 153 | 97.39 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_9486
+		Skipping redundant alignment 4030 4182 | 842 690 | 153 153 | 97.39 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_9486
+		Skipping redundant alignment 1571295 1571447 | 842 690 | 153 153 | 97.39 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_9486
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 382.0, number of alignments: 2, unaligned bases: 446
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 842 (number of Ns: 0) and total length of all aligns is 396
+		Alignment: 1105104 1105346 | 42 284 | 243 243 | 95.88 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_9486
+		Alignment: 1105760 1105912 | 690 842 | 153 153 | 97.39 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_9486
+		Unaligned bases: 446
+
+CONTIG: k105_42047 (897bp)
+Best alignment score: 114.0 (LEN: 119, IDY: 95.80), Total number of alignments: 12
+			Looking for the best set of alignments (out of 12 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1569359 1569435 | 456 380 | 77 77 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_42047
+		Skipping redundant alignment 202995 203071 | 456 380 | 77 77 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_42047
+		Skipping redundant alignment 2094 2170 | 456 380 | 77 77 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_42047
+		Skipping redundant alignment 203170 203249 | 646 567 | 80 80 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_42047
+		Skipping redundant alignment 1569534 1569613 | 646 567 | 80 80 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_42047
+		Skipping redundant alignment 2269 2348 | 646 567 | 80 80 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_42047
+		Skipping redundant alignment 1781 1899 | 867 749 | 119 119 | 95.8 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_42047
+		Skipping redundant alignment 202682 202800 | 867 749 | 119 119 | 95.8 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_42047
+		Skipping redundant alignment 1569046 1569164 | 867 749 | 119 119 | 95.8 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_42047
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 255.0, number of alignments: 3, unaligned bases: 621
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 897 (number of Ns: 0) and total length of all aligns is 276
+		Alignment: 1107772 1107848 | 380 456 | 77 77 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_42047
+		Alignment: 1107594 1107673 | 567 646 | 80 80 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_42047
+		Alignment: 1108043 1108161 | 749 867 | 119 119 | 95.8 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_42047
+		Unaligned bases: 621
+
+CONTIG: k105_144599 (729bp)
+Best alignment score: 82.0 (LEN: 85, IDY: 96.47), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 6228 6309 | 330 411 | 82 82 | 96.34 | Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 k105_144599
+		Skipping redundant alignment 1103630 1103709 | 414 335 | 80 80 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_144599
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 644
+		Alignment: 1573493 1573577 | 330 414 | 85 85 | 96.47 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_144599
+
+CONTIG: k105_59649 (720bp)
+Best alignment score: 82.0 (LEN: 82, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 638
+		This contig is partially unaligned. (Aligned 82 out of 720 non-N bases (11.39%))
+		Alignment: 2228461 2228542 | 154 73 | 82 82 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_59649
+		Unaligned bases: 1 to 72 (72)
+		Unaligned bases: 155 to 720 (566)
+
+CONTIG: k105_48787 (943bp)
+Best alignment score: 71.0 (LEN: 74, IDY: 95.95), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 869
+		This contig is partially unaligned. (Aligned 74 out of 943 non-N bases (7.85%))
+		Alignment: 2818615 2818688 | 437 364 | 74 74 | 95.95 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_48787
+		Unaligned bases: 1 to 363 (363)
+		Unaligned bases: 438 to 943 (506)
+
+CONTIG: k105_138590 (723bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 645
+		Alignment: 2691341 2691418 | 430 507 | 78 78 | 100.0 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_138590
+
+CONTIG: k105_31197 (1877bp)
+Best alignment score: 80.0 (LEN: 84, IDY: 95.24), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 149.0, number of alignments: 2, unaligned bases: 1722
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 155 out of 1877 non-N bases (8.26%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1877 (number of Ns: 0) and total length of all aligns is 155
+		Alignment: 1108502 1108572 | 644 574 | 71 71 | 97.18 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_31197
+		Alignment: 1108089 1108172 | 1066 983 | 84 84 | 95.24 | Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 k105_31197
+		Unaligned bases: 1722
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Sulfitobacter_sp._NAS_14.1/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Sulfitobacter_sp._NAS_14.1/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 5 part
+Half Unaligned Contigs with Misassemblies: 4
+Unaligned Contig Bases: 5975
+
+Ambiguously Mapped Contigs: 9
+Total Bases in Ambiguously Mapped Contigs: 7323
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 3080
+
+	SNPs: 101
+	Insertions: 1
+	Deletions: 1
+

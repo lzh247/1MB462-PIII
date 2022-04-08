@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.148*0.84] collected minimizers
+[M::mm_idx_gen::0.178*0.87] sorted minimizers
+[M::main::0.178*0.87] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.184*0.87] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.187*0.87] distinct minimizers: 341038 (99.24% are singletons); average occurrences: 1.015; average spacing: 10.010
+[M::worker_pipeline::0.216*0.89] mapped 20 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/quast_corrected_input/Thioalkalivibrio_sulfidiphilus_HL_EbGr7.fasta /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/quast_corrected_input/final-contigs_to_Thioalkalivibrio_sulfidiphilus_HL_EbGr7.fasta
+[M::main] Real time: 0.220 sec; CPU: 0.196 sec

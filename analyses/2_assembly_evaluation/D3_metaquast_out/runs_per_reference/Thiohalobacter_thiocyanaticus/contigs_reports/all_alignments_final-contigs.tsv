@@ -1,0 +1,70 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+223510	223589	12224	12303	Thiohalobacter_thiocyanaticus_NZ_QZMU01000002.1	k105_163029	97.5		True
+CONTIG	k105_163029	87077	correct_unaligned
+2365635	2365738	104	1	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_65861	100.0		True
+unknown
+2364788	2364903	829	714	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_65861	98.28		True
+unknown
+CONTIG	k105_65861	829	mis_unaligned
+2362628	2362759	408	539	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_44280	95.45		True
+CONTIG	k105_44280	539	correct
+1994704	1994793	68533	68622	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_109451	96.67		True
+CONTIG	k105_109451	86960	correct_unaligned
+2399715	2399786	560	489	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_77240	98.61		True
+CONTIG	k105_77240	640	correct
+1695479	1695555	67922	67998	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_99286	96.1		True
+CONTIG	k105_99286	172953	correct_unaligned
+2366300	2366548	1	249	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_77732	95.18		True
+CONTIG	k105_77732	1214	correct_unaligned
+2361812	2361886	376	302	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_111188	96.0		True
+CONTIG	k105_111188	992	correct_unaligned
+565682	565758	292	216	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_13716	100.0		True
+CONTIG	k105_13716	791	correct
+2733550	2733643	3207	3114	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_122464	97.87		True
+CONTIG	k105_122464	4436	correct_unaligned
+2364788	2364903	1	116	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_155815	96.55		True
+CONTIG	k105_155815	859	correct_unaligned
+2363228	2363316	527	615	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_68578	96.63		True
+CONTIG	k105_68578	785	correct_unaligned
+2362800	2362909	988	1097	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_91574	96.36		True
+unknown
+2362914	2363017	1104	1207	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_91574	96.15		True
+unknown
+CONTIG	k105_91574	1208	mis_unaligned
+2365648	2365742	105	11	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_27494	95.79		True
+CONTIG	k105_27494	727	correct_unaligned
+2362672	2362773	8	109	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_94114	95.1		True
+unknown
+2362818	2362907	165	254	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_94114	95.56		True
+unknown
+2365649	2365742	3009	3102	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_94114	97.87		True
+unknown
+CONTIG	k105_94114	3102	mis_unaligned
+2364158	2364305	303	450	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_61404	97.3		True
+CONTIG	k105_61404	598	correct
+2398127	2398203	355	279	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_50228	98.7		True
+CONTIG	k105_50228	1099	correct_unaligned
+1843195	1843271	39137	39213	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_29232	100.0		True
+CONTIG	k105_29232	134279	correct_unaligned
+2362617	2362778	442	603	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_95469	95.06		True
+CONTIG	k105_95469	603	correct
+2399715	2399786	2402	2331	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_52236	98.61		True
+CONTIG	k105_52236	2532	correct_unaligned
+2733550	2733642	1936	1844	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_106257	97.85		True
+CONTIG	k105_106257	3426	correct_unaligned
+2363401	2363478	250	327	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_52701	97.44		True
+unknown
+2363490	2363567	442	519	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_52701	100.0		True
+unknown
+CONTIG	k105_52701	876	mis_unaligned
+CONTIG	k105_52859	597	unaligned
+2362817	2363017	903	703	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_118644	95.02		True
+CONTIG	k105_118644	2232	correct_unaligned
+2366248	2366531	1	284	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_10842	96.13		True
+CONTIG	k105_10842	1395	correct_unaligned
+2366081	2366352	272	1	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_42097	95.96		True
+CONTIG	k105_42097	674	correct
+2363395	2363477	610	528	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_21266	96.39		True
+CONTIG	k105_21266	841	correct_unaligned
+2408489	2408559	123	53	Thiohalobacter_thiocyanaticus_NZ_QZMU01000001.1	k105_151753	98.59		True
+CONTIG	k105_151753	2819	correct_unaligned

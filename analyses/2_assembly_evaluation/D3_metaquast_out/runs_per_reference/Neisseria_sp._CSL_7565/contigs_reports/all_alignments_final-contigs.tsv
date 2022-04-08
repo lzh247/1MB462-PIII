@@ -1,0 +1,7 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+30713	30808	96	191	Neisseria_sp._CSL_7565_NZ_CP031700.1	k105_99987	96.88		True
+CONTIG	k105_99987	1497	correct_unaligned
+188898	188972	698	772	Neisseria_sp._CSL_7565_NZ_CP031700.1	k105_48244	100.0		True
+CONTIG	k105_48244	1341	correct_unaligned
+30598	30692	474	568	Neisseria_sp._CSL_7565_NZ_CP031700.1	k105_82356	96.84		True
+CONTIG	k105_82356	1299	correct_unaligned

@@ -1,0 +1,27 @@
+reference chromosomes:
+	marine_metagenome_CAJIIY010000001.1 (total length: 131270 bp, total length without N's: 131270 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000002.1 (total length: 59198 bp, total length without N's: 59198 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000003.1 (total length: 206311 bp, total length without N's: 206311 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000004.1 (total length: 196187 bp, total length without N's: 196187 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000005.1 (total length: 23377 bp, total length without N's: 23377 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000006.1 (total length: 46037 bp, total length without N's: 46037 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000007.1 (total length: 185994 bp, total length without N's: 185994 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000008.1 (total length: 128046 bp, total length without N's: 128046 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000009.1 (total length: 155440 bp, total length without N's: 155440 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000010.1 (total length: 564373 bp, total length without N's: 564373 bp, maximal covered length: 76 bp)
+	marine_metagenome_CAJIIY010000011.1 (total length: 541725 bp, total length without N's: 541725 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000012.1 (total length: 85148 bp, total length without N's: 85148 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000013.1 (total length: 111571 bp, total length without N's: 111571 bp, maximal covered length: 0 bp)
+	marine_metagenome_CAJIIY010000014.1 (total length: 287600 bp, total length without N's: 287600 bp, maximal covered length: 0 bp)
+
+total genome size: 2722277
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_marine_ | 0.003     | 2.882       | 15        | -         | -         | -         | -         |

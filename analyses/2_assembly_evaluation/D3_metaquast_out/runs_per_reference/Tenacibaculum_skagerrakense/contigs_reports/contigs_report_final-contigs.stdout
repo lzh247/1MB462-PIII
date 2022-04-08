@@ -1,0 +1,207 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000001.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000002.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000003.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000004.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000005.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000006.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000007.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000008.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000009.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000010.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000011.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000012.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000013.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000014.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000015.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000016.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000017.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000018.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000019.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000020.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000021.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000022.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000023.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000024.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000025.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000026.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000027.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000028.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000029.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000030.1]
+	Loaded [Tenacibaculum_skagerrakense_NZ_SLXM01000031.1]
+	Total Regions: 31
+	Total Region Length: 3712900
+Analyzing contigs...
+CONTIG: k105_65683 (707bp)
+Best alignment score: 92.0 (LEN: 95, IDY: 96.84), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 612
+		Alignment: 18 112 | 486 392 | 95 95 | 96.84 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_65683
+
+CONTIG: k105_87693 (573bp)
+Best alignment score: 179.0 (LEN: 188, IDY: 95.21), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 405.0, number of alignments: 3, unaligned bases: 154
+		This contig is misassembled.
+			Real Alignment 1: 1951 2088 | 18 155 | 138 138 | 97.1 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_87693
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 2: 2196 2383 | 263 450 | 188 188 | 95.21 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_87693
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 2386 2478 | 451 543 | 93 93 | 98.92 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_87693
+
+CONTIG: k105_44670 (4157bp)
+Best alignment score: 131.0 (LEN: 136, IDY: 96.32), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 131.0, number of alignments: 1, unaligned bases: 4021
+		This contig is partially unaligned. (Aligned 136 out of 4157 non-N bases (3.27%))
+		Alignment: 3906 4041 | 4157 4022 | 136 136 | 96.32 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_44670
+		Unaligned bases: 1 to 4021 (4021)
+
+CONTIG: k105_99368 (868bp)
+Best alignment score: 113.0 (LEN: 118, IDY: 95.76), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 212.0, number of alignments: 2, unaligned bases: 649
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 219 out of 868 non-N bases (25.23%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 868 (number of Ns: 0) and total length of all aligns is 219
+		Alignment: 3319 3419 | 104 4 | 101 101 | 98.02 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_99368
+		Alignment: 2592 2709 | 862 745 | 118 118 | 95.76 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_99368
+		Unaligned bases: 649
+
+CONTIG: k105_122431 (1015bp)
+Best alignment score: 305.0 (LEN: 317, IDY: 96.21), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 598.0, number of alignments: 2, unaligned bases: 396
+		This contig is misassembled.
+			Real Alignment 1: 3649 3950 | 302 1 | 302 302 | 97.02 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_122431
+			  Stretch of 12 mismatches between these two alignments (number of Ns: 0)
+			Real Alignment 2: 3320 3636 | 631 315 | 317 317 | 96.21 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_122431
+
+CONTIG: k105_158827 (1056bp)
+		This contig is unaligned. (1056 bp)
+		Unaligned bases: 1056 (number of Ns: 0)
+
+CONTIG: k105_114969 (1132bp)
+Best alignment score: 157.0 (LEN: 163, IDY: 96.32), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 157.0, number of alignments: 1, unaligned bases: 969
+		This contig is partially unaligned. (Aligned 163 out of 1132 non-N bases (14.40%))
+		Alignment: 3939 4101 | 1132 970 | 163 163 | 96.32 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_114969
+		Unaligned bases: 1 to 969 (969)
+
+CONTIG: k105_103871 (1805bp)
+Best alignment score: 205.0 (LEN: 211, IDY: 97.16), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 205.0, number of alignments: 1, unaligned bases: 1594
+		This contig is partially unaligned. (Aligned 211 out of 1805 non-N bases (11.69%))
+		Alignment: 848 1058 | 1805 1595 | 211 211 | 97.16 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_103871
+		Unaligned bases: 1 to 1594 (1594)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 85.0 (LEN: 87, IDY: 97.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 1212
+		This contig is partially unaligned. (Aligned 87 out of 1299 non-N bases (6.70%))
+		Alignment: 3324 3410 | 569 483 | 87 87 | 97.7 | Tenacibaculum_skagerrakense_NZ_SLXM01000023.1 k105_82356
+		Unaligned bases: 1 to 482 (482)
+		Unaligned bases: 570 to 1299 (730)
+
+CONTIG: k105_73909 (504bp)
+		This contig is unaligned. (504 bp)
+		Unaligned bases: 504 (number of Ns: 0)
+
+CONTIG: k105_88033 (4179bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 4100
+		This contig is partially unaligned. (Aligned 79 out of 4179 non-N bases (1.89%))
+		Alignment: 241077 241155 | 200 278 | 79 79 | 98.73 | Tenacibaculum_skagerrakense_NZ_SLXM01000007.1 k105_88033
+		Unaligned bases: 1 to 199 (199)
+		Unaligned bases: 279 to 4179 (3901)
+
+CONTIG: k105_55314 (3043bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2967
+		This contig is partially unaligned. (Aligned 76 out of 3043 non-N bases (2.50%))
+		Alignment: 119902 119977 | 227 152 | 76 76 | 100.0 | Tenacibaculum_skagerrakense_NZ_SLXM01000006.1 k105_55314
+		Unaligned bases: 1 to 151 (151)
+		Unaligned bases: 228 to 3043 (2816)
+
+CONTIG: k105_23022 (2275bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 2199
+		This contig is partially unaligned. (Aligned 76 out of 2275 non-N bases (3.34%))
+		Alignment: 36366 36441 | 1639 1714 | 76 76 | 98.68 | Tenacibaculum_skagerrakense_NZ_SLXM01000006.1 k105_23022
+		Unaligned bases: 1 to 1638 (1638)
+		Unaligned bases: 1715 to 2275 (561)
+
+CONTIG: k105_14044 (1204bp)
+Best alignment score: 74.0 (LEN: 76, IDY: 97.37), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1128
+		This contig is partially unaligned. (Aligned 76 out of 1204 non-N bases (6.31%))
+		Alignment: 34902 34977 | 330 405 | 76 76 | 97.37 | Tenacibaculum_skagerrakense_NZ_SLXM01000006.1 k105_14044
+		Unaligned bases: 1 to 329 (329)
+		Unaligned bases: 406 to 1204 (799)
+
+CONTIG: k105_155695 (5625bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 5550
+		This contig is partially unaligned. (Aligned 75 out of 5625 non-N bases (1.33%))
+		Alignment: 609757 609831 | 5022 5096 | 75 75 | 100.0 | Tenacibaculum_skagerrakense_NZ_SLXM01000001.1 k105_155695
+		Unaligned bases: 1 to 5021 (5021)
+		Unaligned bases: 5097 to 5625 (529)
+
+CONTIG: k105_79326 (2405bp)
+		This contig is unaligned. (2405 bp)
+		Unaligned bases: 2405 (number of Ns: 0)
+
+CONTIG: k105_105823 (4469bp)
+Best alignment score: 77.0 (LEN: 78, IDY: 98.72), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 4391
+		This contig is partially unaligned. (Aligned 78 out of 4469 non-N bases (1.75%))
+		Alignment: 363332 363409 | 3239 3316 | 78 78 | 98.72 | Tenacibaculum_skagerrakense_NZ_SLXM01000001.1 k105_105823
+		Unaligned bases: 1 to 3238 (3238)
+		Unaligned bases: 3317 to 4469 (1153)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Tenacibaculum_skagerrakense/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Tenacibaculum_skagerrakense/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 3 + 11 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 32745
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2074
+
+	SNPs: 81
+	Insertions: 0
+	Deletions: 2
+

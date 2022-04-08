@@ -1,0 +1,20 @@
+[M::mm_idx_gen::4.963*1.33] collected minimizers
+[M::mm_idx_gen::5.902*1.39] sorted minimizers
+[M::main::5.902*1.39] loaded/built the index for 1695 target sequence(s)
+[M::mm_mapopt_update::6.191*1.38] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 1695
+[M::mm_idx_stat::6.387*1.36] distinct minimizers: 18176892 (98.75% are singletons); average occurrences: 1.019; average spacing: 10.003
+[M::worker_pipeline::12.071*1.62] mapped 89614 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 85 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 4 /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D1_metaquast_out/quast_corrected_input/combined_reference.fasta /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D1_metaquast_out/combined_reference/../quast_corrected_input/final_contigs.fa
+[M::main] Real time: 12.107 sec; CPU: 19.596 sec
+[M::mm_idx_gen::0.078*1.08] collected minimizers
+[M::mm_idx_gen::0.102*1.07] sorted minimizers
+[M::main::0.102*1.07] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.107*1.06] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.110*1.06] distinct minimizers: 221774 (99.76% are singletons); average occurrences: 1.003; average spacing: 10.001
+[M::worker_pipeline::2.236*1.79] mapped 89614 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 85 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 4 /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D1_metaquast_out/quast_corrected_input/combined_reference.fasta /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D1_metaquast_out/combined_reference/../quast_corrected_input/final_contigs.fa__2
+[M::main] Real time: 2.247 sec; CPU: 4.018 sec

@@ -1,0 +1,7 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+91916	91987	96	25	marine_metagenome_CAJIIY010000010.1	k105_89670	98.61		True
+CONTIG	k105_89670	700	correct_unaligned
+91917	91987	317	247	marine_metagenome_CAJIIY010000010.1	k105_69661	98.59		True
+CONTIG	k105_69661	854	correct_unaligned
+91916	91991	2148	2223	marine_metagenome_CAJIIY010000010.1	k105_53194	98.68		True
+CONTIG	k105_53194	3858	correct_unaligned

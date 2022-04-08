@@ -1,0 +1,31 @@
+Sinobacterium_caligoides_NZ_RKHR01000001.1
+1 49864
+Sinobacterium_caligoides_NZ_RKHR01000002.1
+1 147
+393 938
+1334 1789
+1914 2957
+3055 3665
+3798 4380
+Sinobacterium_caligoides_NZ_RKHR01000003.1
+1 1492182
+Sinobacterium_caligoides_NZ_RKHR01000004.1
+1 1338060
+Sinobacterium_caligoides_NZ_RKHR01000005.1
+1 34849
+34947 461176
+461258 560931
+Sinobacterium_caligoides_NZ_RKHR01000006.1
+1 341903
+Sinobacterium_caligoides_NZ_RKHR01000007.1
+1 35366
+35457 68817
+68917 208396
+Sinobacterium_caligoides_NZ_RKHR01000008.1
+1 161631
+Sinobacterium_caligoides_NZ_RKHR01000009.1
+1 83253
+Sinobacterium_caligoides_NZ_RKHR01000010.1
+1 82560
+Sinobacterium_caligoides_NZ_RKHR01000011.1
+1 75289

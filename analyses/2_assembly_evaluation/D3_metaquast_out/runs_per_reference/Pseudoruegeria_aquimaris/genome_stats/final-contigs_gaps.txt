@@ -1,0 +1,132 @@
+Pseudoruegeria_aquimaris_NZ_FWFQ01000001.1
+1 293886
+Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1
+1 242256
+242347 291784
+Pseudoruegeria_aquimaris_NZ_FWFQ01000003.1
+1 117798
+117892 216974
+Pseudoruegeria_aquimaris_NZ_FWFQ01000004.1
+1 174925
+Pseudoruegeria_aquimaris_NZ_FWFQ01000005.1
+1 151962
+Pseudoruegeria_aquimaris_NZ_FWFQ01000006.1
+1 151580
+Pseudoruegeria_aquimaris_NZ_FWFQ01000007.1
+1 147600
+Pseudoruegeria_aquimaris_NZ_FWFQ01000008.1
+1 147366
+Pseudoruegeria_aquimaris_NZ_FWFQ01000009.1
+1 126981
+Pseudoruegeria_aquimaris_NZ_FWFQ01000010.1
+1 124682
+Pseudoruegeria_aquimaris_NZ_FWFQ01000011.1
+1 109840
+109945 114539
+Pseudoruegeria_aquimaris_NZ_FWFQ01000012.1
+1 52770
+52869 110938
+Pseudoruegeria_aquimaris_NZ_FWFQ01000013.1
+1 110543
+Pseudoruegeria_aquimaris_NZ_FWFQ01000014.1
+1 98253
+Pseudoruegeria_aquimaris_NZ_FWFQ01000015.1
+1 97810
+Pseudoruegeria_aquimaris_NZ_FWFQ01000016.1
+1 97153
+Pseudoruegeria_aquimaris_NZ_FWFQ01000017.1
+1 94406
+Pseudoruegeria_aquimaris_NZ_FWFQ01000018.1
+1 83860
+Pseudoruegeria_aquimaris_NZ_FWFQ01000019.1
+1 79060
+Pseudoruegeria_aquimaris_NZ_FWFQ01000020.1
+1 64730
+Pseudoruegeria_aquimaris_NZ_FWFQ01000021.1
+1 63881
+Pseudoruegeria_aquimaris_NZ_FWFQ01000022.1
+1 62267
+Pseudoruegeria_aquimaris_NZ_FWFQ01000023.1
+1 57563
+Pseudoruegeria_aquimaris_NZ_FWFQ01000024.1
+1 54307
+Pseudoruegeria_aquimaris_NZ_FWFQ01000025.1
+1 53782
+Pseudoruegeria_aquimaris_NZ_FWFQ01000026.1
+1 46042
+Pseudoruegeria_aquimaris_NZ_FWFQ01000027.1
+1 44273
+Pseudoruegeria_aquimaris_NZ_FWFQ01000028.1
+1 38711
+Pseudoruegeria_aquimaris_NZ_FWFQ01000029.1
+1 36740
+Pseudoruegeria_aquimaris_NZ_FWFQ01000030.1
+1 36658
+Pseudoruegeria_aquimaris_NZ_FWFQ01000031.1
+1 33516
+Pseudoruegeria_aquimaris_NZ_FWFQ01000032.1
+1 30875
+Pseudoruegeria_aquimaris_NZ_FWFQ01000033.1
+1 30375
+Pseudoruegeria_aquimaris_NZ_FWFQ01000034.1
+1 28877
+Pseudoruegeria_aquimaris_NZ_FWFQ01000035.1
+1 26066
+Pseudoruegeria_aquimaris_NZ_FWFQ01000036.1
+1 24606
+Pseudoruegeria_aquimaris_NZ_FWFQ01000037.1
+1 24491
+Pseudoruegeria_aquimaris_NZ_FWFQ01000038.1
+1 23620
+Pseudoruegeria_aquimaris_NZ_FWFQ01000039.1
+1 23081
+Pseudoruegeria_aquimaris_NZ_FWFQ01000040.1
+1 19666
+Pseudoruegeria_aquimaris_NZ_FWFQ01000041.1
+1 15998
+Pseudoruegeria_aquimaris_NZ_FWFQ01000042.1
+1 14682
+Pseudoruegeria_aquimaris_NZ_FWFQ01000043.1
+1 14611
+Pseudoruegeria_aquimaris_NZ_FWFQ01000044.1
+1 14455
+Pseudoruegeria_aquimaris_NZ_FWFQ01000045.1
+1 13215
+Pseudoruegeria_aquimaris_NZ_FWFQ01000046.1
+1 11444
+Pseudoruegeria_aquimaris_NZ_FWFQ01000047.1
+1 10942
+Pseudoruegeria_aquimaris_NZ_FWFQ01000048.1
+1 10869
+Pseudoruegeria_aquimaris_NZ_FWFQ01000049.1
+1 9921
+Pseudoruegeria_aquimaris_NZ_FWFQ01000050.1
+1 9128
+Pseudoruegeria_aquimaris_NZ_FWFQ01000051.1
+1 6317
+Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1
+1 501
+1015 1358
+1446 1644
+1735 2465
+2583 2859
+3030 3517
+3716 4198
+4402 4656
+5316 5557
+Pseudoruegeria_aquimaris_NZ_FWFQ01000053.1
+1 5513
+Pseudoruegeria_aquimaris_NZ_FWFQ01000054.1
+1 2939
+Pseudoruegeria_aquimaris_NZ_FWFQ01000055.1
+1 2712
+Pseudoruegeria_aquimaris_NZ_FWFQ01000056.1
+1 1253
+Pseudoruegeria_aquimaris_NZ_FWFQ01000057.1
+1 794
+Pseudoruegeria_aquimaris_NZ_FWFQ01000058.1
+1 777
+Pseudoruegeria_aquimaris_NZ_FWFQ01000059.1
+1 743
+Pseudoruegeria_aquimaris_NZ_FWFQ01000060.1
+1 715

@@ -1,0 +1,14 @@
+reference chromosomes:
+	Shewanella_amazonensis_SB2B_NC_008700.1 (total length: 4306142 bp, total length without N's: 4306142 bp, maximal covered length: 441 bp)
+
+total genome size: 4306142
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Shewane | 0.010     | 2.179       | 6         | -         | -         | -         | -         |

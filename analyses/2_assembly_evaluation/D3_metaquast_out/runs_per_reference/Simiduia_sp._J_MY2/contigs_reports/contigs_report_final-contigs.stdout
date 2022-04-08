@@ -1,0 +1,141 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000001.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000002.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000003.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000004.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000005.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000006.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000007.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000008.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1]
+	Loaded [Simiduia_sp._J_MY2_NZ_JACHXZ010000010.1]
+	Total Regions: 10
+	Total Region Length: 3739502
+Analyzing contigs...
+CONTIG: k105_35430 (539bp)
+Best alignment score: 235.0 (LEN: 247, IDY: 95.14), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 235.0, number of alignments: 1, unaligned bases: 292
+		Alignment: 3496 3742 | 123 369 | 247 247 | 95.14 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_35430
+
+CONTIG: k105_113386 (807bp)
+		This contig is unaligned. (807 bp)
+		Unaligned bases: 807 (number of Ns: 0)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1220
+		This contig is partially unaligned. (Aligned 79 out of 1299 non-N bases (6.08%))
+		Alignment: 975 1053 | 478 556 | 79 79 | 98.73 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_82356
+		Unaligned bases: 1 to 477 (477)
+		Unaligned bases: 557 to 1299 (743)
+
+CONTIG: k105_61404 (598bp)
+Best alignment score: 98.0 (LEN: 102, IDY: 96.08), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 496
+		Alignment: 2663 2764 | 193 92 | 102 102 | 96.08 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_61404
+
+CONTIG: k105_31458 (901bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 818
+		This contig is partially unaligned. (Aligned 83 out of 901 non-N bases (9.21%))
+		Alignment: 3498 3580 | 256 338 | 83 83 | 95.18 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_31458
+		Unaligned bases: 1 to 255 (255)
+		Unaligned bases: 339 to 901 (563)
+
+CONTIG: k105_128613 (1845bp)
+Best alignment score: 197.0 (LEN: 207, IDY: 95.17), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 197.0, number of alignments: 1, unaligned bases: 1638
+		This contig is partially unaligned. (Aligned 207 out of 1845 non-N bases (11.22%))
+		Alignment: 975 1180 | 1831 1625 | 206 207 | 95.17 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_128613
+		Unaligned bases: 1 to 1624 (1624)
+		Unaligned bases: 1832 to 1845 (14)
+
+CONTIG: k105_107052 (542bp)
+Best alignment score: 72.0 (LEN: 74, IDY: 97.30), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 72.0, number of alignments: 1, unaligned bases: 468
+		Alignment: 4961 5034 | 249 176 | 74 74 | 97.3 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_107052
+
+CONTIG: k105_21266 (841bp)
+Best alignment score: 171.0 (LEN: 176, IDY: 97.16), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 171.0, number of alignments: 1, unaligned bases: 665
+		This contig is partially unaligned. (Aligned 176 out of 841 non-N bases (20.93%))
+		Alignment: 3496 3671 | 665 840 | 176 176 | 97.16 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_21266
+		Unaligned bases: 1 to 664 (664)
+		Unaligned bases: 841 to 841 (1)
+
+CONTIG: k105_140695 (513bp)
+Best alignment score: 146.0 (LEN: 151, IDY: 96.69), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 146.0, number of alignments: 1, unaligned bases: 362
+		Alignment: 314 464 | 357 507 | 151 151 | 96.69 | Simiduia_sp._J_MY2_NZ_JACHXZ010000009.1 k105_140695
+
+CONTIG: k105_4118 (14321bp)
+Best alignment score: 77.0 (LEN: 79, IDY: 97.47), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 14242
+		This contig is partially unaligned. (Aligned 79 out of 14321 non-N bases (0.55%))
+		Alignment: 841965 842043 | 4636 4714 | 79 79 | 97.47 | Simiduia_sp._J_MY2_NZ_JACHXZ010000002.1 k105_4118
+		Unaligned bases: 1 to 4635 (4635)
+		Unaligned bases: 4715 to 14321 (9607)
+
+CONTIG: k105_58596 (873bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 794
+		This contig is partially unaligned. (Aligned 79 out of 873 non-N bases (9.05%))
+		Alignment: 792611 792689 | 122 44 | 79 79 | 98.73 | Simiduia_sp._J_MY2_NZ_JACHXZ010000001.1 k105_58596
+		Unaligned bases: 1 to 43 (43)
+		Unaligned bases: 123 to 873 (751)
+
+CONTIG: k105_160909 (17842bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 17763
+		This contig is partially unaligned. (Aligned 79 out of 17842 non-N bases (0.44%))
+		Alignment: 792611 792689 | 16857 16779 | 79 79 | 98.73 | Simiduia_sp._J_MY2_NZ_JACHXZ010000001.1 k105_160909
+		Unaligned bases: 1 to 16778 (16778)
+		Unaligned bases: 16858 to 17842 (985)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Simiduia_sp._J_MY2/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Simiduia_sp._J_MY2/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 7 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 37947
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 938
+
+	SNPs: 46
+	Insertions: 1
+	Deletions: 0
+

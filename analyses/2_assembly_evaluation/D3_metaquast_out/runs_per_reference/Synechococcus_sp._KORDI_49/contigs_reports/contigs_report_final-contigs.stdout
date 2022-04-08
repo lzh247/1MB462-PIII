@@ -1,0 +1,147 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Synechococcus_sp._KORDI_49_NZ_CP006270.1]
+	Total Regions: 1
+	Total Region Length: 2585813
+Analyzing contigs...
+CONTIG: k105_65655 (752bp)
+Best alignment score: 683.0 (LEN: 697, IDY: 97.99), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2090589 2091285 | 697 1 | 697 697 | 97.99 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_65655
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 683.0, number of alignments: 1, unaligned bases: 55
+		Alignment: 1248286 1248982 | 1 697 | 697 697 | 97.99 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_65655
+
+CONTIG: k105_141738 (896bp)
+Best alignment score: 893.0 (LEN: 896, IDY: 99.67), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1247399 1248294 | 896 1 | 896 896 | 99.67 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_141738
+			Skipping alignment 2091277 2092172 | 1 896 | 896 896 | 99.67 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_141738
+
+CONTIG: k105_143883 (581bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 505
+		Alignment: 516887 516962 | 171 246 | 76 76 | 100.0 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_143883
+
+CONTIG: k105_80406 (1837bp)
+Best alignment score: 1672.1 (LEN: 1708, IDY: 97.90), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1249931 1251642 | 1837 130 | 1712 1708 | 97.9 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_80406
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1672.1, number of alignments: 1, unaligned bases: 129
+		Alignment: 2087929 2089640 | 130 1837 | 1712 1708 | 97.9 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_80406
+
+CONTIG: k105_48712 (969bp)
+		This contig is unaligned. (969 bp)
+		Unaligned bases: 969 (number of Ns: 0)
+
+CONTIG: k105_70828 (1114bp)
+Best alignment score: 1012.0 (LEN: 1030, IDY: 98.25), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1246473 1247503 | 1030 1 | 1031 1030 | 98.25 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_70828
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1012.0, number of alignments: 1, unaligned bases: 84
+		Alignment: 2092068 2093098 | 1 1030 | 1031 1030 | 98.25 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_70828
+
+CONTIG: k105_71077 (723bp)
+Best alignment score: 125.0 (LEN: 131, IDY: 95.42), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 125.0, number of alignments: 1, unaligned bases: 592
+		This contig is partially unaligned. (Aligned 131 out of 723 non-N bases (18.12%))
+		Alignment: 1251259 1251389 | 144 14 | 131 131 | 95.42 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_71077
+		Unaligned bases: 1 to 13 (13)
+		Unaligned bases: 145 to 723 (579)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 93.0 (LEN: 97, IDY: 95.88), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1247409 1247505 | 474 570 | 97 97 | 95.88 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_82356
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 1202
+		This contig is partially unaligned. (Aligned 97 out of 1299 non-N bases (7.47%))
+		Alignment: 2092066 2092162 | 570 474 | 97 97 | 95.88 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_82356
+		Unaligned bases: 1 to 473 (473)
+		Unaligned bases: 571 to 1299 (729)
+
+CONTIG: k105_116739 (3070bp)
+Best alignment score: 92.0 (LEN: 96, IDY: 95.83), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2092067 2092162 | 1059 964 | 96 96 | 95.83 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_116739
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 92.0, number of alignments: 1, unaligned bases: 2974
+		This contig is partially unaligned. (Aligned 96 out of 3070 non-N bases (3.13%))
+		Alignment: 1247409 1247504 | 964 1059 | 96 96 | 95.83 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_116739
+		Unaligned bases: 1 to 963 (963)
+		Unaligned bases: 1060 to 3070 (2011)
+
+CONTIG: k105_73223 (591bp)
+Best alignment score: 559.0 (LEN: 585, IDY: 95.56), Total number of alignments: 1
+		One align captures most of this contig: 2358729 2359311 | 591 7 | 583 585 | 95.56 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_73223
+
+CONTIG: k105_9673 (620bp)
+Best alignment score: 98.0 (LEN: 102, IDY: 96.08), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1247413 1247514 | 501 400 | 102 102 | 96.08 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_9673
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 518
+		Alignment: 2092057 2092158 | 400 501 | 102 102 | 96.08 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_9673
+
+CONTIG: k105_119161 (553bp)
+Best alignment score: 411.0 (LEN: 431, IDY: 95.37), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2090204 2090634 | 123 553 | 431 431 | 95.37 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_119161
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 411.0, number of alignments: 1, unaligned bases: 122
+		Alignment: 1248937 1249367 | 553 123 | 431 431 | 95.37 | Synechococcus_sp._KORDI_49_NZ_CP006270.1 k105_119161
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Synechococcus_sp._KORDI_49/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Synechococcus_sp._KORDI_49/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 1 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 5737
+
+Ambiguously Mapped Contigs: 8
+Total Bases in Ambiguously Mapped Contigs: 10141
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 5513
+
+	SNPs: 126
+	Insertions: 3
+	Deletions: 6
+

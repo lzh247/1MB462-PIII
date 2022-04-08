@@ -1,0 +1,147 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1]
+	Total Regions: 1
+	Total Region Length: 2474654
+Analyzing contigs...
+CONTIG: k105_43777 (679bp)
+Best alignment score: 77.0 (LEN: 78, IDY: 98.72), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 601
+		This contig is partially unaligned. (Aligned 78 out of 679 non-N bases (11.49%))
+		Alignment: 2339430 2339507 | 602 679 | 78 78 | 98.72 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_43777
+		Unaligned bases: 1 to 601 (601)
+
+CONTIG: k105_44280 (539bp)
+Best alignment score: 127.0 (LEN: 132, IDY: 96.21), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 127.0, number of alignments: 1, unaligned bases: 407
+		Alignment: 439907 440038 | 539 408 | 132 132 | 96.21 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_44280
+
+CONTIG: k105_100628 (593bp)
+Best alignment score: 74.0 (LEN: 76, IDY: 97.37), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 517
+		Alignment: 440069 440144 | 487 412 | 76 76 | 97.37 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_100628
+
+CONTIG: k105_68486 (821bp)
+Best alignment score: 293.0 (LEN: 304, IDY: 96.38), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 293.0, number of alignments: 1, unaligned bases: 517
+		This contig is partially unaligned. (Aligned 304 out of 821 non-N bases (37.03%))
+		Alignment: 436096 436399 | 314 11 | 304 304 | 96.38 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_68486
+		Unaligned bases: 1 to 10 (10)
+		Unaligned bases: 315 to 821 (507)
+
+CONTIG: k105_4506 (669bp)
+Best alignment score: 220.0 (LEN: 228, IDY: 96.49), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 220.0, number of alignments: 1, unaligned bases: 441
+		Alignment: 436887 437114 | 669 442 | 228 228 | 96.49 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_4506
+
+CONTIG: k105_113386 (807bp)
+		This contig is unaligned. (807 bp)
+		Unaligned bases: 807 (number of Ns: 0)
+
+CONTIG: k105_27494 (727bp)
+Best alignment score: 91.0 (LEN: 95, IDY: 95.79), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 91.0, number of alignments: 1, unaligned bases: 632
+		This contig is partially unaligned. (Aligned 95 out of 727 non-N bases (13.07%))
+		Alignment: 436883 436977 | 11 105 | 95 95 | 95.79 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_27494
+		Unaligned bases: 1 to 10 (10)
+		Unaligned bases: 106 to 727 (622)
+
+CONTIG: k105_38657 (1313bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 694872 694946 | 1012 1086 | 75 75 | 98.67 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_38657
+		Skipping redundant alignment 694854 694928 | 1012 1086 | 75 75 | 98.67 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_38657
+		Skipping redundant alignment 694848 694922 | 1012 1086 | 75 75 | 98.67 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_38657
+		Skipping redundant alignment 694878 694952 | 1012 1086 | 75 75 | 98.67 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_38657
+		Skipping redundant alignment 694860 694934 | 1012 1086 | 75 75 | 98.67 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_38657
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1238
+		This contig is partially unaligned. (Aligned 75 out of 1313 non-N bases (5.71%))
+		Alignment: 694866 694940 | 1012 1086 | 75 75 | 98.67 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_38657
+		Unaligned bases: 1 to 1011 (1011)
+		Unaligned bases: 1087 to 1313 (227)
+
+CONTIG: k105_29763 (540bp)
+Best alignment score: 183.0 (LEN: 191, IDY: 95.81), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 183.0, number of alignments: 1, unaligned bases: 349
+		Alignment: 440458 440648 | 344 534 | 191 191 | 95.81 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_29763
+
+CONTIG: k105_30124 (572bp)
+Best alignment score: 97.0 (LEN: 102, IDY: 95.10), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 97.0, number of alignments: 1, unaligned bases: 470
+		Alignment: 438394 438495 | 1 102 | 102 102 | 95.1 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_30124
+
+CONTIG: k105_31458 (901bp)
+		This contig is unaligned. (901 bp)
+		Unaligned bases: 901 (number of Ns: 0)
+
+CONTIG: k105_52701 (876bp)
+Best alignment score: 174.0 (LEN: 179, IDY: 97.21), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 174.0, number of alignments: 1, unaligned bases: 697
+		This contig is partially unaligned. (Aligned 179 out of 876 non-N bases (20.43%))
+		Alignment: 439347 439525 | 179 1 | 179 179 | 97.21 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_52701
+		Unaligned bases: 180 to 876 (697)
+
+CONTIG: k105_75379 (601bp)
+Best alignment score: 85.0 (LEN: 87, IDY: 97.70), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 694846 694910 | 579 515 | 65 65 | 100.0 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_75379
+		Skipping redundant alignment 694847 694928 | 596 515 | 82 82 | 97.56 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_75379
+		Skipping redundant alignment 694872 694953 | 601 520 | 82 82 | 97.56 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_75379
+		Skipping redundant alignment 694860 694946 | 601 515 | 87 87 | 97.7 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_75379
+		Skipping redundant alignment 694854 694940 | 601 515 | 87 87 | 97.7 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_75379
+		Skipping redundant alignment 694866 694952 | 601 515 | 87 87 | 97.7 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_75379
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 514
+		This contig is partially unaligned. (Aligned 87 out of 601 non-N bases (14.48%))
+		Alignment: 694848 694934 | 601 515 | 87 87 | 97.7 | Porticoccus_hydrocarbonoclasticus_MCTG13d_NZ_JQMM01000001.1 k105_75379
+		Unaligned bases: 1 to 514 (514)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Porticoccus_hydrocarbonoclasticus_MCTG13d/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Porticoccus_hydrocarbonoclasticus_MCTG13d/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 2 + 6 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 5907
+
+Ambiguously Mapped Contigs: 2
+Total Bases in Ambiguously Mapped Contigs: 1914
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1387
+
+	SNPs: 52
+	Insertions: 0
+	Deletions: 0
+

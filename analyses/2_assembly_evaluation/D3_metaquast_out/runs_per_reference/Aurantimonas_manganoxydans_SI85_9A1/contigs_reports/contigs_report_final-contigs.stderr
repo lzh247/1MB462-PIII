@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.174*0.90] collected minimizers
+[M::mm_idx_gen::0.214*0.92] sorted minimizers
+[M::main::0.214*0.92] loaded/built the index for 22 target sequence(s)
+[M::mm_mapopt_update::0.221*0.92] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 22
+[M::mm_idx_stat::0.226*0.92] distinct minimizers: 422605 (98.68% are singletons); average occurrences: 1.023; average spacing: 10.010
+[M::worker_pipeline::0.248*0.86] mapped 6 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /sw/bioinfo/quast/5.0.2/rackham/lib/python3.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r 85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/quast_corrected_input/Aurantimonas_manganoxydans_SI85_9A1.fasta /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/quast_corrected_input/final-contigs_to_Aurantimonas_manganoxydans_SI85_9A1.fasta
+[M::main] Real time: 0.252 sec; CPU: 0.219 sec

@@ -1,0 +1,536 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Ilumatobacter_coccineus_YM16_304_NC_020520.1]
+	Total Regions: 1
+	Total Region Length: 4830181
+Analyzing contigs...
+CONTIG: k105_54398 (1341bp)
+Best alignment score: 130.0 (LEN: 135, IDY: 96.30), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 130.0, number of alignments: 1, unaligned bases: 1206
+		This contig is partially unaligned. (Aligned 135 out of 1341 non-N bases (10.07%))
+		Alignment: 458846 458980 | 195 61 | 135 135 | 96.3 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_54398
+		Unaligned bases: 1 to 60 (60)
+		Unaligned bases: 196 to 1341 (1146)
+
+CONTIG: k105_54636 (738bp)
+		This contig is unaligned. (738 bp)
+		Unaligned bases: 738 (number of Ns: 0)
+
+CONTIG: k105_54638 (755bp)
+		This contig is unaligned. (755 bp)
+		Unaligned bases: 755 (number of Ns: 0)
+
+CONTIG: k105_141556 (8698bp)
+Best alignment score: 95.0 (LEN: 97, IDY: 97.94), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 8601
+		This contig is partially unaligned. (Aligned 97 out of 8698 non-N bases (1.12%))
+		Alignment: 403339 403435 | 2411 2507 | 97 97 | 97.94 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_141556
+		Unaligned bases: 1 to 2410 (2410)
+		Unaligned bases: 2508 to 8698 (6191)
+
+CONTIG: k105_141603 (1244bp)
+Best alignment score: 75.0 (LEN: 77, IDY: 97.40), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1167
+		This contig is partially unaligned. (Aligned 77 out of 1244 non-N bases (6.19%))
+		Alignment: 2619492 2619568 | 522 446 | 77 77 | 97.4 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_141603
+		Unaligned bases: 1 to 445 (445)
+		Unaligned bases: 523 to 1244 (722)
+
+CONTIG: k105_163482 (2369bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2293
+		This contig is partially unaligned. (Aligned 76 out of 2369 non-N bases (3.21%))
+		Alignment: 4470415 4470490 | 189 264 | 76 76 | 100.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_163482
+		Unaligned bases: 1 to 188 (188)
+		Unaligned bases: 265 to 2369 (2105)
+
+CONTIG: k105_33223 (1046bp)
+Best alignment score: 142.0 (LEN: 146, IDY: 97.26), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2929048 2929193 | 146 1 | 146 146 | 97.26 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_33223
+		Skipping redundant alignment 2928141 2928269 | 1046 918 | 129 129 | 99.22 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_33223
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 271.0, number of alignments: 2, unaligned bases: 770
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 276 out of 1046 non-N bases (26.39%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1046 (number of Ns: 0) and total length of all aligns is 276
+		Alignment: 2314450 2314595 | 1 146 | 146 146 | 97.26 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_33223
+		Alignment: 2315373 2315502 | 917 1046 | 130 130 | 99.23 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_33223
+		Unaligned bases: 770
+
+CONTIG: k105_153003 (6643bp)
+Best alignment score: 80.0 (LEN: 82, IDY: 97.56), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 6561
+		This contig is partially unaligned. (Aligned 82 out of 6643 non-N bases (1.23%))
+		Alignment: 877122 877203 | 350 269 | 82 82 | 97.56 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_153003
+		Unaligned bases: 1 to 268 (268)
+		Unaligned bases: 351 to 6643 (6293)
+
+CONTIG: k105_22698 (655bp)
+		This contig is unaligned. (655 bp)
+		Unaligned bases: 655 (number of Ns: 0)
+
+CONTIG: k105_76955 (1494bp)
+Best alignment score: 76.0 (LEN: 78, IDY: 97.44), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2312433 2312508 | 18 93 | 76 76 | 97.37 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_76955
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 1416
+		This contig is partially unaligned. (Aligned 78 out of 1494 non-N bases (5.22%))
+		Alignment: 2931133 2931210 | 95 18 | 78 78 | 97.44 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_76955
+		Unaligned bases: 1 to 17 (17)
+		Unaligned bases: 96 to 1494 (1399)
+
+CONTIG: k105_88048 (1651bp)
+Best alignment score: 596.0 (LEN: 615, IDY: 96.91), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2929678 2929799 | 122 1 | 122 122 | 96.72 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+		Skipping redundant alignment 2929048 2929662 | 748 134 | 615 615 | 96.91 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+		Skipping redundant alignment 2928758 2929030 | 1036 764 | 273 273 | 95.97 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+		Skipping redundant alignment 2928141 2928630 | 1651 1162 | 490 490 | 95.92 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1447.0, number of alignments: 4, unaligned bases: 154
+		This contig is misassembled.
+			Real Alignment 1: 2313844 2313963 | 1 120 | 120 120 | 98.33 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+			  Indel (<= 5bp) between these two alignments: deletion of length 4; 9 mismatches (number of Ns: 0)
+			Real Alignment 2: 2313981 2314595 | 134 748 | 615 615 | 96.91 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+			  Indel (<= 5bp) between these two alignments: deletion of length 2; 11 mismatches (number of Ns: 0)
+			Real Alignment 3: 2314611 2314881 | 762 1032 | 271 271 | 96.68 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+			  Gap between these two alignments (local misassembly). Inconsistency = 2
+			Real Alignment 4: 2315012 2315502 | 1161 1651 | 491 491 | 95.93 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_88048
+
+CONTIG: k105_55337 (575bp)
+Best alignment score: 81.0 (LEN: 82, IDY: 98.78), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 493
+		Alignment: 278865 278946 | 575 494 | 82 82 | 98.78 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_55337
+
+CONTIG: k105_120426 (535bp)
+Best alignment score: 146.0 (LEN: 151, IDY: 96.69), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2930967 2931117 | 372 522 | 151 151 | 96.69 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_120426
+			The best set is below. Score: 230.0, number of alignments: 2, unaligned bases: 296
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 535 (number of Ns: 0) and total length of all aligns is 239
+		Alignment: 2312755 2312842 | 293 206 | 88 88 | 95.45 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_120426
+		Alignment: 2312526 2312676 | 522 372 | 151 151 | 96.69 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_120426
+		Unaligned bases: 296
+
+CONTIG: k105_153935 (531bp)
+Best alignment score: 81.0 (LEN: 82, IDY: 98.78), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 449
+		Alignment: 4470409 4470490 | 283 202 | 82 82 | 98.78 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_153935
+
+CONTIG: k105_121536 (732bp)
+Best alignment score: 87.0 (LEN: 90, IDY: 96.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 642
+		This contig is partially unaligned. (Aligned 90 out of 732 non-N bases (12.30%))
+		Alignment: 2544320 2544409 | 158 69 | 90 90 | 96.67 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_121536
+		Unaligned bases: 1 to 68 (68)
+		Unaligned bases: 159 to 732 (574)
+
+CONTIG: k105_90342 (655bp)
+Best alignment score: 344.0 (LEN: 359, IDY: 95.82), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2928039 2928238 | 211 12 | 200 200 | 95.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_90342
+		Skipping redundant alignment 2927595 2927953 | 655 297 | 359 359 | 95.82 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_90342
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 534.0, number of alignments: 2, unaligned bases: 97
+		This contig is misassembled.
+			Real Alignment 1: 2315405 2315603 | 12 210 | 199 199 | 95.48 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_90342
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 2: 2315690 2316048 | 297 655 | 359 359 | 95.82 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_90342
+
+CONTIG: k105_90343 (651bp)
+Best alignment score: 643.0 (LEN: 651, IDY: 98.77), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2315398 2316048 | 1 651 | 651 651 | 98.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_90343
+			Skipping alignment 2927595 2928245 | 651 1 | 651 651 | 98.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_90343
+
+CONTIG: k105_166522 (604bp)
+Best alignment score: 76.0 (LEN: 77, IDY: 98.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 527
+		Alignment: 1392411 1392487 | 416 340 | 77 77 | 98.7 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_166522
+
+CONTIG: k105_57766 (1422bp)
+Best alignment score: 62.0 (LEN: 65, IDY: 95.38), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 62.0, number of alignments: 1, unaligned bases: 1357
+		This contig is partially unaligned. (Aligned 65 out of 1422 non-N bases (4.57%))
+		Alignment: 173406 173470 | 424 360 | 65 65 | 95.38 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_57766
+		Unaligned bases: 1 to 359 (359)
+		Unaligned bases: 425 to 1422 (998)
+
+CONTIG: k105_79541 (525bp)
+Best alignment score: 81.0 (LEN: 83, IDY: 97.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 442
+		Alignment: 1131838 1131920 | 470 388 | 83 83 | 97.59 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_79541
+
+CONTIG: k105_25970 (1178bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 154.0, number of alignments: 2, unaligned bases: 1022
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 156 out of 1178 non-N bases (13.24%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1178 (number of Ns: 0) and total length of all aligns is 156
+		Alignment: 4374335 4374411 | 710 786 | 77 77 | 98.7 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_25970
+		Alignment: 4374469 4374547 | 839 917 | 79 79 | 98.73 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_25970
+		Unaligned bases: 1022
+
+CONTIG: k105_123372 (1125bp)
+		This contig is unaligned. (1125 bp)
+		Unaligned bases: 1125 (number of Ns: 0)
+
+CONTIG: k105_112744 (588bp)
+		This contig is unaligned. (588 bp)
+		Unaligned bases: 588 (number of Ns: 0)
+
+CONTIG: k105_134349 (575bp)
+Best alignment score: 136.0 (LEN: 142, IDY: 95.77), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2928808 2928949 | 265 124 | 142 142 | 95.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_134349
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 136.0, number of alignments: 1, unaligned bases: 433
+		Alignment: 2314694 2314835 | 124 265 | 142 142 | 95.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_134349
+
+CONTIG: k105_91850 (933bp)
+Best alignment score: 66.0 (LEN: 68, IDY: 97.06), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 66.0, number of alignments: 1, unaligned bases: 865
+		This contig is partially unaligned. (Aligned 68 out of 933 non-N bases (7.29%))
+		Alignment: 4022851 4022918 | 240 173 | 68 68 | 97.06 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_91850
+		Unaligned bases: 1 to 172 (172)
+		Unaligned bases: 241 to 933 (693)
+
+CONTIG: k105_37490 (921bp)
+Best alignment score: 96.0 (LEN: 101, IDY: 95.05), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 820
+		This contig is partially unaligned. (Aligned 101 out of 921 non-N bases (10.97%))
+		Alignment: 1186059 1186159 | 920 820 | 101 101 | 95.05 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_37490
+		Unaligned bases: 1 to 819 (819)
+		Unaligned bases: 921 to 921 (1)
+
+CONTIG: k105_102659 (878bp)
+Best alignment score: 116.0 (LEN: 122, IDY: 95.08), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2931250 2931371 | 202 81 | 122 122 | 95.08 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_102659
+			The best set is below. Score: 192.0, number of alignments: 2, unaligned bases: 676
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 202 out of 878 non-N bases (23.01%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 878 (number of Ns: 0) and total length of all aligns is 202
+		Alignment: 2312272 2312393 | 81 202 | 122 122 | 95.08 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_102659
+		Alignment: 2312430 2312509 | 241 320 | 80 80 | 95.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_102659
+		Unaligned bases: 676
+
+CONTIG: k105_92471 (1632bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 1553
+		This contig is partially unaligned. (Aligned 79 out of 1632 non-N bases (4.84%))
+		Alignment: 1956124 1956202 | 155 233 | 79 79 | 98.73 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_92471
+		Unaligned bases: 1 to 154 (154)
+		Unaligned bases: 234 to 1632 (1399)
+
+CONTIG: k105_70379 (3434bp)
+Best alignment score: 78.0 (LEN: 78, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 3356
+		This contig is partially unaligned. (Aligned 78 out of 3434 non-N bases (2.27%))
+		Alignment: 2658758 2658835 | 327 404 | 78 78 | 100.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_70379
+		Unaligned bases: 1 to 326 (326)
+		Unaligned bases: 405 to 3434 (3030)
+
+CONTIG: k105_103535 (3684bp)
+Best alignment score: 78.0 (LEN: 79, IDY: 98.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 78.0, number of alignments: 1, unaligned bases: 3605
+		This contig is partially unaligned. (Aligned 79 out of 3684 non-N bases (2.14%))
+		Alignment: 878936 879014 | 3271 3193 | 79 79 | 98.73 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_103535
+		Unaligned bases: 1 to 3192 (3192)
+		Unaligned bases: 3272 to 3684 (413)
+
+CONTIG: k105_17018 (936bp)
+Best alignment score: 119.0 (LEN: 125, IDY: 95.20), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 119.0, number of alignments: 1, unaligned bases: 811
+		This contig is partially unaligned. (Aligned 125 out of 936 non-N bases (13.35%))
+		Alignment: 3247700 3247824 | 290 414 | 125 125 | 95.2 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_17018
+		Unaligned bases: 1 to 289 (289)
+		Unaligned bases: 415 to 936 (522)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 90.0 (LEN: 93, IDY: 96.77), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2928160 2928252 | 475 567 | 93 93 | 96.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_82356
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 90.0, number of alignments: 1, unaligned bases: 1206
+		This contig is partially unaligned. (Aligned 93 out of 1299 non-N bases (7.16%))
+		Alignment: 2315391 2315483 | 567 475 | 93 93 | 96.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_82356
+		Unaligned bases: 1 to 474 (474)
+		Unaligned bases: 568 to 1299 (732)
+
+CONTIG: k105_71677 (1501bp)
+Best alignment score: 73.0 (LEN: 76, IDY: 96.05), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 1425
+		This contig is partially unaligned. (Aligned 76 out of 1501 non-N bases (5.06%))
+		Alignment: 3089118 3089193 | 563 638 | 76 76 | 96.05 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_71677
+		Unaligned bases: 1 to 562 (562)
+		Unaligned bases: 639 to 1501 (863)
+
+CONTIG: k105_71893 (683bp)
+		This contig is unaligned. (683 bp)
+		Unaligned bases: 683 (number of Ns: 0)
+
+CONTIG: k105_7575 (699bp)
+Best alignment score: 120.0 (LEN: 124, IDY: 96.77), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2313844 2313967 | 1 124 | 124 124 | 96.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_7575
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 120.0, number of alignments: 1, unaligned bases: 575
+		This contig is partially unaligned. (Aligned 124 out of 699 non-N bases (17.74%))
+		Alignment: 2929676 2929799 | 124 1 | 124 124 | 96.77 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_7575
+		Unaligned bases: 125 to 699 (575)
+
+CONTIG: k105_159992 (973bp)
+Best alignment score: 526.0 (LEN: 543, IDY: 96.87), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2312407 2312946 | 973 434 | 540 540 | 97.04 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_159992
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 526.0, number of alignments: 1, unaligned bases: 430
+		Alignment: 2930694 2931236 | 431 973 | 543 543 | 96.87 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_159992
+
+CONTIG: k105_159993 (913bp)
+Best alignment score: 514.2 (LEN: 534, IDY: 96.29), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2313343 2313434 | 100 9 | 92 92 | 96.74 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_159993
+		Skipping redundant alignment 2312407 2312945 | 913 380 | 539 534 | 96.29 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_159993
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 595.2, number of alignments: 2, unaligned bases: 287
+		This contig is misassembled.
+			Real Alignment 1: 2930209 2930300 | 9 100 | 92 92 | 96.74 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_159993
+			  Gap between these two alignments (local misassembly). Inconsistency = 118
+			Real Alignment 2: 2930698 2931236 | 380 913 | 539 534 | 96.29 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_159993
+
+CONTIG: k105_148689 (541bp)
+Best alignment score: 74.0 (LEN: 75, IDY: 98.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 466
+		Alignment: 494545 494619 | 357 283 | 75 75 | 98.67 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_148689
+
+CONTIG: k105_61937 (752bp)
+		This contig is unaligned. (752 bp)
+		Unaligned bases: 752 (number of Ns: 0)
+
+CONTIG: k105_137846 (3731bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 3656
+		This contig is partially unaligned. (Aligned 75 out of 3731 non-N bases (2.01%))
+		Alignment: 580512 580586 | 3569 3643 | 75 75 | 100.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_137846
+		Unaligned bases: 1 to 3568 (3568)
+		Unaligned bases: 3644 to 3731 (88)
+
+CONTIG: k105_104958 (1193bp)
+Best alignment score: 102.0 (LEN: 105, IDY: 97.14), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2313861 2313965 | 298 402 | 105 105 | 97.14 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_104958
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 102.0, number of alignments: 1, unaligned bases: 1088
+		This contig is partially unaligned. (Aligned 105 out of 1193 non-N bases (8.80%))
+		Alignment: 2929678 2929782 | 402 298 | 105 105 | 97.14 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_104958
+		Unaligned bases: 1 to 297 (297)
+		Unaligned bases: 403 to 1193 (791)
+
+CONTIG: k105_62243 (944bp)
+Best alignment score: 204.0 (LEN: 212, IDY: 96.23), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2316487 2316616 | 565 436 | 130 130 | 97.69 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62243
+		Skipping redundant alignment 2316305 2316397 | 721 629 | 93 93 | 100.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62243
+		Skipping redundant alignment 2316082 2316293 | 944 733 | 212 212 | 96.23 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62243
+			The best set is below. Score: 429.0, number of alignments: 3, unaligned bases: 501
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 944 (number of Ns: 0) and total length of all aligns is 443
+		Alignment: 2927027 2927156 | 436 565 | 130 130 | 97.69 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62243
+		Alignment: 2927238 2927338 | 621 721 | 101 101 | 97.03 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62243
+		Alignment: 2927350 2927561 | 733 944 | 212 212 | 96.23 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62243
+		Unaligned bases: 501
+
+CONTIG: k105_18917 (1311bp)
+Best alignment score: 75.0 (LEN: 75, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 1236
+		This contig is partially unaligned. (Aligned 75 out of 1311 non-N bases (5.72%))
+		Alignment: 2658758 2658832 | 428 354 | 75 75 | 100.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_18917
+		Unaligned bases: 1 to 353 (353)
+		Unaligned bases: 429 to 1311 (883)
+
+CONTIG: k105_18951 (773bp)
+Best alignment score: 86.0 (LEN: 88, IDY: 97.73), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 86.0, number of alignments: 1, unaligned bases: 685
+		Alignment: 299321 299408 | 329 416 | 88 88 | 97.73 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_18951
+
+CONTIG: k105_62316 (597bp)
+Best alignment score: 571.1 (LEN: 597, IDY: 95.66), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2931339 2931935 | 597 1 | 597 597 | 95.66 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62316
+			Skipping alignment 2311708 2312304 | 1 597 | 597 597 | 95.49 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62316
+
+CONTIG: k105_62345 (3843bp)
+Best alignment score: 654.0 (LEN: 685, IDY: 95.47), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2311619 2312304 | 3158 3843 | 686 686 | 95.19 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62345
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 654.0, number of alignments: 1, unaligned bases: 3158
+		This contig is partially unaligned. (Aligned 685 out of 3843 non-N bases (17.82%))
+		Alignment: 2931339 2932023 | 3843 3159 | 685 685 | 95.47 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_62345
+		Unaligned bases: 1 to 3158 (3158)
+
+CONTIG: k105_9124 (567bp)
+		This contig is unaligned. (567 bp)
+		Unaligned bases: 567 (number of Ns: 0)
+
+CONTIG: k105_95898 (520bp)
+Best alignment score: 82.0 (LEN: 84, IDY: 97.62), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 436
+		Alignment: 877120 877203 | 158 75 | 84 84 | 97.62 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_95898
+
+CONTIG: k105_96218 (1152bp)
+Best alignment score: 114.0 (LEN: 119, IDY: 95.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 114.0, number of alignments: 1, unaligned bases: 1033
+		This contig is partially unaligned. (Aligned 119 out of 1152 non-N bases (10.33%))
+		Alignment: 935258 935376 | 656 538 | 119 119 | 95.8 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_96218
+		Unaligned bases: 1 to 537 (537)
+		Unaligned bases: 657 to 1152 (496)
+
+CONTIG: k105_162093 (2067bp)
+Best alignment score: 74.0 (LEN: 74, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1993
+		This contig is partially unaligned. (Aligned 74 out of 2067 non-N bases (3.58%))
+		Alignment: 494547 494620 | 702 629 | 74 74 | 100.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_162093
+		Unaligned bases: 1 to 628 (628)
+		Unaligned bases: 703 to 2067 (1365)
+
+CONTIG: k105_139619 (764bp)
+Best alignment score: 155.0 (LEN: 162, IDY: 95.68), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2313784 2313945 | 162 1 | 162 162 | 95.68 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_139619
+		Skipping redundant alignment 2313343 2313433 | 603 513 | 91 91 | 97.8 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_139619
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 245.0, number of alignments: 2, unaligned bases: 511
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 764 (number of Ns: 0) and total length of all aligns is 253
+		Alignment: 2929698 2929858 | 1 161 | 161 161 | 96.27 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_139619
+		Alignment: 2930209 2930300 | 512 603 | 92 92 | 97.83 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_139619
+		Unaligned bases: 511
+
+CONTIG: k105_96716 (1355bp)
+Best alignment score: 71.0 (LEN: 72, IDY: 98.61), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 1283
+		This contig is partially unaligned. (Aligned 72 out of 1355 non-N bases (5.31%))
+		Alignment: 2423378 2423449 | 651 722 | 72 72 | 98.61 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_96716
+		Unaligned bases: 1 to 650 (650)
+		Unaligned bases: 723 to 1355 (633)
+
+CONTIG: k105_97330 (1432bp)
+Best alignment score: 87.0 (LEN: 89, IDY: 97.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 87.0, number of alignments: 1, unaligned bases: 1343
+		This contig is partially unaligned. (Aligned 89 out of 1432 non-N bases (6.22%))
+		Alignment: 278858 278946 | 725 813 | 89 89 | 97.75 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_97330
+		Unaligned bases: 1 to 724 (724)
+		Unaligned bases: 814 to 1432 (619)
+
+CONTIG: k105_75089 (681bp)
+Best alignment score: 74.0 (LEN: 76, IDY: 97.37), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 148.0, number of alignments: 2, unaligned bases: 531
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 681 (number of Ns: 0) and total length of all aligns is 150
+		Alignment: 4374472 4374547 | 298 223 | 76 76 | 97.37 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_75089
+		Alignment: 4374339 4374412 | 388 315 | 74 74 | 100.0 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_75089
+		Unaligned bases: 531
+
+CONTIG: k105_75325 (623bp)
+Best alignment score: 176.0 (LEN: 184, IDY: 95.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 176.0, number of alignments: 1, unaligned bases: 439
+		Alignment: 2055761 2055944 | 416 233 | 184 184 | 95.65 | Ilumatobacter_coccineus_YM16_304_NC_020520.1 k105_75325
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Ilumatobacter_coccineus_YM16_304/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Ilumatobacter_coccineus_YM16_304/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 3
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 8 + 28 part
+Half Unaligned Contigs with Misassemblies: 7
+Unaligned Contig Bases: 60580
+
+Ambiguously Mapped Contigs: 13
+Total Bases in Ambiguously Mapped Contigs: 14859
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 6686
+
+	SNPs: 319
+	Insertions: 2
+	Deletions: 13
+

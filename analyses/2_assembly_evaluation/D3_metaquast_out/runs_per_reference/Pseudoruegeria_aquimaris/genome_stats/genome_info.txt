@@ -1,0 +1,73 @@
+reference chromosomes:
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000001.1 (total length: 293886 bp, total length without N's: 293886 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000002.1 (total length: 291784 bp, total length without N's: 291784 bp, maximal covered length: 90 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000003.1 (total length: 216974 bp, total length without N's: 216974 bp, maximal covered length: 93 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000004.1 (total length: 174925 bp, total length without N's: 174925 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000005.1 (total length: 151962 bp, total length without N's: 151962 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000006.1 (total length: 151580 bp, total length without N's: 151580 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000007.1 (total length: 147600 bp, total length without N's: 147600 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000008.1 (total length: 147366 bp, total length without N's: 147366 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000009.1 (total length: 126981 bp, total length without N's: 126981 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000010.1 (total length: 124682 bp, total length without N's: 124682 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000011.1 (total length: 114539 bp, total length without N's: 114539 bp, maximal covered length: 104 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000012.1 (total length: 110938 bp, total length without N's: 110938 bp, maximal covered length: 98 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000013.1 (total length: 110543 bp, total length without N's: 110543 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000014.1 (total length: 98253 bp, total length without N's: 98253 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000015.1 (total length: 97810 bp, total length without N's: 97810 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000016.1 (total length: 97153 bp, total length without N's: 97153 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000017.1 (total length: 94406 bp, total length without N's: 94406 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000018.1 (total length: 83860 bp, total length without N's: 83860 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000019.1 (total length: 79060 bp, total length without N's: 79060 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000020.1 (total length: 64730 bp, total length without N's: 64730 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000021.1 (total length: 63881 bp, total length without N's: 63881 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000022.1 (total length: 62267 bp, total length without N's: 62267 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000023.1 (total length: 57563 bp, total length without N's: 57563 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000024.1 (total length: 54307 bp, total length without N's: 54307 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000025.1 (total length: 53782 bp, total length without N's: 53782 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000026.1 (total length: 46042 bp, total length without N's: 46042 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000027.1 (total length: 44273 bp, total length without N's: 44273 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000028.1 (total length: 38711 bp, total length without N's: 38711 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000029.1 (total length: 36740 bp, total length without N's: 36740 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000030.1 (total length: 36658 bp, total length without N's: 36658 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000031.1 (total length: 33516 bp, total length without N's: 33516 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000032.1 (total length: 30875 bp, total length without N's: 30875 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000033.1 (total length: 30375 bp, total length without N's: 30375 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000034.1 (total length: 28877 bp, total length without N's: 28877 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000035.1 (total length: 26066 bp, total length without N's: 26066 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000036.1 (total length: 24606 bp, total length without N's: 24606 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000037.1 (total length: 24491 bp, total length without N's: 24491 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000038.1 (total length: 23620 bp, total length without N's: 23620 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000039.1 (total length: 23081 bp, total length without N's: 23081 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000040.1 (total length: 19666 bp, total length without N's: 19666 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000041.1 (total length: 15998 bp, total length without N's: 15998 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000042.1 (total length: 14682 bp, total length without N's: 14682 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000043.1 (total length: 14611 bp, total length without N's: 14611 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000044.1 (total length: 14455 bp, total length without N's: 14455 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000045.1 (total length: 13215 bp, total length without N's: 13215 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000046.1 (total length: 11444 bp, total length without N's: 11444 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000047.1 (total length: 10942 bp, total length without N's: 10942 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000048.1 (total length: 10869 bp, total length without N's: 10869 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000049.1 (total length: 9921 bp, total length without N's: 9921 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000050.1 (total length: 9128 bp, total length without N's: 9128 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000051.1 (total length: 6317 bp, total length without N's: 6317 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000052.1 (total length: 5557 bp, total length without N's: 5557 bp, maximal covered length: 2035 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000053.1 (total length: 5513 bp, total length without N's: 5513 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000054.1 (total length: 2939 bp, total length without N's: 2939 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000055.1 (total length: 2712 bp, total length without N's: 2712 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000056.1 (total length: 1253 bp, total length without N's: 1253 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000057.1 (total length: 794 bp, total length without N's: 794 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000058.1 (total length: 777 bp, total length without N's: 777 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000059.1 (total length: 743 bp, total length without N's: 743 bp, maximal covered length: 0 bp)
+	Pseudoruegeria_aquimaris_NZ_FWFQ01000060.1 (total length: 715 bp, total length without N's: 715 bp, maximal covered length: 0 bp)
+
+total genome size: 3691014
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Pseudor | 0.066     | 1.849       | 72        | -         | -         | -         | -         |

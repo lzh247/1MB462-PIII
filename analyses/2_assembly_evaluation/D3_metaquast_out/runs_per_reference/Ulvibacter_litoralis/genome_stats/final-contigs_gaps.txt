@@ -1,0 +1,126 @@
+Ulvibacter_litoralis_NZ_FNBA01000001.1
+1 1322203
+Ulvibacter_litoralis_NZ_FNBA01000002.1
+1 907925
+Ulvibacter_litoralis_NZ_FNBA01000003.1
+1 542226
+Ulvibacter_litoralis_NZ_FNBA01000004.1
+1 284704
+Ulvibacter_litoralis_NZ_FNBA01000005.1
+1 204868
+Ulvibacter_litoralis_NZ_FNBA01000006.1
+1 124180
+124263 124467
+124546 126082
+126164 148539
+Ulvibacter_litoralis_NZ_FNBA01000007.1
+1 84250
+Ulvibacter_litoralis_NZ_FNBA01000008.1
+1 60933
+Ulvibacter_litoralis_NZ_FNBA01000009.1
+1 44880
+Ulvibacter_litoralis_NZ_FNBA01000010.1
+1 26042
+26130 28787
+Ulvibacter_litoralis_NZ_FNBA01000011.1
+1 23437
+Ulvibacter_litoralis_NZ_FNBA01000012.1
+1 14602
+Ulvibacter_litoralis_NZ_FNBA01000013.1
+1 12266
+Ulvibacter_litoralis_NZ_FNBA01000014.1
+1 10140
+Ulvibacter_litoralis_NZ_FNBA01000015.1
+1 8550
+Ulvibacter_litoralis_NZ_FNBA01000016.1
+1 6910
+Ulvibacter_litoralis_NZ_FNBA01000017.1
+1 6650
+Ulvibacter_litoralis_NZ_FNBA01000018.1
+1 837
+1274 1665
+1900 2405
+3148 3465
+3568 4037
+4129 4274
+4504 4833
+4936 4991
+5066 5223
+5333 5725
+5808 6424
+Ulvibacter_litoralis_NZ_FNBA01000019.1
+1 6040
+Ulvibacter_litoralis_NZ_FNBA01000020.1
+1 5195
+Ulvibacter_litoralis_NZ_FNBA01000021.1
+1 5145
+Ulvibacter_litoralis_NZ_FNBA01000022.1
+1 5083
+Ulvibacter_litoralis_NZ_FNBA01000023.1
+1 4762
+Ulvibacter_litoralis_NZ_FNBA01000024.1
+1 4501
+Ulvibacter_litoralis_NZ_FNBA01000025.1
+1 3866
+Ulvibacter_litoralis_NZ_FNBA01000026.1
+1 3823
+Ulvibacter_litoralis_NZ_FNBA01000027.1
+1 3660
+Ulvibacter_litoralis_NZ_FNBA01000028.1
+1 3487
+Ulvibacter_litoralis_NZ_FNBA01000029.1
+1 3480
+Ulvibacter_litoralis_NZ_FNBA01000030.1
+1 3171
+Ulvibacter_litoralis_NZ_FNBA01000031.1
+1 3121
+Ulvibacter_litoralis_NZ_FNBA01000032.1
+1 3054
+Ulvibacter_litoralis_NZ_FNBA01000033.1
+1 3041
+Ulvibacter_litoralis_NZ_FNBA01000034.1
+1 3040
+Ulvibacter_litoralis_NZ_FNBA01000035.1
+1 2969
+Ulvibacter_litoralis_NZ_FNBA01000036.1
+1 2895
+Ulvibacter_litoralis_NZ_FNBA01000037.1
+1 2885
+Ulvibacter_litoralis_NZ_FNBA01000038.1
+1 2674
+Ulvibacter_litoralis_NZ_FNBA01000039.1
+1 2619
+Ulvibacter_litoralis_NZ_FNBA01000040.1
+1 2408
+Ulvibacter_litoralis_NZ_FNBA01000041.1
+1 2034
+Ulvibacter_litoralis_NZ_FNBA01000042.1
+1 1882
+Ulvibacter_litoralis_NZ_FNBA01000043.1
+1 1834
+Ulvibacter_litoralis_NZ_FNBA01000044.1
+1 1807
+Ulvibacter_litoralis_NZ_FNBA01000045.1
+1 1701
+Ulvibacter_litoralis_NZ_FNBA01000046.1
+1 1535
+Ulvibacter_litoralis_NZ_FNBA01000047.1
+1 1489
+Ulvibacter_litoralis_NZ_FNBA01000048.1
+1 1398
+Ulvibacter_litoralis_NZ_FNBA01000049.1
+1 1316
+Ulvibacter_litoralis_NZ_FNBA01000050.1
+1 1213
+Ulvibacter_litoralis_NZ_FNBA01000051.1
+1 1208
+Ulvibacter_litoralis_NZ_FNBA01000052.1
+1 1175
+Ulvibacter_litoralis_NZ_FNBA01000053.1
+1 1067
+Ulvibacter_litoralis_NZ_FNBA01000054.1
+1 1033
+Ulvibacter_litoralis_NZ_FNBA01000055.1
+1 1012
+Ulvibacter_litoralis_NZ_FNBA01000056.1
+1 1009

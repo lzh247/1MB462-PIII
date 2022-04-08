@@ -1,0 +1,30 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+461177	461255	2906	2828	Sinobacterium_caligoides_NZ_RKHR01000005.1	k105_76403	100.0		True
+CONTIG	k105_76403	3120	correct_unaligned
+461177	461257	5847	5767	Sinobacterium_caligoides_NZ_RKHR01000005.1	k105_162875	100.0		True
+CONTIG	k105_162875	8011	correct_unaligned
+3666	3797	539	408	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_44280	95.45		True
+CONTIG	k105_44280	539	correct
+979	1056	1	78	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_99987	96.15		True
+unknown
+1790	1913	812	935	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_99987	95.16		True
+unknown
+CONTIG	k105_99987	1497	mis_unaligned
+CONTIG	k105_100628	593	unaligned
+1062	1181	559	440	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_4506	96.67		True
+unknown
+950	1053	669	566	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_4506	100.0		True
+unknown
+CONTIG	k105_4506	669	mis_unaligned
+1062	1181	559	440	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_4507	97.5		True
+CONTIG	k105_4507	577	correct
+CONTIG	k105_91574	1208	unaligned
+939	1181	724	484	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_28480	95.88		True
+CONTIG	k105_28480	728	correct
+CONTIG	k105_31458	901	unaligned
+1218	1333	270	385	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_162411	95.69		True
+CONTIG	k105_162411	691	correct
+148	392	498	742	Sinobacterium_caligoides_NZ_RKHR01000002.1	k105_150900	95.51		True
+CONTIG	k105_150900	742	correct
+35367	35456	311	222	Sinobacterium_caligoides_NZ_RKHR01000007.1	k105_58596	96.67		True
+CONTIG	k105_58596	873	correct_unaligned

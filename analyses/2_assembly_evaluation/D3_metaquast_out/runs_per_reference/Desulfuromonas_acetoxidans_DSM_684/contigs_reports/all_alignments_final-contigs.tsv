@@ -1,0 +1,11 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+13323	13401	34426	34504	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000016.1	k105_156104	97.47		True
+CONTIG	k105_156104	39648	correct_unaligned
+CONTIG	k105_71074	1051	unaligned
+CONTIG	k105_82356	1299	unaligned
+193337	193449	1642	1530	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1	k105_83395	98.23		True
+CONTIG	k105_83395	1649	correct_unaligned
+190493	190559	1	67	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1	k105_18624	98.51		True
+CONTIG	k105_18624	627	correct_unaligned
+189406	189489	314	397	Desulfuromonas_acetoxidans_DSM_684_NZ_AAEW02000008.1	k105_139947	96.43		True
+CONTIG	k105_139947	701	correct

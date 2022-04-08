@@ -1,0 +1,24 @@
+reference chromosomes:
+	Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000006.1 (total length: 207158 bp, total length without N's: 207158 bp, maximal covered length: 752 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000007.1 (total length: 179991 bp, total length without N's: 179991 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000011.1 (total length: 98301 bp, total length without N's: 98301 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000017.1 (total length: 23727 bp, total length without N's: 23727 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_AALZ01000021.1 (total length: 11882 bp, total length without N's: 11882 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_CH959312.1 (total length: 3045708 bp, total length without N's: 3042447 bp, maximal covered length: 2328 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_CH959313.1 (total length: 116593 bp, total length without N's: 115130 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_CH959314.1 (total length: 104079 bp, total length without N's: 102993 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_CH959315.1 (total length: 102751 bp, total length without N's: 101129 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_CH959316.1 (total length: 100112 bp, total length without N's: 99925 bp, maximal covered length: 0 bp)
+	Sulfitobacter_sp._NAS_14.1_NZ_CH959317.1 (total length: 20214 bp, total length without N's: 19386 bp, maximal covered length: 0 bp)
+
+total genome size: 4010516
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Sulfito | 0.077     | 2.262       | 45        | -         | -         | -         | -         |

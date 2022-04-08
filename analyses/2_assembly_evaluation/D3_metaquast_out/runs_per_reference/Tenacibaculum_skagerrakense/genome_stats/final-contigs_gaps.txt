@@ -1,0 +1,76 @@
+Tenacibaculum_skagerrakense_NZ_SLXM01000001.1
+1 363331
+363410 609756
+609832 902261
+Tenacibaculum_skagerrakense_NZ_SLXM01000002.1
+1 377915
+Tenacibaculum_skagerrakense_NZ_SLXM01000003.1
+1 227089
+227187 346365
+Tenacibaculum_skagerrakense_NZ_SLXM01000004.1
+1 136991
+137085 316461
+Tenacibaculum_skagerrakense_NZ_SLXM01000005.1
+1 1191
+1290 312878
+Tenacibaculum_skagerrakense_NZ_SLXM01000006.1
+1 34901
+34978 36365
+36442 119901
+119978 292242
+Tenacibaculum_skagerrakense_NZ_SLXM01000007.1
+1 241076
+241156 276840
+Tenacibaculum_skagerrakense_NZ_SLXM01000008.1
+1 215077
+Tenacibaculum_skagerrakense_NZ_SLXM01000009.1
+1 144231
+Tenacibaculum_skagerrakense_NZ_SLXM01000010.1
+1 141976
+Tenacibaculum_skagerrakense_NZ_SLXM01000011.1
+1 94067
+Tenacibaculum_skagerrakense_NZ_SLXM01000012.1
+1 56406
+Tenacibaculum_skagerrakense_NZ_SLXM01000013.1
+1 54690
+Tenacibaculum_skagerrakense_NZ_SLXM01000014.1
+1 33994
+Tenacibaculum_skagerrakense_NZ_SLXM01000015.1
+1 28261
+Tenacibaculum_skagerrakense_NZ_SLXM01000016.1
+1 20500
+Tenacibaculum_skagerrakense_NZ_SLXM01000017.1
+1 19312
+Tenacibaculum_skagerrakense_NZ_SLXM01000018.1
+1 16673
+Tenacibaculum_skagerrakense_NZ_SLXM01000019.1
+1 16071
+Tenacibaculum_skagerrakense_NZ_SLXM01000020.1
+1 16041
+Tenacibaculum_skagerrakense_NZ_SLXM01000021.1
+1 5024
+Tenacibaculum_skagerrakense_NZ_SLXM01000022.1
+1 4686
+Tenacibaculum_skagerrakense_NZ_SLXM01000023.1
+113 847
+1059 1950
+2089 2195
+2479 2591
+2710 3318
+4102 4323
+Tenacibaculum_skagerrakense_NZ_SLXM01000024.1
+1 3490
+Tenacibaculum_skagerrakense_NZ_SLXM01000025.1
+1 3473
+Tenacibaculum_skagerrakense_NZ_SLXM01000026.1
+1 2121
+Tenacibaculum_skagerrakense_NZ_SLXM01000027.1
+1 2064
+Tenacibaculum_skagerrakense_NZ_SLXM01000028.1
+1 1952
+Tenacibaculum_skagerrakense_NZ_SLXM01000029.1
+1 1252
+Tenacibaculum_skagerrakense_NZ_SLXM01000030.1
+1 1229
+Tenacibaculum_skagerrakense_NZ_SLXM01000031.1
+1 1025

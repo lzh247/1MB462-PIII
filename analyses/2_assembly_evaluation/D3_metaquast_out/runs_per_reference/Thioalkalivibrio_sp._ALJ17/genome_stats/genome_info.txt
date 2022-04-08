@@ -1,0 +1,14 @@
+reference chromosomes:
+	Thioalkalivibrio_sp._ALJ17_NC_011901.1 (total length: 3464554 bp, total length without N's: 3464554 bp, maximal covered length: 2012 bp)
+
+total genome size: 3464554
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Thioalk | 0.058     | 3.275       | 16        | -         | -         | -         | -         |

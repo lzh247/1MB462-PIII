@@ -1,0 +1,37 @@
+reference chromosomes:
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000018.1 (total length: 249474 bp, total length without N's: 249474 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000021.1 (total length: 193505 bp, total length without N's: 193505 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000024.1 (total length: 153108 bp, total length without N's: 153108 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000025.1 (total length: 118795 bp, total length without N's: 118795 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000026.1 (total length: 121066 bp, total length without N's: 121066 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000027.1 (total length: 75042 bp, total length without N's: 75042 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000030.1 (total length: 50622 bp, total length without N's: 50622 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000031.1 (total length: 49446 bp, total length without N's: 49446 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000032.1 (total length: 40979 bp, total length without N's: 40979 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1 (total length: 27733 bp, total length without N's: 27733 bp, maximal covered length: 84 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000034.1 (total length: 15200 bp, total length without N's: 15200 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000035.1 (total length: 13511 bp, total length without N's: 13511 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000036.1 (total length: 2127 bp, total length without N's: 2127 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000037.1 (total length: 1628 bp, total length without N's: 1628 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000038.1 (total length: 1587 bp, total length without N's: 1587 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000039.1 (total length: 1529 bp, total length without N's: 1529 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211100.1 (total length: 1244626 bp, total length without N's: 1238771 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211101.1 (total length: 490965 bp, total length without N's: 488000 bp, maximal covered length: 65 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211102.1 (total length: 421427 bp, total length without N's: 418817 bp, maximal covered length: 128 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1 (total length: 299192 bp, total length without N's: 297587 bp, maximal covered length: 97 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211104.1 (total length: 286588 bp, total length without N's: 284848 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1 (total length: 247701 bp, total length without N's: 246526 bp, maximal covered length: 217 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211106.1 (total length: 184380 bp, total length without N's: 183115 bp, maximal covered length: 0 bp)
+	Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211107.1 (total length: 71120 bp, total length without N's: 68375 bp, maximal covered length: 0 bp)
+
+total genome size: 4361351
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Desulfi | 0.014     | 1.701       | 45        | -         | -         | -         | -         |

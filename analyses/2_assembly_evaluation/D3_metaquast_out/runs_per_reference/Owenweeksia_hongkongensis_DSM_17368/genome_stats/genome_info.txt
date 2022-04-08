@@ -1,0 +1,14 @@
+reference chromosomes:
+	Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 (total length: 4000057 bp, total length without N's: 4000057 bp, maximal covered length: 1890 bp)
+
+total genome size: 4000057
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Owenwee | 0.047     | 2.277       | 16        | -         | -         | -         | -         |

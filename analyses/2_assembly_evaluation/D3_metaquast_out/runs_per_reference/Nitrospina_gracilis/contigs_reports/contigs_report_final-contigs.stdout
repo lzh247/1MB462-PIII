@@ -1,0 +1,244 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Nitrospina_gracilis_NZ_JAKJKD010000001.1]
+	Total Regions: 1
+	Total Region Length: 3069626
+Analyzing contigs...
+CONTIG: k105_616 (4849bp)
+Best alignment score: 71.0 (LEN: 73, IDY: 97.26), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 4776
+		This contig is partially unaligned. (Aligned 73 out of 4849 non-N bases (1.51%))
+		Alignment: 2667970 2668042 | 3168 3096 | 73 73 | 97.26 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_616
+		Unaligned bases: 1 to 3095 (3095)
+		Unaligned bases: 3169 to 4849 (1681)
+
+CONTIG: k105_65740 (590bp)
+Best alignment score: 153.0 (LEN: 161, IDY: 95.03), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 226.0, number of alignments: 2, unaligned bases: 353
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 590 (number of Ns: 0) and total length of all aligns is 237
+		Alignment: 2014343 2014418 | 106 181 | 76 76 | 96.05 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_65740
+		Alignment: 2014666 2014826 | 430 590 | 161 161 | 95.03 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_65740
+		Unaligned bases: 353
+
+CONTIG: k105_1432 (871bp)
+Best alignment score: 148.0 (LEN: 154, IDY: 96.10), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 148.0, number of alignments: 1, unaligned bases: 717
+		This contig is partially unaligned. (Aligned 154 out of 871 non-N bases (17.68%))
+		Alignment: 2013622 2013775 | 871 718 | 154 154 | 96.1 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_1432
+		Unaligned bases: 1 to 717 (717)
+
+CONTIG: k105_142399 (935bp)
+Best alignment score: 80.0 (LEN: 83, IDY: 96.39), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 852
+		This contig is partially unaligned. (Aligned 83 out of 935 non-N bases (8.88%))
+		Alignment: 2267254 2267336 | 224 306 | 83 83 | 96.39 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_142399
+		Unaligned bases: 1 to 223 (223)
+		Unaligned bases: 307 to 935 (629)
+
+CONTIG: k105_12260 (13479bp)
+Best alignment score: 84.0 (LEN: 86, IDY: 97.67), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 84.0, number of alignments: 1, unaligned bases: 13393
+		This contig is partially unaligned. (Aligned 86 out of 13479 non-N bases (0.64%))
+		Alignment: 44764 44849 | 11011 10926 | 86 86 | 97.67 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_12260
+		Unaligned bases: 1 to 10925 (10925)
+		Unaligned bases: 11012 to 13479 (2468)
+
+CONTIG: k105_1772 (666bp)
+Best alignment score: 74.0 (LEN: 77, IDY: 96.10), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 589
+		Alignment: 2013325 2013401 | 282 358 | 77 77 | 96.1 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_1772
+
+CONTIG: k105_45123 (562bp)
+Best alignment score: 98.0 (LEN: 99, IDY: 98.99), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 98.0, number of alignments: 1, unaligned bases: 463
+		Alignment: 2016725 2016823 | 7 105 | 99 99 | 98.99 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_45123
+
+CONTIG: k105_77693 (1678bp)
+Best alignment score: 117.0 (LEN: 122, IDY: 95.90), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 117.0, number of alignments: 1, unaligned bases: 1556
+		This contig is partially unaligned. (Aligned 122 out of 1678 non-N bases (7.27%))
+		Alignment: 2014597 2014718 | 1656 1535 | 122 122 | 95.9 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_77693
+		Unaligned bases: 1 to 1534 (1534)
+		Unaligned bases: 1657 to 1678 (22)
+
+CONTIG: k105_57463 (3847bp)
+Best alignment score: 90.0 (LEN: 94, IDY: 95.74), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 90.0, number of alignments: 1, unaligned bases: 3753
+		This contig is partially unaligned. (Aligned 94 out of 3847 non-N bases (2.44%))
+		Alignment: 2197566 2197659 | 1147 1240 | 94 94 | 95.74 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_57463
+		Unaligned bases: 1 to 1146 (1146)
+		Unaligned bases: 1241 to 3847 (2607)
+
+CONTIG: k105_156104 (39648bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 39571
+		This contig is partially unaligned. (Aligned 77 out of 39648 non-N bases (0.19%))
+		Alignment: 2829025 2829101 | 34426 34502 | 77 77 | 100.0 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_156104
+		Unaligned bases: 1 to 34425 (34425)
+		Unaligned bases: 34503 to 39648 (5146)
+
+CONTIG: k105_101516 (2741bp)
+Best alignment score: 487.0 (LEN: 506, IDY: 96.25), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 775.0, number of alignments: 3, unaligned bases: 1936
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 805 out of 2741 non-N bases (29.37%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 2741 (number of Ns: 0) and total length of all aligns is 805
+		Alignment: 2014347 2014852 | 185 690 | 506 506 | 96.25 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_101516
+		Alignment: 2015115 2015190 | 1006 1081 | 76 76 | 98.68 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_101516
+		Alignment: 2016601 2016823 | 2519 2741 | 223 223 | 95.52 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_101516
+		Unaligned bases: 1936
+
+CONTIG: k105_69253 (2304bp)
+Best alignment score: 76.0 (LEN: 76, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 76.0, number of alignments: 1, unaligned bases: 2228
+		This contig is partially unaligned. (Aligned 76 out of 2304 non-N bases (3.30%))
+		Alignment: 2136854 2136929 | 1613 1538 | 76 76 | 100.0 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_69253
+		Unaligned bases: 1 to 1537 (1537)
+		Unaligned bases: 1614 to 2304 (691)
+
+CONTIG: k105_113015 (706bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 630
+		Alignment: 2667970 2668045 | 407 482 | 76 76 | 98.68 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_113015
+
+CONTIG: k105_37965 (1643bp)
+Best alignment score: 217.0 (LEN: 223, IDY: 97.31), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 217.0, number of alignments: 1, unaligned bases: 1420
+		This contig is partially unaligned. (Aligned 223 out of 1643 non-N bases (13.57%))
+		Alignment: 2016601 2016823 | 964 1186 | 223 223 | 97.31 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_37965
+		Unaligned bases: 1 to 963 (963)
+		Unaligned bases: 1187 to 1643 (457)
+
+CONTIG: k105_158827 (1056bp)
+		This contig is unaligned. (1056 bp)
+		Unaligned bases: 1056 (number of Ns: 0)
+
+CONTIG: k105_82658 (2190bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 2111
+		This contig is partially unaligned. (Aligned 79 out of 2190 non-N bases (3.61%))
+		Alignment: 2440078 2440156 | 1967 2045 | 79 79 | 100.0 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_82658
+		Unaligned bases: 1 to 1966 (1966)
+		Unaligned bases: 2046 to 2190 (145)
+
+CONTIG: k105_39553 (594bp)
+Best alignment score: 147.0 (LEN: 154, IDY: 95.45), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 147.0, number of alignments: 1, unaligned bases: 440
+		Alignment: 2013622 2013775 | 594 441 | 154 154 | 95.45 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_39553
+
+CONTIG: k105_7823 (679bp)
+		This contig is unaligned. (679 bp)
+		Unaligned bases: 679 (number of Ns: 0)
+
+CONTIG: k105_83459 (774bp)
+Best alignment score: 295.0 (LEN: 310, IDY: 95.16), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 295.0, number of alignments: 1, unaligned bases: 464
+		Alignment: 2017911 2018220 | 1 310 | 310 310 | 95.16 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_83459
+
+CONTIG: k105_62324 (671bp)
+Best alignment score: 241.0 (LEN: 251, IDY: 96.02), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 241.0, number of alignments: 1, unaligned bases: 420
+		Alignment: 2017257 2017507 | 251 1 | 251 251 | 96.02 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_62324
+
+CONTIG: k105_105762 (628bp)
+Best alignment score: 71.0 (LEN: 74, IDY: 95.95), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 71.0, number of alignments: 1, unaligned bases: 554
+		This contig is partially unaligned. (Aligned 74 out of 628 non-N bases (11.78%))
+		Alignment: 2014343 2014416 | 48 121 | 74 74 | 95.95 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_105762
+		Unaligned bases: 1 to 47 (47)
+		Unaligned bases: 122 to 628 (507)
+
+CONTIG: k105_62719 (650bp)
+Best alignment score: 79.0 (LEN: 79, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 571
+		Alignment: 2440076 2440154 | 210 132 | 79 79 | 100.0 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_62719
+
+CONTIG: k105_128268 (568bp)
+Best alignment score: 210.0 (LEN: 221, IDY: 95.02), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 210.0, number of alignments: 1, unaligned bases: 347
+		Alignment: 2017835 2018055 | 453 233 | 221 221 | 95.02 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_128268
+
+CONTIG: k105_63985 (1623bp)
+Best alignment score: 73.0 (LEN: 74, IDY: 98.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 73.0, number of alignments: 1, unaligned bases: 1549
+		This contig is partially unaligned. (Aligned 74 out of 1623 non-N bases (4.56%))
+		Alignment: 829394 829467 | 1344 1417 | 74 74 | 98.65 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_63985
+		Unaligned bases: 1 to 1343 (1343)
+		Unaligned bases: 1418 to 1623 (206)
+
+CONTIG: k105_86039 (1690bp)
+Best alignment score: 74.0 (LEN: 76, IDY: 97.37), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 74.0, number of alignments: 1, unaligned bases: 1614
+		This contig is partially unaligned. (Aligned 76 out of 1690 non-N bases (4.50%))
+		Alignment: 2828931 2829006 | 551 476 | 76 76 | 97.37 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_86039
+		Unaligned bases: 1 to 475 (475)
+		Unaligned bases: 552 to 1690 (1139)
+
+CONTIG: k105_152008 (700bp)
+Best alignment score: 101.0 (LEN: 104, IDY: 97.12), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 101.0, number of alignments: 1, unaligned bases: 596
+		This contig is partially unaligned. (Aligned 104 out of 700 non-N bases (14.86%))
+		Alignment: 2016725 2016828 | 7 110 | 104 104 | 97.12 | Nitrospina_gracilis_NZ_JAKJKD010000001.1 k105_152008
+		Unaligned bases: 1 to 6 (6)
+		Unaligned bases: 111 to 700 (590)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Nitrospina_gracilis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Nitrospina_gracilis/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 2 + 15 part
+Half Unaligned Contigs with Misassemblies: 2
+Unaligned Contig Bases: 78361
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2405
+
+	SNPs: 126
+	Insertions: 0
+	Deletions: 0
+

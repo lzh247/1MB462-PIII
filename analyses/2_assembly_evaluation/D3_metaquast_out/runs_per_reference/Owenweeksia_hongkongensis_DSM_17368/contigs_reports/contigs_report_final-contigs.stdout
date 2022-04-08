@@ -1,0 +1,276 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Owenweeksia_hongkongensis_DSM_17368_NC_016599.1]
+	Total Regions: 1
+	Total Region Length: 4000057
+Analyzing contigs...
+CONTIG: k105_152539 (3552bp)
+Best alignment score: 214.0 (LEN: 224, IDY: 95.54), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1350284 1350507 | 3051 3274 | 224 224 | 95.54 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_152539
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 214.0, number of alignments: 1, unaligned bases: 3328
+		This contig is partially unaligned. (Aligned 224 out of 3552 non-N bases (6.31%))
+		Alignment: 1914442 1914665 | 3051 3274 | 224 224 | 95.54 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_152539
+		Unaligned bases: 1 to 3050 (3050)
+		Unaligned bases: 3275 to 3552 (278)
+
+CONTIG: k105_65684 (898bp)
+Best alignment score: 85.0 (LEN: 87, IDY: 97.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 85.0, number of alignments: 1, unaligned bases: 811
+		This contig is partially unaligned. (Aligned 87 out of 898 non-N bases (9.69%))
+		Alignment: 1353838 1353924 | 1 87 | 87 87 | 97.7 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_65684
+		Unaligned bases: 88 to 898 (811)
+
+CONTIG: k105_44670 (4157bp)
+Best alignment score: 130.0 (LEN: 136, IDY: 95.59), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1914436 1914571 | 4022 4157 | 136 136 | 95.59 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_44670
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 130.0, number of alignments: 1, unaligned bases: 4021
+		This contig is partially unaligned. (Aligned 136 out of 4157 non-N bases (3.27%))
+		Alignment: 1350278 1350413 | 4022 4157 | 136 136 | 95.59 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_44670
+		Unaligned bases: 1 to 4021 (4021)
+
+CONTIG: k105_99368 (868bp)
+Best alignment score: 225.0 (LEN: 234, IDY: 96.15), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1350900 1351132 | 4 237 | 233 234 | 96.15 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_99368
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 225.0, number of alignments: 1, unaligned bases: 634
+		This contig is partially unaligned. (Aligned 234 out of 868 non-N bases (26.96%))
+		Alignment: 1915058 1915290 | 4 237 | 233 234 | 96.15 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_99368
+		Unaligned bases: 1 to 3 (3)
+		Unaligned bases: 238 to 868 (631)
+
+CONTIG: k105_45804 (2784bp)
+Best alignment score: 118.0 (LEN: 124, IDY: 95.16), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1915044 1915167 | 2198 2075 | 124 124 | 95.16 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_45804
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 118.0, number of alignments: 1, unaligned bases: 2660
+		This contig is partially unaligned. (Aligned 124 out of 2784 non-N bases (4.45%))
+		Alignment: 1350886 1351009 | 2198 2075 | 124 124 | 95.16 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_45804
+		Unaligned bases: 1 to 2074 (2074)
+		Unaligned bases: 2199 to 2784 (586)
+
+CONTIG: k105_166302 (560bp)
+		This contig is unaligned. (560 bp)
+		Unaligned bases: 560 (number of Ns: 0)
+
+CONTIG: k105_122431 (1015bp)
+Best alignment score: 117.0 (LEN: 122, IDY: 95.90), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1351009 1351130 | 642 763 | 122 122 | 95.9 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_122431
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 117.0, number of alignments: 1, unaligned bases: 893
+		This contig is partially unaligned. (Aligned 122 out of 1015 non-N bases (12.02%))
+		Alignment: 1915167 1915288 | 642 763 | 122 122 | 95.9 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_122431
+		Unaligned bases: 1 to 641 (641)
+		Unaligned bases: 764 to 1015 (252)
+
+CONTIG: k105_155695 (5625bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 5549
+		This contig is partially unaligned. (Aligned 76 out of 5625 non-N bases (1.35%))
+		Alignment: 3568201 3568276 | 5096 5021 | 76 76 | 98.68 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_155695
+		Unaligned bases: 1 to 5020 (5020)
+		Unaligned bases: 5097 to 5625 (529)
+
+CONTIG: k105_47962 (605bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1350900 1350982 | 83 1 | 83 83 | 98.8 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_47962
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 522
+		This contig is partially unaligned. (Aligned 83 out of 605 non-N bases (13.72%))
+		Alignment: 1915058 1915140 | 83 1 | 83 83 | 98.8 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_47962
+		Unaligned bases: 84 to 605 (522)
+
+CONTIG: k105_81167 (626bp)
+Best alignment score: 100.0 (LEN: 105, IDY: 95.24), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1915330 1915434 | 375 271 | 105 105 | 95.24 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81167
+		Skipping redundant alignment 1915078 1915165 | 626 539 | 88 88 | 98.86 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81167
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 187.0, number of alignments: 2, unaligned bases: 433
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 626 (number of Ns: 0) and total length of all aligns is 193
+		Alignment: 1351172 1351276 | 375 271 | 105 105 | 95.24 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81167
+		Alignment: 1350920 1351007 | 626 539 | 88 88 | 98.86 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81167
+		Unaligned bases: 433
+
+CONTIG: k105_81495 (1668bp)
+Best alignment score: 119.0 (LEN: 124, IDY: 95.97), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1354736 1354802 | 670 604 | 67 67 | 95.52 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81495
+		Skipping redundant alignment 1353997 1354069 | 1412 1340 | 73 73 | 97.26 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81495
+		Skipping redundant alignment 1353816 1353924 | 1592 1484 | 109 109 | 96.33 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81495
+			The best set is below. Score: 254.0, number of alignments: 3, unaligned bases: 1404
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 264 out of 1668 non-N bases (15.83%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1668 (number of Ns: 0) and total length of all aligns is 264
+		Alignment: 1918895 1918961 | 670 604 | 67 67 | 95.52 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81495
+		Alignment: 1918156 1918228 | 1412 1340 | 73 73 | 97.26 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81495
+		Alignment: 1917976 1918099 | 1592 1469 | 124 124 | 95.97 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_81495
+		Unaligned bases: 1404
+
+CONTIG: k105_169549 (1193bp)
+Best alignment score: 83.0 (LEN: 86, IDY: 96.51), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1915330 1915415 | 311 226 | 86 86 | 96.51 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_169549
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 83.0, number of alignments: 1, unaligned bases: 1107
+		This contig is partially unaligned. (Aligned 86 out of 1193 non-N bases (7.21%))
+		Alignment: 1351172 1351257 | 311 226 | 86 86 | 96.51 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_169549
+		Unaligned bases: 1 to 225 (225)
+		Unaligned bases: 312 to 1193 (882)
+
+CONTIG: k105_82356 (1299bp)
+Best alignment score: 93.0 (LEN: 96, IDY: 96.88), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1350900 1350995 | 474 569 | 96 96 | 96.88 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_82356
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 93.0, number of alignments: 1, unaligned bases: 1203
+		This contig is partially unaligned. (Aligned 96 out of 1299 non-N bases (7.39%))
+		Alignment: 1915058 1915153 | 474 569 | 96 96 | 96.88 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_82356
+		Unaligned bases: 1 to 473 (473)
+		Unaligned bases: 570 to 1299 (730)
+
+CONTIG: k105_126017 (511bp)
+Best alignment score: 179.0 (LEN: 185, IDY: 96.76), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1916170 1916354 | 118 302 | 185 185 | 96.76 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_126017
+		Skipping redundant alignment 1916474 1916560 | 422 508 | 87 87 | 95.4 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_126017
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 262.0, number of alignments: 2, unaligned bases: 239
+		This contig is misassembled.
+			Real Alignment 1: 1352012 1352196 | 118 302 | 185 185 | 96.76 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_126017
+			  Gap between these two alignments (local misassembly). Inconsistency = 0
+			Real Alignment 2: 1352316 1352402 | 422 508 | 87 87 | 95.4 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_126017
+
+CONTIG: k105_18110 (4215bp)
+Best alignment score: 105.0 (LEN: 109, IDY: 96.33), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1918143 1918228 | 1875 1790 | 86 86 | 95.35 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_18110
+		Skipping redundant alignment 1917174 1917254 | 2833 2753 | 81 81 | 98.77 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_18110
+			The best set is below. Score: 267.0, number of alignments: 3, unaligned bases: 3939
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 276 out of 4215 non-N bases (6.55%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 4215 (number of Ns: 0) and total length of all aligns is 276
+		Alignment: 1353984 1354069 | 1875 1790 | 86 86 | 95.35 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_18110
+		Alignment: 1353816 1353924 | 2048 1940 | 109 109 | 96.33 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_18110
+		Alignment: 1353016 1353096 | 2833 2753 | 81 81 | 98.77 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_18110
+		Unaligned bases: 3939
+
+CONTIG: k105_61845 (666bp)
+Best alignment score: 103.0 (LEN: 106, IDY: 97.17), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1915061 1915166 | 1 106 | 106 106 | 97.17 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_61845
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 103.0, number of alignments: 1, unaligned bases: 560
+		This contig is partially unaligned. (Aligned 106 out of 666 non-N bases (15.92%))
+		Alignment: 1350903 1351008 | 1 106 | 106 106 | 97.17 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_61845
+		Unaligned bases: 107 to 666 (560)
+
+CONTIG: k105_160429 (604bp)
+Best alignment score: 94.0 (LEN: 95, IDY: 98.95), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1350901 1350995 | 218 124 | 95 95 | 98.95 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_160429
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 94.0, number of alignments: 1, unaligned bases: 509
+		Alignment: 1915059 1915153 | 218 124 | 95 95 | 98.95 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_160429
+
+CONTIG: k105_52644 (542bp)
+Best alignment score: 163.0 (LEN: 171, IDY: 95.32), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1918515 1918685 | 241 71 | 171 171 | 95.32 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_52644
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 163.0, number of alignments: 1, unaligned bases: 371
+		Alignment: 1354356 1354526 | 241 71 | 171 171 | 95.32 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_52644
+
+CONTIG: k105_42099 (674bp)
+		This contig is unaligned. (674 bp)
+		Unaligned bases: 674 (number of Ns: 0)
+
+CONTIG: k105_53485 (1728bp)
+		This contig is unaligned. (1728 bp)
+		Unaligned bases: 1728 (number of Ns: 0)
+
+CONTIG: k105_108567 (1247bp)
+Best alignment score: 106.0 (LEN: 107, IDY: 99.07), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1350891 1350997 | 1 107 | 107 107 | 99.07 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_108567
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 106.0, number of alignments: 1, unaligned bases: 1140
+		This contig is partially unaligned. (Aligned 107 out of 1247 non-N bases (8.58%))
+		Alignment: 1915049 1915155 | 1 107 | 107 107 | 99.07 | Owenweeksia_hongkongensis_DSM_17368_NC_016599.1 k105_108567
+		Unaligned bases: 108 to 1247 (1140)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Owenweeksia_hongkongensis_DSM_17368/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Owenweeksia_hongkongensis_DSM_17368/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 3 + 14 part
+Half Unaligned Contigs with Misassemblies: 3
+Unaligned Contig Bases: 30733
+
+Ambiguously Mapped Contigs: 14
+Total Bases in Ambiguously Mapped Contigs: 19669
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1890
+
+	SNPs: 93
+	Insertions: 1
+	Deletions: 0
+

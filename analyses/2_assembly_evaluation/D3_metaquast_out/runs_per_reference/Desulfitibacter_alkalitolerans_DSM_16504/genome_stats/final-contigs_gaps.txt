@@ -1,0 +1,69 @@
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000018.1
+1 249474
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000021.1
+1 193505
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000024.1
+1 153108
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000025.1
+1 118795
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000026.1
+1 121066
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000027.1
+1 75042
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000030.1
+1 50622
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000031.1
+1 49446
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000032.1
+1 40979
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000033.1
+1 674
+759 27733
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000034.1
+1 15200
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000035.1
+1 13511
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000036.1
+1 2127
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000037.1
+1 1628
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000038.1
+1 1587
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_JHVU01000039.1
+1 1529
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211100.1
+1 50956
+52467 483597
+485148 487199
+489455 493056
+493182 556319
+556735 1244626
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211101.1
+1 319819
+320890 392086
+393982 489133
+489199 490965
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211102.1
+1 81893
+84504 419850
+419979 421427
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211103.1
+1 186663
+187664 238958
+239564 298433
+298531 299192
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211104.1
+1 170948
+171109 205952
+207533 286588
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211105.1
+1 1737
+1855 2374
+2475 189636
+190812 247701
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211106.1
+1 21503
+22769 184380
+Desulfitibacter_alkalitolerans_DSM_16504_NZ_KK211107.1
+1 12095
+14841 71120

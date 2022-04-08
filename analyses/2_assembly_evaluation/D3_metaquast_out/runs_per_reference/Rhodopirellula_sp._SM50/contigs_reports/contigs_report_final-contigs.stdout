@@ -1,0 +1,231 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000001.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000002.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000003.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000004.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000005.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000006.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000007.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000008.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000009.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000010.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000011.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000012.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000013.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000014.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000015.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000016.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000017.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000018.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000019.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000020.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000021.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000022.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000023.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000024.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000025.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000026.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000027.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000028.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000029.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000030.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000031.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000032.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000033.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000034.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000035.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000036.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000037.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000038.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000039.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000040.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000041.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000042.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000043.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000044.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000045.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000046.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000047.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000048.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000049.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000050.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000051.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000052.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000053.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000054.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000055.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000056.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000057.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000058.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000059.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000060.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000061.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000062.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000063.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000064.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000065.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000066.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000067.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000068.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000069.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000070.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000071.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000072.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000073.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000074.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000075.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000076.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000077.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000078.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000079.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000080.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000081.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000082.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000083.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000084.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000085.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000086.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000087.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000088.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000089.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000090.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000091.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000092.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000093.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000094.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000095.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000096.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000097.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000098.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000099.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000100.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000101.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000102.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000103.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000104.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000105.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000106.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000107.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000108.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000109.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000110.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000111.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000112.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000113.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000114.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000115.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000116.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000117.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000118.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000119.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000120.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000121.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000122.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000123.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000124.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000125.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000126.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000127.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000128.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000129.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000130.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000131.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000132.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000133.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000134.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000135.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000136.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000137.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000138.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000139.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000140.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000141.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000142.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000143.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000144.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000145.1]
+	Loaded [Rhodopirellula_sp._SM50_NZ_NTFY01000146.1]
+	Total Regions: 146
+	Total Region Length: 9795212
+Analyzing contigs...
+CONTIG: k105_98234 (2327bp)
+Best alignment score: 80.0 (LEN: 84, IDY: 95.24), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 2243
+		This contig is partially unaligned. (Aligned 84 out of 2327 non-N bases (3.61%))
+		Alignment: 120972 121055 | 86 3 | 84 84 | 95.24 | Rhodopirellula_sp._SM50_NZ_NTFY01000062.1 k105_98234
+		Unaligned bases: 1 to 2 (2)
+		Unaligned bases: 87 to 2327 (2241)
+
+CONTIG: k105_26575 (2032bp)
+Best alignment score: 70.0 (LEN: 72, IDY: 97.22), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 70.0, number of alignments: 1, unaligned bases: 1960
+		This contig is partially unaligned. (Aligned 72 out of 2032 non-N bases (3.54%))
+		Alignment: 122307 122378 | 1741 1670 | 72 72 | 97.22 | Rhodopirellula_sp._SM50_NZ_NTFY01000062.1 k105_26575
+		Unaligned bases: 1 to 1669 (1669)
+		Unaligned bases: 1742 to 2032 (291)
+
+CONTIG: k105_146366 (955bp)
+Best alignment score: 67.0 (LEN: 67, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 67.0, number of alignments: 1, unaligned bases: 888
+		This contig is partially unaligned. (Aligned 67 out of 955 non-N bases (7.02%))
+		Alignment: 120841 120907 | 878 944 | 67 67 | 100.0 | Rhodopirellula_sp._SM50_NZ_NTFY01000062.1 k105_146366
+		Unaligned bases: 1 to 877 (877)
+		Unaligned bases: 945 to 955 (11)
+
+CONTIG: k105_137850 (778bp)
+Best alignment score: 80.0 (LEN: 84, IDY: 95.24), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 80.0, number of alignments: 1, unaligned bases: 694
+		This contig is partially unaligned. (Aligned 84 out of 778 non-N bases (10.80%))
+		Alignment: 120972 121055 | 693 776 | 84 84 | 95.24 | Rhodopirellula_sp._SM50_NZ_NTFY01000062.1 k105_137850
+		Unaligned bases: 1 to 692 (692)
+		Unaligned bases: 777 to 778 (2)
+
+CONTIG: k105_105054 (1165bp)
+Best alignment score: 145.0 (LEN: 151, IDY: 96.03), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 145.0, number of alignments: 1, unaligned bases: 1014
+		This contig is partially unaligned. (Aligned 151 out of 1165 non-N bases (12.96%))
+		Alignment: 121951 122101 | 162 12 | 151 151 | 96.03 | Rhodopirellula_sp._SM50_NZ_NTFY01000062.1 k105_105054
+		Unaligned bases: 1 to 11 (11)
+		Unaligned bases: 163 to 1165 (1003)
+
+Analyzing coverage...
+Writing SNPs into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Rhodopirellula_sp._SM50/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/lihu6475/1MB462-PIII/analyses/3_metaquast_evaluation/D3_metaquast_out/runs_per_reference/Rhodopirellula_sp._SM50/contigs_reports/minimap_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 5 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 6799
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 374
+
+	SNPs: 16
+	Insertions: 0
+	Deletions: 0
+
