@@ -29,6 +29,6 @@ samtools index $OUTDIR/D1.sorted.bam
 # Run BWA on D3
 bwa index $CONTIGDIR/D3_megahit_output/final.contigs.fa 2>$OUTDIR/D3_index.out
 #bwa mem -t 2 -h $CONTIGDIR/D3_megahit_output/final.contigs.fa $READDIR/SRR4342133_1.paired.trimmed.fastq.gz $READDIR/SRR4342133_2.paired.trimmed.fastq.gz > $OUTDIR/D3_DNA_supercontig.sam 2>$OUTDIR/D3_DNA_bwamem.out
-bwa mem -t 12 $CONTIGDIR/D3_megahit_output/final.contigs.fa $READDIR/SRR4342133_1.paired.trimmed.fastq.gz $READDIR/SRR
-samtools index $OUTDIR/D1.sorted.bam
+bwa mem -t 12 $CONTIGDIR/D3_megahit_output/final.contigs.fa $READDIR/SRR4342133_1.paired.trimmed.fastq.gz $READDIR/SRR4342133_2.paired.trimmed.fastq.gz 2> $OUTDIR/D3.bam.bwa.log | samtools view -b | samtools sort -o $OUTDIR/D3.sorted.bam -O BAM
+samtools index $OUTDIR/D3.sorted.bam
 #samtools view -S -b -h  $OUTDIR/D3_DNA_supercontig.sam > $OUTDIR/D3_DNA_supercontig.bam
