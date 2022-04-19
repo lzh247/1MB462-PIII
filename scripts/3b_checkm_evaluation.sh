@@ -26,5 +26,5 @@ cp -av $CHECKM_DATA/2015_01_16/* .
 checkm data setRoot $PWD
 
 # Run the analyses with combined workflow: lineage_wf. 
-checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D1_metabat_output/* $OUTDIR/D1_checkm
-checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D3_metabat_output/* $OUTDIR/D3_checkm
+checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D1_metabat_output/ $OUTDIR/D1_checkm
+checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D3_metabat_output/ $OUTDIR/D3_checkm
