@@ -1,4 +1,0 @@
-[samopen] no @SQ lines in the header.
-[sam_read1] missing header? Abort!
-[samopen] SAM header is present: 166148 sequences.
-[main_samview] truncated file.
