@@ -3,7 +3,7 @@
 #SBATCH -M snowy
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 04:00:00
+#SBATCH -t 08:00:00
 #SBATCH -J DNA_bwa
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user linn.zetterberg-huser.6475@student.uu.se
@@ -17,7 +17,7 @@ module load bwa samtools
 # Sequence directories 
 READDIR="/home/lihu6475/1MB462-PIII/data/DNA_trimmed"
 CONTIGDIR="/home/lihu6475/1MB462-PIII/analyses/2_assembly_evaluation"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3b_binning_with_depth"
+OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation/binning_with_depth"
 
 # Run BWA on D1
 bwa index $CONTIGDIR/D1_megahit_output/final.contigs.fa 2> $OUTDIR/D1/D1_index.out
