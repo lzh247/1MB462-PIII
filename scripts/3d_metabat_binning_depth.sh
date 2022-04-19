@@ -15,9 +15,14 @@ module load bioinfo-tools
 module load MetaBat
 
 # Sequence directories 
-SEQDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation/binning_with_depth"
+SEQDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation/binning_with_depth" ...
+CONTIGDIR="/home/lihu6475/1MB462-PIII/analyses/2_assembly_evaluation"
 OUTDIR=$SEQDIR
 
 # Run binning with depth and .bam-files
 jgi_summarize_bam_contig_depths --outputDepth $OUTDIR/depth.txt --pairedContigs $OUTDIR/paired.txt $SEQDIR/*.bam
-metabat -i assembly.fa -a $OUTDIR/depth.txt -p $OUTDIR/paired.txt -o $OUTDIR/bin --specific -l -v --saveTNF saved.tnf --saveDistance saved.gprob
+metabat -i $CONTIGDIR/D1_megahit_output/final.contigs.fa -a $OUTDIR/depth.txt -p $OUTDIR/paired.txt -o $OUTDIR/bin --specific -l -v --saveTNF saved.tnf --saveDistance saved.gprob
+
+jgi_summarize_bam_contig_depths --outputDepth $OUTDIR/depth.txt --pairedContigs $OUTDIR/paired.txt $SEQDIR/*.bam
+metabat -i $CONTIGDIR/D3_megahit_output/final.contigs.fa -a $OUTDIR/depth.txt -p $OUTDIR/paired.txt -o $OUTDIR/bin --specific -l -v --saveTNF saved.tnf --saveDistance saved.gprob
+
