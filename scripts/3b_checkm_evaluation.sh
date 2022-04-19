@@ -18,10 +18,8 @@ module load CheckM
 SEQDIR="/home/lihu6475/1MB462-PIII/analyses/3_assembly_evaluation"
 OUTDIR=$SEQDIR/checkm_output
 
-# Move to wanted working directory and create directories. 
+# Move to wanted working directory.
 cd $OUTDIR 
-mkdir D1_checkm
-mkdir D3_checkm
 
 # Download the CheckM data to current directory. As of April 2022, the most recent version is 2015.01.16.
 cp -av $HOME/data/CheckM_data/2015_01_16/* .
