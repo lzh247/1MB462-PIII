@@ -1,5 +1,0 @@
-[E::bgzf_flush] File write failed (wrong size)
-samtools view: writing to standard output failed: Disk quota exceeded
-[E::bgzf_close] File write failed
-samtools view: error closing standard output: -1
-[main_samview] fail to read the header from "/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation/binning_with_depth/D3_DNA_supercontig.sam".
