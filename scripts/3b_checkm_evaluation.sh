@@ -22,7 +22,7 @@ OUTDIR=$SEQDIR/checkm_output
 cd $OUTDIR 
 
 # Download the CheckM data to current directory. As of April 2022, the most recent version is 2015.01.16.
-cp -av $HOME/data/CheckM_data/2015_01_16/* .
+cp -av $CHECKM_DATA/2015_01_16/* .
 checkm data setRoot $PWD
 
 # Run the analyses with combined workflow: lineage_wf. 
