@@ -15,7 +15,7 @@ module load bioinfo-tools
 module load CheckM
 
 # Sequence directories 
-SEQDIR="/home/lihu6475/1MB462-PIII/analyses/3_assembly_evaluation"
+SEQDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation"
 OUTDIR=$SEQDIR/checkm_output
 
 # Move to wanted working directory.
