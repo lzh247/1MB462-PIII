@@ -29,7 +29,7 @@ cd $OUTDIR
 #checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D1_metabat_output/ $OUTDIR/D1_checkm
 #checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D3_metabat_output/ $OUTDIR/D3_checkm
 
-checkm analyze -t 4 -x fa $OUTDIR/D1_checkm/lineage.ms $OUTDIR/D1_checkm/bins $OUTDIR/D1_checkm
-checkm analyze -t 4 -x fa $OUTDIR/D3_checkm/lineage.ms $OUTDIR/D3_checkm/bins $OUTDIR/D3_checkm
+checkm analyze -t 4 -x fa $OUTDIR/D1_checkm/lineage.ms $SEQDIR/D1_metabat_output $OUTDIR/D1_checkm
+checkm analyze -t 4 -x fa $OUTDIR/D3_checkm/lineage.ms $SEQDIR/D3_metabat_output $OUTDIR/D3_checkm
 
 #checkm qa -t 4 -o 1 -f $SNIC_TMP/$A/result/qa.out $SNIC_TMP/$A/result/lineage.ms $SNIC_TMP/$A/result
