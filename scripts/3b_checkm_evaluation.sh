@@ -22,9 +22,14 @@ OUTDIR=$SEQDIR/checkm_output
 cd $OUTDIR 
 
 # Download the CheckM data to current directory. As of April 2022, the most recent version is 2015.01.16.
-cp -av $CHECKM_DATA/2015_01_16/* .
-checkm data setRoot $PWD
+#cp -av $CHECKM_DATA/2015_01_16/* .
+#checkm data setRoot $PWD
 
 # Run the analyses with combined workflow: lineage_wf. 
-checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D1_metabat_output/ $OUTDIR/D1_checkm
-checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D3_metabat_output/ $OUTDIR/D3_checkm
+#checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D1_metabat_output/ $OUTDIR/D1_checkm
+#checkm lineage_wf -t 4 -x fa --reduced_tree $SEQDIR/D3_metabat_output/ $OUTDIR/D3_checkm
+
+checkm analyze -t 4 -x fa $OUTDIR/D1_checkm/lineage.ms $OUTDIR/D1_checkm/bins $OUTDIR/D1_checkm
+checkm analyze -t 4 -x fa $OUTDIR/D3_checkm/lineage.ms $OUTDIR/D3_checkm/bins $OUTDIR/D3_checkm
+
+#checkm qa -t 4 -o 1 -f $SNIC_TMP/$A/result/qa.out $SNIC_TMP/$A/result/lineage.ms $SNIC_TMP/$A/result
