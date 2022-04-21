@@ -17,7 +17,8 @@ module load bwa samtools MetaBat
 # Sequence directories 
 READDIR="/home/lihu6475/1MB462-PIII/data/DNA_trimmed"
 CONTIGDIR="/home/lihu6475/1MB462-PIII/analyses/2_assembly_evaluation"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation/binning_with_depth"
+#OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation/binning_with_depth"
+OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/3_binning_evaluation_with_depth"
 
 # Run BWA on D1
 bwa index $CONTIGDIR/D1_megahit_output/final.contigs.fa 2> $OUTDIR/D1/D1_index.out
