@@ -3,7 +3,7 @@
 #SBATCH -M snowy
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 02:00:00
+#SBATCH -t 00:15:00
 #SBATCH -J metabat
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user linn.zetterberg-huser.6475@student.uu.se
