@@ -15,7 +15,7 @@ module load bioinfo-tools prokka
 
 # Sequence directories
 SEQDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/4_DNA_annotation/structural_prokka"
+OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/structural_prokka"
 
 # Loop for annotation of all .fa 
 for fa in $SEQDIR/D1_metabat_output/*
