@@ -27,5 +27,5 @@ done
 for fb in $SEQDIR/D3_metabat_output/*
 do
 echo $fb
-prokka --metagenome --cpus 2 $fb --outdir $OUTDIR/D3/"$fa"_ann.out
+prokka --metagenome --cpus 2 $fb --outdir $OUTDIR/D3/"$fb"_ann.out
 done
