@@ -14,17 +14,23 @@
 module load bioinfo-tools eggNOG-mapper
 
 # Sequence directories
-SEQDIR="/home/lihu6475/1MB462-PIII/analyses/3_binning_evaluation"
+SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/3_binning_evaluation_with_depth/metabat_output"
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/functional_eggnoggmapper"
 
+# Change working directory
+cd $OUTDIR/D1
+
 # Loop
-for fa in $SEQDIR/D1_metabat_output/*
+for fa in $SEQDIR/D1/*
 do
 echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D1
 done
 
-for fa in $SEQDIR/D3_metabat_output/*
+# Change working directory
+cd $OUTDIR/D3
+
+for fa in $SEQDIR/D3/*
 do
 echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D3
