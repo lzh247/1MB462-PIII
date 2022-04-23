@@ -18,19 +18,19 @@ SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/3_binning_evaluation_wit
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/functional_eggnoggmapper"
 
 # Change working directory
-cd $OUTDIR/D1
+cd $SEQDIR/D1
 
 # Loop
-for fa in $SEQDIR/D1/*
+for fa in *
 do
 echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D1
 done
 
 # Change working directory
-cd $OUTDIR/D3
+cd $SEQDIR/D3
 
-for fa in $SEQDIR/D3/*
+for fa in *
 do
 echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D3
