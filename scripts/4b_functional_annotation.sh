@@ -27,6 +27,7 @@ echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D1
 done
 
+: '
 # Change working directory
 cd $SEQDIR/D3
 
@@ -35,3 +36,4 @@ do
 echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D3
 done
+'
