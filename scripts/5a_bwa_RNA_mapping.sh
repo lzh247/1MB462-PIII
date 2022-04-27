@@ -20,7 +20,8 @@ OUTDIR="/home/lihu6475/1MB462-PIII/analyses/4_DNA_annotation/structural_prokka"
 
 # Combine all .fa bin files into one aggregated file. See article. 
 # D1
-for bin in $BINDIR/D1/*.fa; do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> $OUTDIR/D1_bins_concat.fa; grep -v '>' $bin >> $OUTDIR/D1_bins_concat.fa; done
+cd $OUTDIR
+for bin in $BINDIR/D1/*.fa; do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> D1_bins_concat.fa; grep -v '>' $bin >> D1_bins_concat.fa; done
 
 # D3
 for bin in $BINDIR/D3/*.fa;
