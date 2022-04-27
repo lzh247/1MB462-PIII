@@ -23,7 +23,8 @@ cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
 
 # The input .fa files will be the Prokka output, as these include amino acid sequence and not only nucleotide, in contrast to the binning output. 
 # Further, the file names have to be given new names.
-for bins in $SEQDIR/D1/*ann.out
+cd $SEQDIR 
+for bins in D1/*ann.out
 do
 echo $bins
 for files in $bins/*
