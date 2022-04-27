@@ -46,7 +46,7 @@ done
 
 
 # Run pylophlan 
-cd $OUTDIR/D1/
-$OUTDIR/phylophlan.py -i $SEQDIR/D1/*.fa_ann.out/*.faa -t --nproc 2 2> D1_phylo.err
+cd $OUTDIR
+phylophlan.py -i $SEQDIR/D1/ -t --nproc 2 2> D1_phylo.err
 #cd $OUTDIR/D3/
 #$OUTDIR/phylophlan.py -i $SEQDIR/D3/*.fa_ann.out/*.faa -t --nproc 2 2> D3_phylo.err
