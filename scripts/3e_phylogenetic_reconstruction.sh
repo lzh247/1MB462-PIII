@@ -22,11 +22,30 @@ OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3b_phylo_reconstruct"
 cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
 
 # The input .fa files will be the Prokka output, as these include amino acid sequence and not only nucleotide, in contrast to the binning output. 
-# Further, the file names have to be changed back to .fa
+# Further, the file names have to be given new names.
+for bins in $SEQDIR/D1/*ann.out
+do
+echo $bins
+for files in $bins/*
+do
+echo $files
+mv "$files" "${files/PROKKA_04252022/$bins}"
+done
+done
+
+#for bins in $SEQDIR/D3/*ann.out
+#do
+#echo $bins
+#for files in $bins/*
+#do
+#echo $files
+#mv "$files" "${files/PROKKA_04252022/$bins}"
+#done
+#done
 
 
 # Run pylophlan 
 cd $OUTDIR/D1/
 $OUTDIR/phylophlan.py -i $SEQDIR/D1/*.fa_ann.out/*.faa -t --nproc 2 2> D1_phylo.err
-cd $OUTDIR/D3/
-$OUTDIR/phylophlan.py -i $SEQDIR/D3/*.fa_ann.out/*.faa -t --nproc 2 2> D3_phylo.err
+#cd $OUTDIR/D3/
+#$OUTDIR/phylophlan.py -i $SEQDIR/D3/*.fa_ann.out/*.faa -t --nproc 2 2> D3_phylo.err
