@@ -23,5 +23,7 @@ cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
 
 # Run pylophlan 
 # The input .fa files will be the Prokka output, as these include amino acid sequence and not only nucleotide, in contrast to the binning output.
-$OUTDIR/phylophlan.py -i $SEQDIR/D1/*.fa_ann.out -t --nproc 2 -o $OUTDIR/D1/ 2> D1_phylo.err
-$OUTDIR/phylophlan.py -i $SEQDIR/D3/*.fa_ann.out -t --nproc 2 -o $OUTDIR/D3/ 2> D3_phylo.err
+cd $OUTDIR/D1/
+$OUTDIR/phylophlan.py -i $SEQDIR/D1/*.fa_ann.out -t --nproc 2 2> D1_phylo.err
+cd $OUTDIR/D3/
+$OUTDIR/phylophlan.py -i $SEQDIR/D3/*.fa_ann.out -t --nproc 2 2> D3_phylo.err
