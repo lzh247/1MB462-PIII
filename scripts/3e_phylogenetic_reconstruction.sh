@@ -12,7 +12,7 @@
 # Phylogenetic reconstruction script, based on bins. 
 
 # Load modules
-module load bioinfo-tools phylophlan/0.99 python/2.7.15 biopython/1.78 FastTree muscle/3.8.31 usearch/5.2.32
+module load bioinfo-tools phylophlan/0.99 python/2.7.15 biopython/1.73 FastTree muscle/3.8.31 usearch/5.2.32
 
 # Sequence rectories
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/structural_prokka"
