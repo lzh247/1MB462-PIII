@@ -24,8 +24,10 @@ cd $OUTDIR
 for bin in $BINDIR/D1/*.fa; do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> D1_bins_concat.fa; grep -v '>' $bin >> D1_bins_concat.fa; done
 
 # D3
-for bin in $BINDIR/D3/*.fa;
-do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> $OUTDIR/D3_bins_concat.fa; grep -v '>' $bin >> $OUTDIR/D3_bins_concat.fa; done
+cd $OUTDIR 
+for bin in $BINDIR/D3/*.fa
+do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> D3_bins_concat.fa; grep -v '>' $bin >> D3_bins_concat.fa
+done
 
 # Create reference index prior to bwa index
 bwa index $OUTDIR/D1_bins_concat.fa 2> $OUTDIR/D1_index.out
