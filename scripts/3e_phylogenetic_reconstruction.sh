@@ -32,7 +32,8 @@ cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
 #done
 #done
 
-for bins in $SEQDIR/D3/*ann.out
+cd $SEQDIR/D3
+for bins in *ann.out
 do
 echo $bins
 for files in $bins/*
@@ -45,5 +46,5 @@ done
 
 # Run pylophlan 
 cd $OUTDIR
-phylophlan.py -i $SEQDIR/D1/ -t --nproc 2 2> D1_phylo.err
+#phylophlan.py -i $SEQDIR/D1/ -t --nproc 2 2> D1_phylo.err
 phylophlan.py -i $SEQDIR/D3/ -t --nproc 2 2> D3_phylo.err
