@@ -32,19 +32,22 @@ cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
 #done
 #done
 
-cd $SEQDIR/D3
-for bins in *ann.out
-do
-echo $bins
-for files in $bins/*
-do
-echo $files
-mv "$files" "${files/PROKKA_04272022/$bins}"
-done
-done
+#d $SEQDIR/D3
+#for bins in *ann.out
+#do
+#echo $bins
+#for files in $bins/*
+#do
+#echo $files
+#mv "$files" "${files/PROKKA_04272022/$bins}"
+#done
+#done
 
+# Soft link the input data to phylophlans input directory
+ln -s $SEQDIR/D1/*ann.out/*.faa $OUTDIR/input/D1/
+ln -s $SEQDIR/D3/*ann.out/*.faa $OUTDIR/input/D3/
 
 # Run pylophlan 
 cd $OUTDIR
-#phylophlan.py -i $SEQDIR/D1/ -t --nproc 2 2> D1_phylo.err
-phylophlan.py -i $SEQDIR/D3/ -t --nproc 2 2> D3_phylo.err
+phylophlan.py -i D1 -t --nproc 2 2> D1_phylo.err
+phylophlan.py -i D3 -t --nproc 2 2> D3_phylo.err
