@@ -39,7 +39,7 @@ echo $bins
 for files in $bins/*
 do
 echo $files
-mv "$files" "${files/PROKKA_04252022/$bins}"
+mv "$files" "${files/PROKKA_04272022/$bins}"
 done
 done
 
