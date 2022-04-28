@@ -16,7 +16,7 @@ module load bioinfo-tools bwa samtools
 # Sequence directories
 BINDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/3_binning_evaluation_with_depth/metabat_output"
 SEQDIR="/home/lihu6475/1MB462-PIII/data/RNA_trimmed"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/4_DNA_annotation/structural_prokka"
+OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
 
 # Combine all .fa bin files into one aggregated file. See article. 
 # D1
