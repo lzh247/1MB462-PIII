@@ -7,8 +7,6 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user linn.zetterberg-huser.6475@student.uu.se
 
-# NOT WORKING
-
 # Phylogenetic reconstruction script, based on bins. 
 
 # Load modules
@@ -16,25 +14,15 @@ module load bioinfo-tools phylophlan/0.99 python/2.7.15 biopython/1.73 FastTree 
 
 # Sequence directories
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/structural_prokka"
-OUTDIR="/home/lihu6475/1MB462-PIII/analyses/3b_phylo_reconstruct"
+OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/3b_phylo_reconstruct"
 
 # Copy installed phylophlan files into working directory. 
 cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
 
 # The input .fa files will be the Prokka output, as these include amino acid sequence and not only nucleotide, in contrast to the binning output. 
 # Further, the file names have to be given new names.
-cd $SEQDIR/D1
-for bins in *ann.out
-do
-echo $bins
-for files in $bins/*
-do
-echo $files
-mv "$files" "${files/PROKKA_04252022/$bins}"
-done
-done
-
-#for bins in $SEQDIR/D3/*ann.out
+#cd $SEQDIR/D1
+#for bins in *ann.out
 #do
 #echo $bins
 #for files in $bins/*
@@ -44,9 +32,18 @@ done
 #done
 #done
 
+for bins in $SEQDIR/D3/*ann.out
+do
+echo $bins
+for files in $bins/*
+do
+echo $files
+mv "$files" "${files/PROKKA_04252022/$bins}"
+done
+done
+
 
 # Run pylophlan 
 cd $OUTDIR
 phylophlan.py -i $SEQDIR/D1/ -t --nproc 2 2> D1_phylo.err
-#cd $OUTDIR/D3/
-#$OUTDIR/phylophlan.py -i $SEQDIR/D3/*.fa_ann.out/*.faa -t --nproc 2 2> D3_phylo.err
+phylophlan.py -i $SEQDIR/D3/ -t --nproc 2 2> D3_phylo.err
