@@ -3,7 +3,7 @@
 #SBATCH -p core
 #SBATCH -n 2
 #SBATCH -J phylogenetic
-#SBATCH -t 10:00:00
+#SBATCH -t 50:00:00
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user linn.zetterberg-huser.6475@student.uu.se
 
