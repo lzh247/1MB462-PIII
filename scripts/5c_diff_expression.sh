@@ -21,9 +21,11 @@ BAMDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
 # Run htseq
 cd $SEQDIR
 for n in D1/*;
-for m in 1 2 3 4 5 6 7 8 9 10 11 12;
 do
-    sed '/##FASTA/,$d' D1/${n}/D1_metabat_output_${m}.fa_ann.out.gff > $OUTDIR/htseq_${m}.gff
-    htseq-count -f bam -t CDS -i ID -s no $BAMDIR/D1_sorted.bam $OUTDIR/htseq_${m}.gff > $OUTDIR/htseq_${m}_D1.counts
-    htseq-count -f bam -t CDS -i ID -s no $BAMDIR/D3_sorted.bam $OUTDIR/htseq_${m}.gff > $OUTDIR/htseq_${m}_D3.counts
+    for m in 1 2 3 4 5 6 7 8 9 10 11 12;
+    do
+        sed '/##FASTA/,$d' D1/${n}/D1_metabat_output_${m}.fa_ann.out.gff > $OUTDIR/htseq_${m}.gff
+        htseq-count -f bam -t CDS -i ID -s no $BAMDIR/D1_sorted.bam $OUTDIR/htseq_${m}.gff > $OUTDIR/htseq_${m}_D1.counts
+        htseq-count -f bam -t CDS -i ID -s no $BAMDIR/D3_sorted.bam $OUTDIR/htseq_${m}.gff > $OUTDIR/htseq_${m}_D3.counts
+    done
 done
