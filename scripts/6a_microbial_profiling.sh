@@ -12,7 +12,8 @@
 
 # Load modules 
 module load bioinfo-tools
-module load MetaPhlAn3/3.0.8
+module load MetaPhlAn3/3.0 
+module load python 
 
 # Path to sequence directory and output directories
 SEQDIR="/home/lihu6475/1MB462-PIII/data/DNA_trimmed"
