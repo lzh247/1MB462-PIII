@@ -10,6 +10,8 @@
 
 # Profiling of composition of microbial communities with Metaphlan script
 
+# NOT WORKING, CANNOT LOAD METAPHLAN
+
 # Load modules 
 module load bioinfo-tools
 module load MetaPhlAn3/3.0 
