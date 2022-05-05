@@ -17,7 +17,17 @@ SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/structu
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/3b_phylo_reconstruct"
 
 # Copy installed phylophlan files into working directory. 
-cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
+#cp -r /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/* $OUTDIR/
+
+# Symlink the phylophlan data files
+cd  $OUTDIR/
+mkdir data
+cd data
+mkdir -p ppaalns
+ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/data/*.bz2 .
+ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/data/ppaalns/*.bz2 ppaalns/
+ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/data/ppafull.tax.txt .
+ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/taxcuration/ /home/pcr98/GenomeAnalysis/GenomeAnalysis/analysis/phylo/taxcuration
 
 # The input .fa files will be the Prokka output, as these include amino acid sequence and not only nucleotide, in contrast to the binning output. 
 # Further, the file names have to be given new names.
