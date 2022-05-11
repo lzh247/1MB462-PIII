@@ -14,7 +14,7 @@
 
 # Load modules 
 module load bioinfo-tools
-module load MetaPhlAn3/3.0 
+module load MetaPhlAn3/3.0.8
 module load BioBakery
 #module load python 
 #module load biopython FastTree muscle usearch
