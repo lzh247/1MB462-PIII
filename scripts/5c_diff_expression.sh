@@ -14,21 +14,19 @@ module load bioinfo-tools
 module load htseq
 
 # Sequence directories
-SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/structural_prokka"
+SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/functional_eggnoggmapper"
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA/htseq_out"
 BAMDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
 
 # Run htseq
-cd $SEQDIR/D1/gff_collected
+cd $SEQDIR/D1
 for gff in *.gff
 do
 echo $gff
-intrm=$(echo $gff | cut -f1 -d ".")
-echo $intrm
-bin=$(echo $intrm | cut -f4 -d "_")
+bin=$(echo $gff | cut -f2 -d ".")
 echo $bin
 cd $OUTDIR
-mkdir $bin
+#mkdir $bin
 cd $bin
 htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D1_sorted.bam $SEQDIR/D1/gff_collected/$gff > $OUTDIR/D1_htseq_${bin}.counts
 done
@@ -37,12 +35,10 @@ cd $SEQDIR/D3/gff_collected
 for gff in *.gff
 do
 echo $gff
-intrm=$(echo $gff | cut -f1 -d ".")
-echo $intrm
-bin=$(echo $intrm | cut -f4 -d "_")
+bin=$(echo $gff | cut -f2 -d ".")
 echo $bin
 cd $OUTDIR
-mkdir $bin
+#mkdir $bin
 cd $bin
 htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D3_sorted.bam $SEQDIR/D1/gff_collected/$gff > $OUTDIR/D1_htseq_${bin}.counts
 done
