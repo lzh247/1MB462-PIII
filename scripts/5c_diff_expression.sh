@@ -24,6 +24,7 @@ for gff in *.gff
 do
 echo $gff
 intrm=$(echo $gff | cut -f3 -d ".")
+echo $intrm
 bin=$(echo $intrm | cut -f4 -d "_")
 echo $bin
 cd $OUTDIR
@@ -36,6 +37,7 @@ for gff in *.gff
 do
 echo $gff
 intrm=$(echo $gff | cut -f3 -d ".")
+echo $intrm
 bin=$(echo $intrm | cut -f4 -d "_")
 echo $bin
 cd $OUTDIR
