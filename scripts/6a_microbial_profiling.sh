@@ -15,8 +15,9 @@
 # Load modules 
 module load bioinfo-tools
 module load MetaPhlAn3/3.0 
-module load python 
-module load biopython FastTree muscle usearch
+module load BioBakery
+#module load python 
+#module load biopython FastTree muscle usearch
 
 # Path to sequence directory and output directories
 SEQDIR="/home/lihu6475/1MB462-PIII/data/DNA_trimmed"
