@@ -31,7 +31,7 @@ cd $bin
 htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D1_sorted.bam $SEQDIR/D1/gff_collected/$gff > $OUTDIR/D1_htseq_${bin}.counts
 done
 
-cd $SEQDIR/D3/gff_collected
+cd $SEQDIR/D3
 for gff in *.gff
 do
 echo $gff
