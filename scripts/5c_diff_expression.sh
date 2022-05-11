@@ -28,7 +28,7 @@ bin=$(echo $intrm | cut -f4 -d "_")
 echo $bin
 cd $OUTDIR
 cd $bin
-htseq-count -f bam -t CDS -r pos -i ID *.bam $SEQDIR/D1/gff_collected/$gff > $OUTDIR/D1_htseq_${bin}.counts
+htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D1_sorted.bam $SEQDIR/D1/gff_collected/$gff > $OUTDIR/D1_htseq_${bin}.counts
 done
 
 cd $SEQDIR/D3/gff_collected
@@ -40,5 +40,5 @@ bin=$(echo $intrm | cut -f4 -d "_")
 echo $bin
 cd $OUTDIR
 cd $bin
-htseq-count -f bam -t CDS -r pos -i ID *.bam $SEQDIR/D1/gff_collected/$gff > $OUTDIR/D1_htseq_${bin}.counts
+htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D3_sorted.bam $SEQDIR/D1/gff_collected/$gff > $OUTDIR/D1_htseq_${bin}.counts
 done
