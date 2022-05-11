@@ -23,7 +23,7 @@ cd $SEQDIR/D1/gff_collected
 for gff in *.gff
 do
 echo $gff
-intrm=$(echo $gff | cut -f3 -d ".")
+intrm=$(echo $gff | cut -f1 -d ".")
 echo $intrm
 bin=$(echo $intrm | cut -f4 -d "_")
 echo $bin
@@ -36,7 +36,7 @@ cd $SEQDIR/D3/gff_collected
 for gff in *.gff
 do
 echo $gff
-intrm=$(echo $gff | cut -f3 -d ".")
+intrm=$(echo $gff | cut -f1 -d ".")
 echo $intrm
 bin=$(echo $intrm | cut -f4 -d "_")
 echo $bin
