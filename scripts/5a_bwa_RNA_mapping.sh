@@ -40,23 +40,23 @@ done
 
 
 
-:'
+#:'
 # Combine all .fa bin files into one aggregated file. See article. 
 # D1
-cd $OUTDIR
-for bin in $BINDIR/D1/*.fa; do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> D1_bins_concat.fa; grep -v '>' $bin >> D1_bins_concat.fa; done
+#cd $OUTDIR
+#for bin in $BINDIR/D1/*.fa; do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> D1_bins_concat.fa; grep -v '>' $bin >> D1_bins_concat.fa; done
 
 # D3
-cd $OUTDIR 
-for bin in $BINDIR/D3/*.fa
-do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> D3_bins_concat.fa; grep -v '>' $bin >> D3_bins_concat.fa
-done
+#cd $OUTDIR 
+#for bin in $BINDIR/D3/*.fa
+#do name=`echo $bin | awk 'BEGIN{FS="."}{print $1$2}'`; echo ">"$name >> D3_bins_concat.fa; grep -v '>' $bin >> D3_bins_concat.fa
+#done
 
 # Create reference index prior to bwa index
-bwa index $OUTDIR/D1_bins_concat.fa 2> $OUTDIR/D1_index.out
-bwa index $OUTDIR/D3_bins_concat.fa 2> $OUTDIR/D3_index.out
+#bwa index $OUTDIR/D1_bins_concat.fa 2> $OUTDIR/D1_index.out
+#bwa index $OUTDIR/D3_bins_concat.fa 2> $OUTDIR/D3_index.out
 
 # Run bwa mem for alignment
-bwa mem $OUTDIR/D1_bins_concat.fa $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/D1_mem.out | samtools sort -o $OUTDIR/D1_sorted.bam
-bwa mem $OUTDIR/D3_bins_concat.fa $SEQDIR/RNA_trim_39.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_39.right_paired.trimmed.fastq.gz 2> $OUTDIR/D3_mem.out | samtools sort -o $OUTDIR/D3_sorted.bam
-'
+#bwa mem $OUTDIR/D1_bins_concat.fa $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/D1_mem.out | samtools sort -o $OUTDIR/D1_sorted.bam
+#bwa mem $OUTDIR/D3_bins_concat.fa $SEQDIR/RNA_trim_39.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_39.right_paired.trimmed.fastq.gz 2> $OUTDIR/D3_mem.out | samtools sort -o $OUTDIR/D3_sorted.bam
+#'
