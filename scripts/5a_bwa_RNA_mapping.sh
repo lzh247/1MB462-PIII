@@ -26,7 +26,7 @@ do
 cp $BINDIR/D1/${fa} $OUTDIR/${fa} 
 bwa index $OUTDIR/${fa} 2> $OUTDIR/${fa}_index.out
 cd $OUTDIR
-bwa mem $BINDIR/D1/${fa} $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/${fa}_mem.out | samtools sort -o $OUTDIR/${fa}_sorted.bam
+bwa mem $OUTDIR/${fa} $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/${fa}_mem.out | samtools sort -o $OUTDIR/${fa}_sorted.bam
 done 
 
 # D3
@@ -36,7 +36,7 @@ do
 cp $BINDIR/D3/${fa} $OUTDIR/${fa} 
 bwa index $OUTDIR/${fa} 2> $OUTDIR/${fa}_index.out
 cd $OUTDIR
-bwa mem $BINDIR/D3/${fa} $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/${fa}_mem.out | samtools sort -o $OUTDIR/${fa}_sorted.bam
+bwa mem $OUTDIR/${fa} $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/${fa}_mem.out | samtools sort -o $OUTDIR/${fa}_sorted.bam
 done 
 
 
