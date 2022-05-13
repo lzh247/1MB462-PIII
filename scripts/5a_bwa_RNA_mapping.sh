@@ -23,8 +23,8 @@ OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
 cd $BINDIR/D1
 for fa in D1_normalized.*.fa
 do
-#cp $OUTDIR/D1/${fa} 
-bwa index $OUTDIR/D1/${fa} 2> $OUTDIR/${fa}_index.out
+cp ${fa} $OUTDIR/${fa} 
+bwa index $OUTDIR/${fa} 2> $OUTDIR/${fa}_index.out
 cd $OUTDIR
 bwa mem $BINDIR/D1/${fa} $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/${fa}_mem.out | samtools sort -o $OUTDIR/${fa}_sorted.bam
 done 
@@ -33,8 +33,8 @@ done
 cd $BINDIR/D3
 for fa in D3_normalized.*.fa
 do
-#cp $OUTDIR/D3/${fa} 
-bwa index $OUTDIR/D3/${fa} 2> $OUTDIR/${fa}_index.out
+cp ${fa} $OUTDIR/${fa} 
+bwa index $OUTDIR/${fa} 2> $OUTDIR/${fa}_index.out
 cd $OUTDIR
 bwa mem $BINDIR/D3/${fa} $SEQDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $SEQDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2> $OUTDIR/${fa}_mem.out | samtools sort -o $OUTDIR/${fa}_sorted.bam
 done 
