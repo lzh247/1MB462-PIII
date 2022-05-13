@@ -3,7 +3,7 @@
 #SBATCH -M snowy
 #SBATCH -p core
 #SBATCH -n 4
-#SBATCH -t 80:00:00
+#SBATCH -t 10:00:00
 #SBATCH -J eggnoggmapper
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user linn.zetterberg-huser.6475@student.uu.se
@@ -26,7 +26,7 @@ do
 echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D1
 done
-'
+
 
 # Change working directory
 cd $SEQDIR/D3
@@ -36,4 +36,13 @@ do
 echo $fa
 emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D3
 done
+'
 
+# Change working directory
+cd $SEQDIR/D3
+
+for fa in {D3_normalized.27.fa,D3_normalized.28.fa,D3_normalized.29.fa,D3_normalized.30.fa}
+do
+echo $fa
+emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D3
+done
