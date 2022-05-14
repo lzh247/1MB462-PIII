@@ -19,7 +19,7 @@ OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA/htseq_out"
 BAMDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
 
 # Index bam files
-cd $BMDIR
+cd $BAMDIR
 for bam in *.bam
 do
 echo $bam
