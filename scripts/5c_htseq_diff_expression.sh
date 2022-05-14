@@ -28,7 +28,7 @@ echo $bin
 cd $OUTDIR/D1
 mkdir $bin
 cd $bin
-htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D1_sorted.bam $SEQDIR/D1/$gff > $OUTDIR/D1_htseq_${bin}.counts
+htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D1_normalized.${bin}.fa_sorted.bam $SEQDIR/D1/$gff > $OUTDIR/D1_htseq_${bin}.counts
 done
 
 cd $SEQDIR/D3
@@ -40,5 +40,5 @@ echo $bin
 cd $OUTDIR/D3
 mkdir $bin
 cd $bin
-htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D3_sorted.bam $SEQDIR/D1/$gff > $OUTDIR/D3_htseq_${bin}.counts
+htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D3_normalized.${bin}.fa_sorted.bam $SEQDIR/D1/$gff > $OUTDIR/D3_htseq_${bin}.counts
 done
