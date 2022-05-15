@@ -10,22 +10,19 @@
 
 # Profiling of composition of microbial communities with Metaphlan script
 
-# NOT WORKING, CANNOT LOAD METAPHLAN
-
 # Load modules 
 module load bioinfo-tools
-module load MetaPhlAn3/3.0.8
-module load BioBakery
-#module load python 
-#module load biopython FastTree muscle usearch
-
+module load MetaPhlAn3/3.0.8 BioBakery
 
 # Path to sequence directory and output directories
 SEQDIR="/home/lihu6475/1MB462-PIII/data/DNA_trimmed"
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/6_extra_analyses/metaphlan"
 
-metaphlan --install --bowtie2db $OUTDIR/install
+# Install MetaPhlAn
+#metaphlan --install --bowtie2db $OUTDIR/install
 
 # Run MetaPhlAn
 metaphlan $SEQDIR/SRR4342129_1.paired.trimmed.fastq.gz,$SEQDIR/SRR4342129_2.paired.trimmed.fastq.gz --bowtie2db $OUTDIR/install --bowtie2out $OUTDIR/bt2out.txt --input_type fastq --nproc 2 --input_type fastq --add_viruses -o $OUTDIR/metagenome_profile.txt
+metaphlan $SEQDIR/SRR4342133_1.paired.trimmed.fastq.gz,$SEQDIR/SRR4342133_2.paired.trimmed.fastq.gz --bowtie2db $OUTDIR/install --bowtie2out $OUTDIR/bt2out_D3.txt --input_type fastq --nproc 2 --input_type fastq --add_viruses -o $OUTDIR/metagenome_profile_D3.txt
+
 #metaphlan $SEQDIR/SRR4342129_1.paired.trimmed.fastq.gz,$SEQDIR/SRR4342129_2.paired.trimmed.fastq.gz --bowtie2out $OUTDIR/bt2out.txt --input_type fastq --nproc 2 --input_type fastq --add_viruses -o $OUTDIR/metagenome_profile.txt
