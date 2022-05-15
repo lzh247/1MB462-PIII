@@ -15,18 +15,17 @@ module load samtools
 
 # Sequence directories
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
-OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
+OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA/statistics"
 
-# Index BAM files
-samtools index $SEQDIR/D1_sorted.bam
-samtools index $SEQDIR/D3_sorted.bam
+cd $SEQDIR
+for bam in D1_normalized.*.fa_sorted.bam
+do 
+samtools coverage $bam -o $OUTDIR/${bam}_coverage
+samtools depth $bam -o $OUTDIR/${bam}_depth
+done
 
-# Create summary table with statistics 
-samtools coverage $SEQDIR/D1_sorted.bam -o $OUTDIR/D1_coverage
-samtools coverage $SEQDIR/D3_sorted.bam -o $OUTDIR/D3_coverage
-
-# Depth for per base coverage instead of average
-samtools depth $SEQDIR/D1_sorted.bam -o $OUTDIR/D1_depth  
-samtools depth $SEQDIR/D3_sorted.bam -o $OUTDIR/D3_depth  
-
-# More statistics 
+for bam in D3_normalized.*.fa_sorted.bam
+do 
+samtools coverage $bam -o $OUTDIR/${bam}_coverage
+samtools depth $bam -o $OUTDIR/${bam}_depth
+done
