@@ -11,7 +11,8 @@
 # Functional annotation with EggNoggMapper script
 
 # Load modules
-module load bioinfo-tools eggNOG-mapper
+module load bioinfo-tools 
+module load eggNOG-mapper
 
 # Sequence directories
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/3_binning_evaluation_with_depth/metabat_output"
@@ -38,6 +39,7 @@ emapper.py --itype metagenome -i $fa -o $fa --output_dir $OUTDIR/D3
 done
 '
 
+# UPDATE: Missing fou files after time constraint, therefore: 
 # Change working directory
 cd $SEQDIR/D3
 
