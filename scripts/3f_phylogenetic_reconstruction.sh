@@ -31,27 +31,27 @@ ln -sf /sw/apps/bioinfo/phylophlan/0.99/rackham/bin/taxcuration/ /proj/genomeana
 
 # The input .fa files will be the Prokka output, as these include amino acid sequence and not only nucleotide, in contrast to the binning output. 
 # Further, the file names have to be given new names.
-#cd $SEQDIR/D1
-#for bins in *ann.out
-#do
-#echo $bins
-#for files in $bins/*
-#do
-#echo $files
-#mv "$files" "${files/PROKKA_04272022/$bins}"
-#done
-#done
+cd $SEQDIR/D1
+for bins in *ann.out
+do
+echo $bins
+for files in $bins/*
+do
+echo $files
+mv "$files" "${files/PROKKA_04272022/$bins}"
+done
+done
 
-#d $SEQDIR/D3
-#for bins in *ann.out
-#do
-#echo $bins
-#for files in $bins/*
-#do
-#echo $files
-#mv "$files" "${files/PROKKA_04272022/$bins}"
-#done
-#done
+cd $SEQDIR/D3
+for bins in *ann.out
+do
+echo $bins
+for files in $bins/*
+do
+echo $files
+mv "$files" "${files/PROKKA_04272022/$bins}"
+done
+done
 
 # Soft link the input data to phylophlans input directory
 ln -s $SEQDIR/D1/*ann.out/*.faa $OUTDIR/input/D1/
