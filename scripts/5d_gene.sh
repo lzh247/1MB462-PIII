@@ -19,6 +19,7 @@ module load bwa samtools
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/structural_prokka"
 RAWDIR="/home/lihu6475/1MB462-PIII/data/RNA_trimmed"
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5b_bwa_genes"
+OUTDIR-GEN="/proj/genomeanalysis2022/nobackup/work/lihu6475/5b_bwa_genes"
 : '
 #sample D1
 cd $SEQDIR/D1/
@@ -39,7 +40,7 @@ for file in *.ffn
 bwa index $file 
 bwa mem -t 10 $file $RAWDIR/RNA_trim_37.left_paired.trimmed.fastq.gz $RAWDIR/RNA_trim_37.right_paired.trimmed.fastq.gz 2>$OUTDIR/D3/${file}.sam | samtools sort -o $OUTDIR/D3/${file}_sorted.bam
 done
-'
+
 #sample D1
 cd $SEQDIR/D1/
 for bin in *.out
@@ -62,4 +63,16 @@ basename_file=$(basename -s .ffn $file)
 bwa index $file
 bwa mem -t 10 $file $RAWDIR/RNA_trim_39.left_paired.trimmed.fastq.gz $RAWDIR/RNA_trim_39.right_paired.trimmed.fastq.gz 2>$OUTDIR/D3/${basename_file}.sam | samtools sort -o $OUTDIR/D3/${basename_file}_sorted.bam
 done
+done
+'
+cd $OUTDIR-GEN
+for bam in D1_normalized.*.fa_sorted.bam
+do 
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR-GEN/${bam}_summary  
+done
+
+cd $OUTDIR-GEN
+for bam in D3_normalized.*.fa_sorted.bam
+do 
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR-GEN/${bam}_summary  
 done
