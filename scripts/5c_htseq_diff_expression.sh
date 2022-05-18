@@ -79,6 +79,8 @@ exp=0
 cat $input |while IFS= read -r line;
 do
 value=$(echo $line | cut -d ' ' -f2)
+echo $line
+echo $value
 if [ $value -eq 0 ]; then
 noexp=$[$noexp+1]
 else
