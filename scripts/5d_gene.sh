@@ -19,7 +19,6 @@ module load bwa samtools
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/structural_prokka"
 RAWDIR="/home/lihu6475/1MB462-PIII/data/RNA_trimmed"
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5b_bwa_genes"
-OUTDIR-GEN="/proj/genomeanalysis2022/nobackup/work/lihu6475/5b_bwa_genes"
 : '
 #sample D1
 cd $SEQDIR/D1/
@@ -65,14 +64,14 @@ bwa mem -t 10 $file $RAWDIR/RNA_trim_39.left_paired.trimmed.fastq.gz $RAWDIR/RNA
 done
 done
 '
-cd $OUTDIR-GEN
+cd $OUTDIR
 for bam in D1_normalized.*.fa_sorted.bam
 do 
-samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR-GEN/${bam}_summary  
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
 done
 
-cd $OUTDIR-GEN
+cd $OUTDIR
 for bam in D3_normalized.*.fa_sorted.bam
 do 
-samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR-GEN/${bam}_summary  
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
 done
