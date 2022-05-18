@@ -17,7 +17,7 @@ module load htseq samtools
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/functional_eggnoggmapper"
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA/htseq_out"
 BAMDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
-
+: '
 # Index bam files
 cd $BAMDIR
 for bam in *.bam
@@ -49,4 +49,20 @@ cd $OUTDIR/D3
 mkdir $bin
 cd $bin
 htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D3_normalized.${bin}.fa_sorted.bam $SEQDIR/D3/$gff > $OUTDIR/D3_htseq_${bin}.counts
+done
+'
+# Sort the counts
+cd $OUTDIR
+for counts in D1_htseq*.counts
+do
+echo $counts
+grep -v "__" $counts | sort -k2rn > $OUTDIR/expression/${n}
+done
+
+# Sort the counts
+cd $OUTDIR
+for counts in D3_htseq*.counts
+do
+echo $counts
+grep -v "__" $counts | sort -k2rn > $OUTDIR/expression/${n}
 done
