@@ -50,7 +50,7 @@ mkdir $bin
 cd $bin
 htseq-count -f bam -t CDS -r pos -i ID $BAMDIR/D3_normalized.${bin}.fa_sorted.bam $SEQDIR/D3/$gff > $OUTDIR/D3_htseq_${bin}.counts
 done
-'
+
 # Sort the counts
 cd $OUTDIR
 for counts in D1_htseq*.counts
@@ -65,4 +65,59 @@ for counts in D3_htseq*.counts
 do
 echo $counts
 grep -v "__" $counts | sort -k2rn > $OUTDIR/expression/${counts}
+done
+'
+# Count the number of expressed genes and % expressed genes
+cd $SEQDIR/D1
+for gff in *.gff
+do
+echo $gff
+input=$gff
+echo $input
+noexp=0
+exp=0
+cat $input |while IFS= read -r line;
+do
+value=$(echo $line | cut -d ' ' -f2)
+if [ $value -eq 0 ]; then
+noexp=$[$noexp+1]
+else
+exp=$[$exp+1]
+fi
+echo "$exp $noexp" > "out.txt"
+done
+
+cd $SEQDIR
+exp=$(cut -d ' ' -f1 out.txt)
+noexp=$(cut -d ' ' -f2 out.txt)
+total=$(($exp+$noexp))
+totalexp=$(($exp*100/$total))
+echo "Bin $gff Expressed genes $exp and % expressed genes $totalexp \n" >> D1expressed.out
+done
+
+cd $SEQDIR/D3
+for gff in *.gff
+do
+echo $gff
+input=$gff
+echo $input
+noexp=0
+exp=0
+cat $input |while IFS= read -r line;
+do
+value=$(echo $line | cut -d ' ' -f2)
+if [ $value -eq 0 ]; then
+noexp=$[$noexp+1]
+else
+exp=$[$exp+1]
+fi
+echo "$exp $noexp" > "out.txt"
+done
+
+cd $SEQDIR
+exp=$(cut -d ' ' -f1 out.txt)
+noexp=$(cut -d ' ' -f2 out.txt)
+total=$(($exp+$noexp))
+totalexp=$(($exp*100/$total))
+echo "Bin $gff Expressed genes $exp and % expressed genes $totalexp \n" >> D3expressed.out
 done
