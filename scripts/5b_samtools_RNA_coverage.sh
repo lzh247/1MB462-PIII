@@ -20,12 +20,14 @@ OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA/statistics
 cd $SEQDIR
 for bam in D1_normalized.*.fa_sorted.bam
 do 
-samtools coverage $bam -o $OUTDIR/${bam}_coverage
-samtools depth $bam -o $OUTDIR/${bam}_depth
+#samtools coverage $bam -o $OUTDIR/${bam}_coverage
+#samtools depth $bam -o $OUTDIR/${bam}_depth
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
 done
 
 for bam in D3_normalized.*.fa_sorted.bam
 do 
-samtools coverage $bam -o $OUTDIR/${bam}_coverage
-samtools depth $bam -o $OUTDIR/${bam}_depth
+#samtools coverage $bam -o $OUTDIR/${bam}_coverage
+#samtools depth $bam -o $OUTDIR/${bam}_depth
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
 done
