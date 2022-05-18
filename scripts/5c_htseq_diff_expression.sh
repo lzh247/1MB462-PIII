@@ -56,7 +56,7 @@ cd $OUTDIR
 for counts in D1_htseq*.counts
 do
 echo $counts
-grep -v "__" $counts | sort -k2rn > $OUTDIR/expression/${n}
+grep -v "__" $counts | sort -k2rn > $OUTDIR/expression/${counts}
 done
 
 # Sort the counts
@@ -64,5 +64,5 @@ cd $OUTDIR
 for counts in D3_htseq*.counts
 do
 echo $counts
-grep -v "__" $counts | sort -k2rn > $OUTDIR/expression/${n}
+grep -v "__" $counts | sort -k2rn > $OUTDIR/expression/${counts}
 done
