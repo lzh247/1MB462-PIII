@@ -64,13 +64,13 @@ bwa mem -t 10 $file $RAWDIR/RNA_trim_39.left_paired.trimmed.fastq.gz $RAWDIR/RNA
 done
 done
 '
-cd $OUTDIR
+cd $OUTDIR/D1
 for bam in D1_normalized.*.fa_sorted.bam
 do 
 samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
 done
 
-cd $OUTDIR
+cd $OUTDIR/D3
 for bam in D3_normalized.*.fa_sorted.bam
 do 
 samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
