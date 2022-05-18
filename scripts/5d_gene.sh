@@ -65,13 +65,13 @@ done
 done
 '
 cd $OUTDIR/D1
-for bam in D1_normalized.*.fa_sorted.bam
+for bam in D1_normalized.*.fa_ann.out_sorted.bam
 do 
-samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/D1/${bam}_summary  
 done
 
 cd $OUTDIR/D3
-for bam in D3_normalized.*.fa_sorted.bam
+for bam in D3_normalized.*.fa_ann.out_sorted.bam
 do 
-samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/${bam}_summary  
+samtools stats $bam | grep ^SN | cut -f 2- > $OUTDIR/D3/${bam}_summary  
 done
