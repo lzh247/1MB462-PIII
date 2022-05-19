@@ -17,7 +17,7 @@ module load htseq samtools
 SEQDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/4_DNA_annotation/functional_eggnoggmapper"
 OUTDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA/htseq_out"
 BAMDIR="/proj/genomeanalysis2022/nobackup/work/lihu6475/5_mapping_RNA"
-: '
+
 # Index bam files
 cd $BAMDIR
 for bam in *.bam
